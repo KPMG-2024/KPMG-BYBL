@@ -9,10 +9,9 @@ import pandas as pd
 def main():
     SAVE_DIR = os.path.join('etc', 'data')
 
-    def __init__(self, SAVE_DIR):
-            if not os.path.exists(SAVE_DIR): # 폴더가 따로 없을 시, 만들어 줌
-                os.makedirs(os.path.join(SAVE_DIR, 'json'))
-                os.makedirs(os.path.join(SAVE_DIR, 'csv'))
+    if not os.path.exists(SAVE_DIR): # 폴더가 따로 없을 시, 만들어 줌
+        os.makedirs(os.path.join(SAVE_DIR, 'json'))
+        os.makedirs(os.path.join(SAVE_DIR, 'csv'))
 
     ranges = {
         "A": [(1, 3)],
