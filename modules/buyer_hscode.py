@@ -1084,7 +1084,6 @@ getNationLst = [
 
 def buy_collect(nation_name = '일본', hscode = '070910'):
 
-    # 경로 잘 바꿔주기
     example = pd.read_csv('/Users/taewonyun/Documents/GitHub/Prototype/etc/data/csv/istans_hscd.csv')
 
     example['industy_code'] = example['industy_code'].apply(lambda x: str(x).zfill(5))
@@ -1108,8 +1107,10 @@ def buy_collect(nation_name = '일본', hscode = '070910'):
     # Open the web page
     driver.get(url)
 
+    time.sleep(5)
+    
     # 국가 검색하는 곳에 국가 검색
-    nationNm_element = WebDriverWait(driver, 10).until(
+    nationNm_element = WebDriverWait(driver, 15).until(
         EC.presence_of_element_located((By.CSS_SELECTOR, "#nationNm"))
     )
 
@@ -1160,33 +1161,66 @@ def buy_collect(nation_name = '일본', hscode = '070910'):
     # 엘리먼트를 클릭하거나 다른 작업 수행
     level1.click()
 
-    level2 = WebDriverWait(driver, 20).until(
-        EC.presence_of_element_located((By.ID, f'a2Tag{str(industry_code_[2])}'))
-    )
+    level2_code = str(industry_code_[:3])
 
-    level2.click()
+    
+    level2 = WebDriverWait(driver, 20).until(
+        EC.presence_of_element_located((By.CSS_SELECTOR, '#twoStep'))
+        )
+    
+    time.sleep(1)
+    
+    for tag in level2.find_elements(By.TAG_NAME, "a"):
+        onclick_value = tag.get_attribute("onclick")
+        if level2_code in onclick_value:
+            tag.click()
+            break  # 원하는 링크를 찾았으므로 루프 종료
+
+    level3_code = str(industry_code_[:4])
 
     level3 = WebDriverWait(driver, 20).until(
-        EC.presence_of_element_located((By.ID, f'a3Tag{str(industry_code_[3])}'))
-    )
+        EC.presence_of_element_located((By.CSS_SELECTOR, '#threeStep'))
+        )
+    
+    time.sleep(1)
+    
+    for tag in level3.find_elements(By.TAG_NAME, "a"):
+        onclick_value = tag.get_attribute("onclick")
+        if level3_code in onclick_value:
+            tag.click()
+            break  # 원하는 링크를 찾았으므로 루프 종료
 
-    # Click the element
-    level3.click()
+    level4_code = str(industry_code_[:5])
 
     level4 = WebDriverWait(driver, 20).until(
-        EC.presence_of_element_located((By.CSS_SELECTOR, '#fourStep > a'))
-    )
+        EC.presence_of_element_located((By.CSS_SELECTOR, '#fourStep'))
+        )
+    
+    time.sleep(1)
 
-    level4.click()
+    for tag in level4.find_elements(By.TAG_NAME, "a"):
+        onclick_value = tag.get_attribute("onclick")
+        if level4_code in onclick_value:
+            tag.click()
+            break  # 원하는 링크를 찾았으므로 루프 종료
+
+    time.sleep(0.5)
 
     # 아무 엘레먼트나 클릭해서 엔터키를 누르면 검색이 됨.
     nationNm_element.send_keys(Keys.ENTER)
 
+    time.sleep(1)
+
     try:
         # 첫 번째 바이어가 나타날 때까지 기다림. 만약 3초 안에 처리하면 바이어가 보통 0명인 경우라 잘 처리해주면 됨.
-        element = WebDriverWait(driver, 3).until(
-            EC.presence_of_element_located((By.CSS_SELECTOR, '#buyerTbody > tr:nth-child(1) > td.t_l'))
+        element = WebDriverWait(driver, 5).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, '#pagingId > a.current'))
         )
+
+        if element.text == '0':
+            print('바이어가 0건 입니다.')
+            driver.quit()
+            return
 
     except TimeoutException:
         # 예외가 발생하면 로딩이 오래 걸린다는 의미이므로 넉넉하게 시간을 다시 줌.
@@ -1199,6 +1233,8 @@ def buy_collect(nation_name = '일본', hscode = '070910'):
     em_element = driver.find_element(By.CSS_SELECTOR, "span.board_total em")
 
     result_text = em_element.text
+
+    time.sleep(1)
 
     element = driver.find_element(By.CSS_SELECTOR, "#pagingId > a.btn_prev")
 
@@ -1232,9 +1268,9 @@ def buy_collect(nation_name = '일본', hscode = '070910'):
                     # Check for duplicates before adding to the list
                     if new_data not in request_list:
                         request_list.append(new_data)
-                        
+
             for item in request_list[0]['selectBuyerList']:
-                
+        
                 # 해당 국가명과 산업코드는 고유한 값으로 해주기 (혹시나 겹칠까봐, 키 이름 바꾸어도 괜찮음)
                 item['nation_name_unique'] = nation_name_
 
@@ -1269,6 +1305,8 @@ def buy_collect(nation_name = '일본', hscode = '070910'):
 
     with open(f'Buyer_list_{nation_name_}_{hscode}.json', 'w') as f:
         json.dump(request_list, f, ensure_ascii=False, indent=1)
+    
+    driver.quit()
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     buy_collect()
