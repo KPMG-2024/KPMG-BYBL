@@ -4,7 +4,12 @@ import json
 import os
 import requests
 import pandas as pd
+import time
 
+def collect_hscode(hscode):
+    hscode_info = json.loads(requests.get(f'https://www.kotra.or.kr/bigdata/bhrcMarket/hsName?hsCode={str(hscode)}').text)
+
+    return hscode_info
 
 def main():
     SAVE_DIR = os.path.join('etc', 'data')
@@ -127,8 +132,20 @@ def main():
             }
             results.append(result)
 
-    hs_istans = pd.DataFrame(results).drop_duplicates(subset=['industy_code','hscode'])
+    hs_istans = pd.DataFrame(results).drop_duplicates(subset=['industy_code','hscode']).reset_index(drop=True)
 
+    for idx in tqdm(range(len(hs_istans))):
+         
+        hscode_info = collect_hscode(hs_istans.loc[idx,'hscode'])
+
+        hsName = hscode_info['hsName']
+
+        parentHsName = hscode_info['parentHsName']
+
+        hs_istans.loc[idx,'hsName'] = hsName
+
+        hs_istans.loc[idx,'parentHsName'] = parentHsName
+  
     hs_istans.to_csv(os.path.join(SAVE_DIR, 'csv', 'istans_hscd.csv'), index=False, encoding='utf-8')
 
 if __name__ == '__main__':
