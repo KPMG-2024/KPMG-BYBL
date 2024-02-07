@@ -1272,12 +1272,12 @@ def buy_collect(nation_name = '일본', hscode = '070910'):
             # 해당 국가명과 산업코드는 고유한 값으로 해주기 (혹시나 겹칠까봐, 키 이름 바꾸어도 괜찮음)
 
             for item in request_list:
-                for item2 in item:
+                for item2 in item['selectBuyerList']:
                     item2['nation_name_unique'] = nation_name_
 
                     item2['industry_code_unique'] = industry_code_
 
-                    item2['hscode_uid'] = industry_code_
+                    item2['hscode_uid'] = hscode
 
             with open(f'Buyer_list_{nation_name_}_{hscode}.json', 'w') as f:
                 json.dump(request_list, f, ensure_ascii=False, indent=1)
@@ -1301,12 +1301,12 @@ def buy_collect(nation_name = '일본', hscode = '070910'):
 
     # 해당 국가명과 산업코드는 고유한 값으로 해주기 (혹시나 겹칠까봐, 키 이름 바꾸어도 괜찮음)
     for item in request_list:
-        for item2 in item:
+        for item2 in item['selectBuyerList']:
             item2['nation_name_unique'] = nation_name_
 
             item2['industry_code_unique'] = industry_code_
 
-            item2['hscode_uid'] = industry_code_
+            item2['hscode_uid'] = hscode
 
 
 
