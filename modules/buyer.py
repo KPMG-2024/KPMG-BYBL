@@ -1222,9 +1222,15 @@ def buy_collect(nation_name = '일본', industry_code = '01121'):
                     if new_data not in request_list:
                         request_list.append(new_data)
 
-            with open(f'Buyer_list_{nation_name_}_backup.json', 'w') as f:
+            for item in request_list[0]['selectBuyerList']:
+        
+                # 해당 국가명과 산업코드는 고유한 값으로 해주기 (혹시나 겹칠까봐, 키 이름 바꾸어도 괜찮음)
+                item['nation_name_unique'] = nation_name_
+
+                item['industry_code_unique'] = industry_code_
+
+            with open(f'Buyer_list_{nation_name_}_{industry_code_}.json', 'w') as f:
                 json.dump(request_list, f, ensure_ascii=False, indent=1)
-                        
 
     # post된 정보를 다 가져옴
     request_list= []
@@ -1249,7 +1255,7 @@ def buy_collect(nation_name = '일본', industry_code = '01121'):
 
         item['industry_code_unique'] = industry_code_
 
-    with open(f'Buyer_list_{nation_name_}.json', 'w') as f:
+    with open(f'Buyer_list_{nation_name_}_{industry_code_}.json', 'w') as f:
         json.dump(request_list, f, ensure_ascii=False, indent=1)
 
 if __name__ == "__main__":

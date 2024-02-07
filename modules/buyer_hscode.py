@@ -1232,8 +1232,15 @@ def buy_collect(nation_name = '일본', hscode = '070910'):
                     # Check for duplicates before adding to the list
                     if new_data not in request_list:
                         request_list.append(new_data)
+                        
+            for item in request_list[0]['selectBuyerList']:
+                
+                # 해당 국가명과 산업코드는 고유한 값으로 해주기 (혹시나 겹칠까봐, 키 이름 바꾸어도 괜찮음)
+                item['nation_name_unique'] = nation_name_
 
-            with open(f'Buyer_list_{nation_name_}_backup.json', 'w') as f:
+                item['industry_code_unique'] = industry_code_
+
+            with open(f'Buyer_list_{nation_name_}_{hscode}.json', 'w') as f:
                 json.dump(request_list, f, ensure_ascii=False, indent=1)
                         
 
