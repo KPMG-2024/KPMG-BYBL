@@ -131,7 +131,7 @@ if __name__ == "__main__":
     ocr = OCRTool()
 
     sample = "sample/멕시코.pdf" # 샘플 데이터
-    sample_pdf_layout, sample_pdf_images = ocr.load_pdf(sample)
+    sample_pdf_layout, sample_pdf_images = ocr.load_pdf(sample) # 데이터 로드
     result = ocr.convert_to_text(sample_pdf_layout, sample_pdf_images) # convert
     ocr.save_data(result, "멕시코", 'txt') # save csv
     ocr.save_data(result, "멕시코", 'json') # save json
