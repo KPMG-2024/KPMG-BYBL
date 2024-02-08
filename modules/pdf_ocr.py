@@ -1,3 +1,15 @@
+import os, pickle, cv2
+import numpy as np
+import pandas as pd
+import layoutparser as lp
+import PIL
+from tqdm import tqdm
+import warnings
+from glob import glob
+from tqdm import tqdm
+from typing import List, Tuple, Union
+import json
+
 class OCRTool:
     SAVE_DIR = os.path.join('data', 'text')
 
@@ -19,11 +31,32 @@ class OCRTool:
             print(e)
     
     @staticmethod
-    def save_data(data: str, file_name: str) -> None:
+    def save_data(data: str, file_name: str, file_type="txt") -> None:
+        file_fullname = f"{file_name}.{file_type}"
         """문자열을 텍스트 파일로 저장"""
-        with open(os.path.join(OCRTool.SAVE_DIR, file_name), 'w') as file:
-            file.write(data)
-
+        if file_type == "txt":
+            with open(os.path.join(OCRTool.SAVE_DIR, file_fullname), 'w') as file:
+                file.write(data)
+            return
+            
+        if file_type == "json":
+            with open(os.path.join(OCRTool.SAVE_DIR, file_fullname), 'w') as json_file:
+                page_list = OCRTool.page_delimiter(data)
+                tmp_list = []
+                for page in page_list:
+                    tmp_list.append([{"file_name" : file_name, "page": page}])
+                json.dump([{"file_name": file_name, "page": page_list}], json_file, ensure_ascii=False, indent=1)
+            return
+            
+        raise Exception(f"타입 오류")
+        
+    @staticmethod
+    def page_delimiter(text: str, delimiter: str = None) -> List:
+        """page단위별로 나누어주는 메서드"""
+        if delimiter == None:
+            delimiter = "\n==============================\n"
+        return text.split(delimiter)\
+        
     def process_page(self, pdf_layout: List, pdf_images: List) -> List[dict]:
         """각 페이지의 텍스트 레이아웃을 처리하고 페이지 구조를 반환."""
         pages = []
@@ -68,10 +101,15 @@ class OCRTool:
                         pdf_content_text += content + '\n'
                     elif section['type'] == 'Table':
                         content = ' '.join(section['words']['text']) if 'text' in section['words'] else ''
-                        if '업종' in content:
-                            pdf_content_text += "## 종목현황 ##\n" + content + '\n#### 닫음 : 종목현황 ####\n'
+                        pdf_content_text += content + '\n'
+                    elif section['type'] == 'List':
+                        content = ' '.join(section['words']['text']) if 'text' in section['words'] else ''
+                        pdf_content_text += content + '\n'
+                    elif section['type'] == 'Figure':
+                        content = ' '.join(section['words']['text']) if 'text' in section['words'] else ''
+                        pdf_content_text += content + '\n'
             
-            # 페이지가 끝날 때마다 bar 붙임
+            # 페이지 내용이 유효하며, 페이지가 끝날 때마다 bar 붙임
             pdf_content_text += "\n==============================\n"
         return pdf_content_text
 
@@ -87,11 +125,13 @@ class OCRTool:
         pdf_content_text = self.extract_pdf_content(pages)
         return pdf_content_text
 
+
 # 예시 코드
 if __name__ == "__main__":
-    ocr = OCRTool();
+    ocr = OCRTool()
 
-    sample= "sample/232023베트남비즈니스팁.pdf" # 샘플 데이터
-    sample_pdf_layout, sample_pdf_images = ocr.load_pdf(sample) # pdf load
+    sample = "sample/멕시코.pdf" # 샘플 데이터
+    sample_pdf_layout, sample_pdf_images = ocr.load_pdf(sample)
     result = ocr.convert_to_text(sample_pdf_layout, sample_pdf_images) # convert
-    ocr.save_data(result, "232023베트남비즈니스팁.txt") # save
+    ocr.save_data(result, "멕시코", 'txt') # save csv
+    ocr.save_data(result, "멕시코", 'json') # save json
