@@ -4,10 +4,10 @@ import torch
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-model = AutoModelForSequenceClassification.from_pretrained("ytaewon0415/xlm-roberta-filter-news", num_labels=2)
+model = AutoModelForSequenceClassification.from_pretrained("hamzzi/xlm-roberta-filter-news", num_labels=2)
 
 model.to(device)
-tokenizer = AutoTokenizer.from_pretrained("ytaewon0415/xlm-roberta-filter-news")
+tokenizer = AutoTokenizer.from_pretrained("hamzzi/xlm-roberta-filter-news")
 
 with open('/Users/taewonyun/Documents/GitHub/Prototype/data_collection/kotra_commodity_info_0207.json','r', encoding='utf-8') as f:
     kotra_commodity_info = json.load(f)
