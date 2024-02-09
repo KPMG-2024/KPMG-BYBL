@@ -175,14 +175,15 @@ class KotraNewsClient(DataCollection):
             url = KotraNewsClient.CONTENT_URL + params
             response = response = KotraNewsClient.request(url, method='GET') # 데이터 요청
             html_content = response.text
+            
             try:
                 parsed_text = KotraNewsClient.parse_html_content(html_content)
+                item['content'] = parsed_text
+                content_list.append(item)
             except:
                 print("해당 데이터는 파싱 중 오류가 발생해 스킵합니다")
-                continue
             
-            item['content'] = parsed_text
-            content_list.append(item)
+
         
         return content_list
             

@@ -1,6 +1,6 @@
 {
     "country": "태국",
-    "last_updated": "2024-02-10T00:43:00.486752+09:00",
+    "last_updated": "2024-02-10T00:59:48.505065+09:00",
     "data": [
         {
             "NAT": "태국",
@@ -69,7 +69,7 @@
             "GROUP_SN": 210552,
             "OTHBC_DT_NM": "2023-12-28",
             "RNUM": 3,
-            "RDCNT": 381,
+            "RDCNT": 382,
             "CMMNT_CNT": 0,
             "REGTR_NAME": "구슬",
             "REGN": "아시아",
@@ -106,7 +106,7 @@
             "GROUP_SN": 210411,
             "OTHBC_DT_NM": "2023-12-27",
             "RNUM": 4,
-            "RDCNT": 96,
+            "RDCNT": 97,
             "CMMNT_CNT": 0,
             "REGTR_NAME": "이태형",
             "REGN": "아시아",
