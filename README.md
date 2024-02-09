@@ -12,8 +12,8 @@ data-collection
 │   └── ...
 ├── config
 │   ├── base_data                    # 향후 수집의 기초가 되는 root data
-│   │   ├── istans_hscd.csv
-│   │   └── market_data.json
+│   │   ├── istans_hscd_info.csv
+│   │   └── istans_hscd.json
 │   └── ...
 └── output                           # 수집 결과 모듈
     ├── kotra                        # 코트라에서 추출한 데이터
