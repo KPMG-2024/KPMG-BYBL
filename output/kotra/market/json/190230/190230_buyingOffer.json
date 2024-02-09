@@ -1,0 +1,29 @@
+{
+    "code": "190230",
+    "data": [
+        {
+            "entyId": null,
+            "buyerId": null,
+            "hscd": null,
+            "regDt": null,
+            "dataRegDt": null,
+            "oferNm": "[Instant Noodles] Food"
+        },
+        {
+            "entyId": null,
+            "buyerId": null,
+            "hscd": null,
+            "regDt": null,
+            "dataRegDt": null,
+            "oferNm": "라면 생산 공장 찾음"
+        },
+        {
+            "entyId": null,
+            "buyerId": null,
+            "hscd": null,
+            "regDt": null,
+            "dataRegDt": null,
+            "oferNm": "Ramen Noodles and snacks"
+        }
+    ]
+}
