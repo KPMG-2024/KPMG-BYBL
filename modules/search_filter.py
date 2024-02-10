@@ -126,7 +126,7 @@ for item in tqdm(buyer_search_result):
         search_result['relevant'] = True
         
         try:
-            response = requests.get(link, timeout=10)
+            response = requests.get(link, timeout=10, headers={"User-Agent": "Mozilla/5.0"})
     
             response.raise_for_status()  # HTTP 오류가 발생하면 예외를 발생시킵니다.
     
