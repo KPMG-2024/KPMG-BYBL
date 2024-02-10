@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 from transformers import AutoModelForSequenceClassification, AutoTokenizer
 import torch
 
-GOOGLE_API_KEY = ""
+GOOGLE_API_KEY = "AIzaSyANQCxdSmle37PXKn57KT-499dW6VwG9gk"
 # 
 def check_tokens(string: str) -> str:
     """Truncates a text string based on max number of tokens."""
@@ -75,12 +75,10 @@ model = AutoModelForSequenceClassification.from_pretrained("hamzzi/xlm-roberta-f
 model.to(device)
 tokenizer = AutoTokenizer.from_pretrained("hamzzi/xlm-roberta-filter-search")
 
-with open('/home/disl/mnt/mydisk/Robust_sum/buyer_search_result.json', 'r', encoding='utf-8') as f:
+with open('/backup/taewon/Robust_sum/data/example2.json', 'r', encoding='utf-8') as f:
     buyer_search_result = json.load(f)
 
-writer = open('buyer_data_search.json', 'w', encoding='utf-8')
-
-deployment_name = '208c3745-0aaa-47be-8abb-7868edcee7f5'
+writer = open('example2.json', 'w', encoding='utf-8')
 
 # 해당 사이트는 크롤링을 허용하지 않는 경우가 있으므로, 크롤링을 허용하지 않는 사이트는 제외합니다.
 excluded_links = ['twitter', 'linkedin', 'facebook']
@@ -128,7 +126,11 @@ for item in tqdm(buyer_search_result):
         search_result['relevant'] = True
         
         try:
-            Link_html = requests.get(link).text
+            response = requests.get(link, timeout=10)
+    
+            response.raise_for_status()  # HTTP 오류가 발생하면 예외를 발생시킵니다.
+    
+            Link_html = response.text
 
             # BeautifulSoup을 사용하여 HTML 파싱
             soup = BeautifulSoup(Link_html, 'html.parser')
@@ -138,6 +140,10 @@ for item in tqdm(buyer_search_result):
                 script.extract()
             
             Link_html = soup.prettify()
+
+        except requests.Timeout:
+            Link_html = False
+            print("요청 시간 초과되었습니다.")
 
         except requests.RequestException as e:
             Link_html = False
