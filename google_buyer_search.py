@@ -3,8 +3,11 @@ import pandas as pd
 import json
 import requests
 import time
+import dotenv # 환경변수 프로젝트 단위로 불러오기
 from typing import Dict, List
 from modules.data_collection import DataCollection
+dotenv_file = dotenv.find_dotenv('../config/.env')
+dotenv.load_dotenv(dotenv_file)
 
 class BuyerSearchClient(DataCollection):
     """구글 API를 활용해 구글 검색 기능 제공
@@ -15,14 +18,14 @@ class BuyerSearchClient(DataCollection):
     """
     # API에 사용될 키값 
     ## TODO: 향후 리팩토링 할 예정
-    Google_SEARCH_ENGINE_ID = ''
-    Google_API_KEY = ''
-    Google_GEMINI_KEY = ''
+    GOOGLE_SEARCH_ENGINE_ID = os.environ.get("GOOGLE_SEARCH_ENGINE_ID")
+    GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY")
+    GOOGLE_GEMINI_API_KEY = os.environ.get("GOOGLE_GEMINI_API_KEY")
     
     GOOGLE_SEARCH_ENDPOINT = "https://www.googleapis.com/customsearch/v1"
     GEMINI_ENDPOINT = "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent"
 
-    SAVE_DIR = os.path.join('output', 'google', 'buyer_info')
+    SAVE_DIR = os.path.join('raw', 'google', 'buyer_info')
     Trash_Link = ["youtube"] # 검색 대상에서 제외되는 사이트
     def __init__(self) -> None:
         if not os.path.exists(BuyerSearchClient.SAVE_DIR):  # 폴더가 따로 없을 시, 만들어 줌
@@ -104,8 +107,8 @@ class BuyerSearchClient(DataCollection):
             # &cr=countryUS &lr=lang_en 넣으면 국가, 언어 설정 가능
             url = BuyerSearchClient.GOOGLE_SEARCH_ENDPOINT
             params = {
-                'key': BuyerSearchClient.Google_API_KEY,
-                'cx': BuyerSearchClient.Google_SEARCH_ENGINE_ID,
+                'key': BuyerSearchClient.GOOGLE_API_KEY,
+                'cx': BuyerSearchClient.GOOGLE_SEARCH_ENGINE_ID,
                 'q': query,
                 'start': start_page
             }
@@ -168,7 +171,7 @@ class BuyerSearchClient(DataCollection):
             try:
                 time.sleep(2)
                 url = BuyerSearchClient.GEMINI_ENDPOINT
-                params = {'key': BuyerSearchClient.Google_GEMINI_KEY}
+                params = {'key': BuyerSearchClient.GOOGLE_GEMINI_API_KEY}
                 data = {
                         "contents": [{
                             "parts": [{
@@ -240,7 +243,7 @@ class BuyerSearchClient(DataCollection):
             # 검색 결과 저장
             item['search_result'] = search_result
             search_data.append(item)
-        buyer_data['data'] = search_data # 기존 데이터에서 구글 검색 결과 추가한 데이터 갠신
+        buyer_data['data'] = search_data # 기존 데이터에서 구글 검색 결과 추가한 데이터 갱신
         return buyer_data
 
 if __name__ == "__main__":

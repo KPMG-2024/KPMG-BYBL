@@ -26,7 +26,7 @@ class KsureBuyerClient():
     바이어를 검색할 때, 분류 코드가 없어서 다음으로 넘어가지 못하는 현상 발생(ex. 중국-21101)
     """
     
-    SAVE_DIR = os.path.join('output', 'ksure', 'buyer_list')
+    SAVE_DIR = os.path.join('raw', 'ksure', 'buyer_list')
     BASE_URL = 'https://www.ksure.or.kr:8443/research/buyer/buyerView.do'
     
     def __init__(self, mapping_data: str = None) -> None:

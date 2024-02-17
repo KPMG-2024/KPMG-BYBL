@@ -2,6 +2,7 @@ import os
 import requests
 import json
 import pandas as pd
+import time
 from tqdm import tqdm
 from bs4 import BeautifulSoup
 from datetime import datetime
@@ -18,7 +19,7 @@ class KotraNewsClient(DataCollection):
     3. 수집한 데이터는 각 국가별로 폴더를 생성해 json파일에 저장
     """
     
-    SAVE_DIR = os.path.join('output', 'kotra', 'news')
+    SAVE_DIR = os.path.join('raw', 'kotra', 'news')
     BASE_URL = 'https://dream.kotra.or.kr/ajaxf/frNews/getKotraBoardList.do'
     CONTENT_URL = 'https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDownDetail.do?MENU_ID=170'
     
@@ -61,7 +62,7 @@ class KotraNewsClient(DataCollection):
         country = data[0]['NAT'] # 국가 추출          
         # json파일 형식 저장
         if file_type == "json":
-            save_path = os.path.join(cls.SAVE_DIR, 'json', f'{country}', f'{country}.json')
+            save_path = os.path.join(cls.SAVE_DIR, 'json', f'{country}.json')
             os.makedirs(os.path.dirname(save_path), exist_ok=True) # 없을 경우 디렉토리 생성해주고 있으면 예외 일으키지 않고 넘어감
             with open(save_path, 'w', encoding='utf-8') as json_file:
                 json.dump({"country": country,
@@ -180,11 +181,12 @@ class KotraNewsClient(DataCollection):
                 parsed_text = KotraNewsClient.parse_html_content(html_content)
                 item['content'] = parsed_text
                 content_list.append(item)
+                time.sleep(1.5)
             except:
                 print("해당 데이터는 파싱 중 오류가 발생해 스킵합니다")
             
 
-        
+            
         return content_list
             
 if __name__ == "__main__":

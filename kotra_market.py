@@ -15,7 +15,7 @@ class KotraMarketDataClient(DataCollection):
 
     """
     
-    SAVE_DIR = os.path.join('output', 'kotra', 'market')
+    SAVE_DIR = os.path.join('raw', 'kotra', 'market')
     BASE_URL = 'https://www.kotra.or.kr/bigdata/bhrcMarket'
 
     def __init__(self):

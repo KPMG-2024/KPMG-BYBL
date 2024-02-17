@@ -1,5 +1,0 @@
-code,baseYr,mticd,itcNatCd,natName,impAmt,expAmt,korImpAmt,korExpAmt,korImpMkshRate,impMkshRate,impGrowthRate,expMkshRate,expGrowthRate,impMkshRateChngVal,impGrowthRateChngVal,yr2GrowthRate,yr5GrowthRate,expEntpCnt,impCntryCnt,buyerCnt,byoffrCnt,dataRegDt,hscd,cmdltNm,cmdltParentNm,cmdltGrParentNm,quCd,rank,tradeBal,baseYm,tradeType,predRank,avgTarifRate,korExpsttAmt,korExpsttTotalAmt,popltnVal,gdpVal,isoWd2NatCd,kcskorImpAmt,predAmt,resnCnt
-190230,2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,612041093.0,,,,,,
-190230,2020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,792254567.0,,,,,,
-190230,2021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,891149259.0,,,,,,
-190230,2022,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,978361043.0,,,,,,

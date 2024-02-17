@@ -1,6 +1,7 @@
 import os
 import requests
 import json
+import time
 import pandas as pd
 from bs4 import BeautifulSoup
 from tqdm import tqdm
@@ -26,6 +27,9 @@ class HSCodeIndustryClient(DataCollection):
     def __init__(self) -> None:
         if not os.path.exists(self.SAVE_DIR):  # 폴더가 따로 없을 시, 만들어 줌
             os.makedirs(self.SAVE_DIR)
+        if os.path.exists(os.path.join(self.SAVE_DIR, "istans_hscd_info.csv")): # 파일 존재할 시
+            raise Exception
+            
 
     @classmethod
     def request(cls, url: str) -> requests.Response:
@@ -98,13 +102,35 @@ class HSCodeIndustryClient(DataCollection):
 
             hs_istans = pd.DataFrame(results).drop_duplicates(subset=['industry_code', 'hscode']).reset_index(drop=True)
 
-            for idx in tqdm(range(len(hs_istans))):
-                # hscode에 대한 상세정보를 가져옴
-                hscode_info = cls.collect_hscode_info(hs_istans.loc[idx, 'hscode'])
-                hsName = hscode_info['hsName']  # hscode 이름
-                parentHsName = hscode_info['parentHsName']  # 상위 hscode 이름
-                hs_istans.loc[idx, 'hsName'] = hsName
-                hs_istans.loc[idx, 'parentHsName'] = parentHsName
+            idx = 0;
+            while(idx < len(hs_istans)):
+                try:
+                    hscode_info = cls.collect_hscode_info(hs_istans.loc[idx, 'hscode'])
+                    hsName = hscode_info['hsName']  # hscode 이름
+                    parentHsName = hscode_info['parentHsName']  # 상위 hscode 이름
+                    hs_istans.loc[idx, 'hsName'] = hsName
+                    hs_istans.loc[idx, 'parentHsName'] = parentHsName
+                    time.sleep(0.2)
+                    idx += 1
+                    
+                    if idx == 100:
+                        print(f"{idx}개 수집완료")
+                        time.sleep(2)
+                except:
+                    print("과도한 request요청으로 time sleep")
+                    idx += 1
+                    time.sleep(20)
+            # for idx in tqdm(range(len(hs_istans))):
+            #     # hscode에 대한 상세정보를 가져옴
+            #     hscode_info = cls.collect_hscode_info(hs_istans.loc[idx, 'hscode'])
+            #     hsName = hscode_info['hsName']  # hscode 이름
+            #     parentHsName = hscode_info['parentHsName']  # 상위 hscode 이름
+            #     hs_istans.loc[idx, 'hsName'] = hsName
+            #     hs_istans.loc[idx, 'parentHsName'] = parentHsName
+            #     # 과도한 request 방지
+            #     if (idx % 50 == 0):
+            #         time.sleep(2.5)
+                
             # 저장
             hs_istans.to_csv(os.path.join(cls.SAVE_DIR, 'istans_hscd_info.csv'), index=False, encoding='utf-8')
 
@@ -181,6 +207,9 @@ class HSCodeIndustryClient(DataCollection):
             if result is not None:
                 matching_data.append(result)
 
+            # 과도한 request 방지
+            if (idx % 100 == 0):
+                time.sleep(2)
         return matching_data
 
 
