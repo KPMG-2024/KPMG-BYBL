@@ -62,7 +62,7 @@ class KotraMarketDataClient(DataCollection):
                 df = pd.DataFrame({"code": data["code"]}, index=[0]); # 데이터가 하나도 없을 경우 대비하여
             else:
                 df = df[['code'] + [col for col in df.columns if col != 'code']]
-            save_path = os.path.join(cls.SAVE_DIR, 'csv', f'{hs_code}', f'{hs_code}_{key}.json')
+            save_path = os.path.join(cls.SAVE_DIR, 'csv', f'{hs_code}', f'{hs_code}_{key}.csv')
             os.makedirs(os.path.dirname(save_path), exist_ok=True) # 없을 경우 디렉토리 생성해주고 있으면 예외 일으키지 않고 넘어감
             df.to_csv(save_path, index=False, encoding='utf-8')
             return
