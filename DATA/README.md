@@ -48,7 +48,7 @@
 │   └── ksure
 │       └── buyer_list      
 │
-└── output                      # 원천 데이터를 전처리, 가공한 raw 데이터
+└── output                      # 원천 데이터를 전처리, 가공한 최종 데이터
     ├── buyer
     │   └── json
     ├── commodity
