@@ -21,6 +21,7 @@ class CommodityFilter():
     """
     코트라 상품관련 뉴스, pdf보고서를 추출하기 위한 코드
     """
+    
     SOURCE_DIR = os.path.join('raw', 'kotra', 'news', 'json')
     SAVE_DIR = os.path.join('output', 'commodity', 'json')
     GOOGLE_GEMINI_API_KEY = os.environ.get("GOOGLE_GEMINI_API_KEY")
@@ -29,7 +30,6 @@ class CommodityFilter():
     DEPLOYMENT_NAME = os.environ.get("DEPLOYMENT_NAME")
     ADA2_EMBEDDING_API_KEY = os.environ.get("ADA2_EMBEDDING_API_KEY")
     ADA2_EMBEDDING_API_VERSION = os.environ.get("ADA2_EMBEDDING_API_VERSION")
-    # 해당 사이트는 크롤링을 허용하지 않는 경우가 있으므로, 크롤링을 허용하지 않는 사이트는 제외합니다.
 
     def __init__(self) -> None:
         if not os.path.exists(CommodityFilter.SAVE_DIR):

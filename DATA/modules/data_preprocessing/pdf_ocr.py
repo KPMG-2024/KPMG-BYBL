@@ -23,6 +23,12 @@ class OCRPreprocessing:
     MONGODB_URL = os.environ.get("MONGODB_URL")
     SOURCE_DIR = os.path.join('raw', 'kotra', 'country_report')
     SAVE_DIR = os.path.join('output', 'country_report')
+    
+    # embedding용 azure openai 환경변수
+    AZURE_ENDPOINT = os.environ.get("AZURE_ENDPOINT")
+    DEPLOYMENT_NAME = os.environ.get("DEPLOYMENT_NAME")
+    ADA2_EMBEDDING_API_KEY = os.environ.get("ADA2_EMBEDDING_API_KEY")
+    ADA2_EMBEDDING_API_VERSION = os.environ.get("ADA2_EMBEDDING_API_VERSION")
 
     def __init__(self):
         if not os.path.exists(os.path.join(OCRPreprocessing.SAVE_DIR, 'txt')):
