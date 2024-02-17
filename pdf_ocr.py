@@ -3,19 +3,28 @@ import numpy as np
 import pandas as pd
 import layoutparser as lp
 import PIL
-from tqdm import tqdm
-import warnings
-from glob import glob
-from tqdm import tqdm
-from typing import List, Tuple, Union
 import json
+import warnings
+from tqdm import tqdm
+from glob import glob
+from tqdm.auto import tqdm
+from typing import *
+from pymongo import MongoClient
+import dotenv # 환경변수 프로젝트 단위로 불러오기
 
-class OCRTool:
-    SAVE_DIR = os.path.join('data', 'text')
+dotenv_file = dotenv.find_dotenv(os.path.join('config', '.env'))
+dotenv.load_dotenv(dotenv_file)
+
+class OCRPreprocessing:
+    MONGODB_URL = os.environ.get("MONGODB_URL")
+    SOURCE_DIR = os.path.join('raw', 'kotra', 'country_report')
+    SAVE_DIR = os.path.join('output', 'country_report')
 
     def __init__(self):
-        if not os.path.exists(OCRTool.SAVE_DIR):
-            os.makedirs(OCRTool.SAVE_DIR)
+        if not os.path.exists(os.path.join(OCRPreprocessing.SAVE_DIR, 'txt')):
+            os.makedirs(os.path.join(OCRPreprocessing.SAVE_DIR, 'txt'))
+        if not os.path.exists(os.path.join(OCRPreprocessing.SAVE_DIR, 'json')):
+            os.makedirs(os.path.join(OCRPreprocessing.SAVE_DIR, 'json'))
         self.model = lp.Detectron2LayoutModel('lp://PubLayNet/faster_rcnn_R_50_FPN_3x/config',
                                               extra_config=["MODEL.ROI_HEADS.SCORE_THRESH_TEST", 0.6],
                                               label_map={0: "Text", 1: "Title", 2: "List", 3:"Table", 4:"Figure"})
@@ -23,33 +32,65 @@ class OCRTool:
     @staticmethod
     def load_pdf(file_name: str) -> Tuple[List, List]:
         """데이터 로드"""
-        pdf_path = os.path.abspath(file_name)
+        file_path = os.path.abspath(os.path.join(OCRPreprocessing.SOURCE_DIR, file_name)) # 상대경로 하면 오류가 생겨서 절대경로로 함
         try:
-            pdf_layout, pdf_images = lp.load_pdf(pdf_path, load_images=True,use_text_flow=True,dpi=144)
+            pdf_layout, pdf_images = lp.load_pdf(file_path, load_images=True,use_text_flow=True,dpi=144)
             return (pdf_layout, pdf_images)
         except FileNotFoundError as e:
             print(e)
     
     @staticmethod
-    def save_data(data: str, file_name: str, file_type="txt") -> None:
+    def save_tmp_data(country: str, data: str, file_name: str, file_type="txt") -> None:
         file_fullname = f"{file_name}.{file_type}"
         """문자열을 텍스트 파일로 저장"""
         if file_type == "txt":
-            with open(os.path.join(OCRTool.SAVE_DIR, file_fullname), 'w') as file:
+            with open(os.path.join(OCRPreprocessing.SAVE_DIR, 'txt', file_fullname), 'w') as file:
                 file.write(data)
             return
             
         if file_type == "json":
-            with open(os.path.join(OCRTool.SAVE_DIR, file_fullname), 'w') as json_file:
-                page_list = OCRTool.page_delimiter(data)
+            with open(os.path.join(OCRPreprocessing.SAVE_DIR, 'json', file_fullname), 'w') as json_file:
+                page_list = OCRPreprocessing.page_delimiter(data)
                 tmp_list = []
                 for page in page_list:
                     tmp_list.append([{"file_name" : file_name, "page": page}])
-                json.dump([{"file_name": file_name, "page": page_list}], json_file, ensure_ascii=False, indent=1)
+                json.dump({"country": country, "file_name": file_name, "page": page_list}, json_file, ensure_ascii=False, indent=4)
             return
             
         raise Exception(f"타입 오류")
+    
+    @staticmethod        
+    def save_data():
+        """데이터를 몽고DB에 적재"""
+        # 몽고 DB 클라이언트 설정
+        client = MongoClient(OCRPreprocessing.MONGODB_URL)
+        # Specify the database and collection
         
+        db = client["hscode"]
+        collection = db["commodity"]
+        
+        # 저장되어 있는 임시파일 로드
+        json_data_list = []
+        for root, _, files in os.walk(os.path.join(OCRPreprocessing.SAVE_DIR, 'json')):
+            # 디렉토리에 존재하는 파일 로드
+            for file in files:
+                if file.endswith('.json'):
+                    file_path = os.path.join(root, file)
+                    with open(file_path, 'r', encoding='utf-8') as f:
+                        json_data_list.append(json.load(f)) #데이터만 따로 저장
+
+        for item in json_data_list:
+            # MongoDB Atlas에 데이터 삽입
+            try:
+                collection.insert_one(item)
+                print("Item inserted successfully into MongoDB Atlas")
+            except Exception as e:
+                print(f"An error occurred while inserting the item into MongoDB Atlas: {e}")
+
+        # MongoDB 클라이언트 종료
+        client.close()
+    
+    
     @staticmethod
     def page_delimiter(text: str, delimiter: str = None) -> List:
         """page단위별로 나누어주는 메서드"""
@@ -128,10 +169,10 @@ class OCRTool:
 
 # 예시 코드
 if __name__ == "__main__":
-    ocr = OCRTool()
+    ocr = OCRPreprocessing()
 
-    sample = "sample/멕시코.pdf" # 샘플 데이터
+    sample = "output/kotra/foreign_report/멕시코.pdf" # 샘플 데이터
     sample_pdf_layout, sample_pdf_images = ocr.load_pdf(sample) # 데이터 로드
     result = ocr.convert_to_text(sample_pdf_layout, sample_pdf_images) # convert
-    ocr.save_data(result, "멕시코", 'txt') # save csv
+    ocr.save_data(result, "멕시코", 'txt') # save txt
     ocr.save_data(result, "멕시코", 'json') # save json
