@@ -1,0 +1,80 @@
+{
+    "rnum": 45,
+    "trgtpsnNo": "6003865623",
+    "trgtpsnCd": "450",
+    "trgtpsnDtlCd": "286340",
+    "trgtpsnNm": "Twin Rivers Foods, Inc.",
+    "rprsnt1Nm": "Matt Duffy",
+    "biztyp1Cd": "10112",
+    "biztyp1CdNm": "가금류 도축업",
+    "trgtpsn1EmpCnt": 25,
+    "trgtpsnTelno": "1-4794448898",
+    "trgtpsn1Addr": "/1 E Colt Square Dr/Fayetteville/Arkansas/Washington/United States/72703-2884",
+    "fundDd": "19950630",
+    "prod1Nm": "Poultry processing",
+    "hmpgAddr": "www.2river.com",
+    "insuUseYn": "N",
+    "impYn": "Y",
+    "koreaCuYn": "N",
+    "extrnlCstYn": "N",
+    "packAbrdEntprYn": "N",
+    "korNm": "미국",
+    "compscale": "D",
+    "nation_name": "미국",
+    "industry_code": "10112",
+    "hscode": "160100",
+    "company_description": "Company Name: Twin Rivers Foods, Inc.\nRepresentative: Matt Duffy\nProduct: Poultry processing\nWebsite: www.2river.com",
+    "search_result": [
+        {
+            "Title": "Twin Rivers Foods",
+            "Link": "https://www.2river.com/",
+            "Description": "Twin Rivers Foods, Inc. We celebrate food and the people who enjoy by creating superior food experiences. (poultry operation,",
+            "Concated_text": "Title:Twin Rivers Foods\nLink:https://www.2river.com/\nDescription:Twin Rivers Foods, Inc. We celebrate food and the people who enjoy by creating superior food experiences. (poultry operation,",
+            "relevant": true,
+            "input_price": 1.32158,
+            "collect_time": 4.454885913990438
+        },
+        {
+            "Title": "Twin Rivers Foods, Inc.",
+            "Link": "https://web.russellvillechamber.com/ManufacturerProcessor/Twin-Rivers-Foods,-Inc-4195",
+            "Description": "Twin Rivers Foods, Inc. | 1 East Colt Square, Fayetteville , AR, 72703 |",
+            "Concated_text": "Title:Twin Rivers Foods, Inc.\nLink:https://web.russellvillechamber.com/ManufacturerProcessor/Twin-Rivers-Foods,-Inc-4195\nDescription:Twin Rivers Foods, Inc. | 1 East Colt Square, Fayetteville , AR, 72703 |",
+            "relevant": true,
+            "input_price": 0.12494,
+            "link_content_summary": "{\n \"Summary\": \"Twin Rivers Food, Inc. is located at 1 East Colt Square, Fayetteville, AR, 72703, and their phone number is 479-444- 8898. They are a Manufacturer/Processor and have been a member of the Chamber since 2004.\",\n \"CompanyName\": \"Twin Rivers Foods, Inc.\",\n \"Email\": \"chamber@russellvillechamber.com\",\n \"Phone Number\": \"479-444- 8898\",\n \"Address\": \"1 East Colt Square, Fayetteville , AR, 72703\",\n \"Product Information\": null,\n \"Representative\": null,\n \"Useful Information\": null\n}",
+            "output_price": 0.004200000000000001,
+            "collect_time": 13.045327466912568
+        },
+        {
+            "Title": "Twin Rivers Foods Inc - Company Profile and News - Bloomberg ...",
+            "Link": "https://www.bloomberg.com/profile/company/0212564D:US",
+            "Description": "Twin Rivers Foods Inc. Twin Rivers Foods, Inc. operates as a slaughterhouse and meat processing plant. The Company provides poultry slaughtering and processing.",
+            "Concated_text": "Title:Twin Rivers Foods Inc - Company Profile and News - Bloomberg ...\nLink:https://www.bloomberg.com/profile/company/0212564D:US\nDescription:Twin Rivers Foods Inc. Twin Rivers Foods, Inc. operates as a slaughterhouse and meat processing plant. The Company provides poultry slaughtering and processing.",
+            "relevant": true,
+            "input_price": 0.37566000000000005,
+            "collect_time": 5.249549105996266
+        },
+        {
+            "Title": "Twin Rivers Foods - Crunchbase Company Profile & Funding",
+            "Link": "https://www.crunchbase.com/organization/twin-rivers-foods",
+            "Description": "Twin River Foods is part of the Poultry Product Manufacturing Industry.",
+            "Concated_text": "Title:Twin Rivers Foods - Crunchbase Company Profile & Funding\nLink:https://www.crunchbase.com/organization/twin-rivers-foods\nDescription:Twin River Foods is part of the Poultry Product Manufacturing Industry.",
+            "relevant": true,
+            "input_price": 0.90788,
+            "collect_time": 4.1943372648674995
+        },
+        {
+            "Title": "Twin Rivers Foods, Inc. Company Profile | Fayetteville, AR ...",
+            "Link": "https://www.dnb.com/business-directory/company-profiles.twin_rivers_foods_inc.2883f851f3aafb354832ab1dcdd43cf9.html",
+            "Description": "Find company research, competitor information, contact details & financial data for Twin Rivers Foods, Inc. of Fayetteville, AR.",
+            "Concated_text": "Title:Twin Rivers Foods, Inc. Company Profile | Fayetteville, AR ...\nLink:https://www.dnb.com/business-directory/company-profiles.twin_rivers_foods_inc.2883f851f3aafb354832ab1dcdd43cf9.html\nDescription:Find company research, competitor information, contact details & financial data for Twin Rivers Foods, Inc. of Fayetteville, AR.",
+            "relevant": true,
+            "input_price": 0.00863,
+            "link_content_summary": "{\n\"Summary\": \"이 HTML 코드는 캡차 페이지입니다. 캡차 페이지인 관계로 페이지 내에 기업 관련 정보가 포함되어 있지 않습니다.\",\n\"Company Name\": \"None\",\n\"Email\": \"None\",\n\"Phone Number\": \"None\",\n\"Address\": \"None\",\n\"Product Information\": \"None\",\n\"Representative\": \"None\",\n\"Useful Information\": \"None\"\n}",
+            "output_price": 0.00291,
+            "collect_time": 2.935017976909876
+        }
+    ],
+    "email": "chamber@russellvillechamber.com",
+    "search_total_info": "- Buyer overview\nCompany Name: Twin Rivers Foods, Inc.\nRepresentative: Matt Duffy\nProduct: Poultry processing\nWebsite: www.2river.com \n\n- Buyer's recent activities \nProduct info :  \nUseful info :"
+}

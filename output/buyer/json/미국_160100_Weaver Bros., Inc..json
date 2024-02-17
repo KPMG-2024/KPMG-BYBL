@@ -1,0 +1,134 @@
+{
+    "rnum": 7,
+    "trgtpsnNo": "6004123733",
+    "trgtpsnCd": "450",
+    "trgtpsnDtlCd": "328825",
+    "trgtpsnNm": "Weaver Bros., Inc.",
+    "rprsnt1Nm": "Timothy John Weaver",
+    "biztyp1Cd": "10112",
+    "biztyp1CdNm": "가금류 도축업",
+    "trgtpsn1EmpCnt": 60,
+    "trgtpsnTelno": "1-9375263907",
+    "trgtpsn1Addr": "/895 E Main St/Versailles/Ohio/Darke/United States/45380-1561",
+    "fundDd": "19310630",
+    "prod1Nm": "Poultry processing",
+    "hmpgAddr": "www.weavereggs.com",
+    "insuUseYn": "N",
+    "impYn": "Y",
+    "koreaCuYn": "N",
+    "extrnlCstYn": "N",
+    "packAbrdEntprYn": "N",
+    "korNm": "미국",
+    "compscale": "D",
+    "nation_name": "미국",
+    "industry_code": "10112",
+    "hscode": "160100",
+    "company_description": "Company Name: Weaver Bros., Inc.\nRepresentative: Timothy John Weaver\nProduct: Poultry processing\nWebsite: www.weavereggs.com",
+    "search_result": [
+        {
+            "Title": "Weaver Bros., Inc. | Safe and dependable transportation services",
+            "Link": "https://weaverbrothersinc.com/",
+            "Description": "Weaver Brothers (WBI) has a large fleet of winch trucks. Though these winch trucks are primarily used for hauling oilfield related materials and moving drill ...",
+            "Concated_text": "Title:Weaver Bros., Inc. | Safe and dependable transportation services\nLink:https://weaverbrothersinc.com/\nDescription:Weaver Brothers (WBI) has a large fleet of winch trucks. Though these winch trucks are primarily used for hauling oilfield related materials and moving drill ...",
+            "relevant": true,
+            "input_price": 0.48973,
+            "collect_time": 3.2146483408287168
+        },
+        {
+            "Title": "Weaver Eggs - The Incredibe Edible Egg",
+            "Link": "https://www.weavereggs.com/",
+            "Description": "Established in 1929, Weaver Brothers is a fourth generation family farm still owned and managed by the founding family with the fourth generation of the family ...",
+            "Concated_text": "Title:Weaver Eggs - The Incredibe Edible Egg\nLink:https://www.weavereggs.com/\nDescription:Established in 1929, Weaver Brothers is a fourth generation family farm still owned and managed by the founding family with the fourth generation of the family ...",
+            "relevant": true,
+            "input_price": 0.2682,
+            "collect_time": 3.7785322770942003
+        },
+        {
+            "Title": "Weaver Eggs - The Incredibe Edible Egg",
+            "Link": "https://www.weavereggs.com/",
+            "Description": "Established in 1929, Weaver Brothers is a fourth generation family farm still owned and managed by the founding family with the fourth ...",
+            "Concated_text": "Title:Weaver Eggs - The Incredibe Edible Egg\nLink:https://www.weavereggs.com/\nDescription:Established in 1929, Weaver Brothers is a fourth generation family farm still owned and managed by the founding family with the fourth ...",
+            "relevant": true,
+            "input_price": 0.2682,
+            "collect_time": 3.351777544943616
+        },
+        {
+            "Title": "PRODUCTS",
+            "Link": "https://www.weavereggs.com/products/",
+            "Description": "Nov 29, 2023 ... The Crystal Spring label is Weaver Eggs' brand for cartoned eggs. Our farm fresh eggs bear certifications from: SQF, ...",
+            "Concated_text": "Title:PRODUCTS\nLink:https://www.weavereggs.com/products/\nDescription:Nov 29, 2023 ... The Crystal Spring label is Weaver Eggs' brand for cartoned eggs. Our farm fresh eggs bear certifications from: SQF, ...",
+            "relevant": true,
+            "input_price": 0.42093,
+            "collect_time": 3.470426292857155
+        },
+        {
+            "Title": "Contact - Weaver Eggs",
+            "Link": "https://www.weavereggs.com/contact/",
+            "Description": "Nov 29, 2023 ... CONTACT INFO. If you are in need of information or have a question for Weaver Eggs please contact us using the form ...",
+            "Concated_text": "Title:Contact - Weaver Eggs\nLink:https://www.weavereggs.com/contact/\nDescription:Nov 29, 2023 ... CONTACT INFO. If you are in need of information or have a question for Weaver Eggs please contact us using the form ...",
+            "relevant": true,
+            "input_price": 0.23639000000000002,
+            "collect_time": 2.750071848044172
+        },
+        {
+            "Title": "Join the Weaver Team",
+            "Link": "https://www.weavereggs.com/careers/",
+            "Description": "Nov 29, 2023 ... If you are looking for a career with Weaver Eggs, Please fill our our application form and attatch your resume.",
+            "Concated_text": "Title:Join the Weaver Team\nLink:https://www.weavereggs.com/careers/\nDescription:Nov 29, 2023 ... If you are looking for a career with Weaver Eggs, Please fill our our application form and attatch your resume.",
+            "relevant": true,
+            "input_price": 0.18048,
+            "link_content_summary": "{\n\"Summary\": \"Weaver Eggs is a company that provides high quality eggs and has a variety of job opportunities available. If you're looking for a career with a company that values teamwork and providing excellent service, Weaver Eggs may be a good fit for you. Find the application form in the article to apply and join the Weaver team.\",\n\"Company Name\": \"Weaver Eggs\",\n\"Email\": \"sales@weavereggs.com\",\n\"Phone Number\": \"(937) 526-3331\",\n\"Address\": \"895 E. Main Street\\nVersailles, Ohio 45380\",\n\"Product Information\": null,\n\"Representative\": null,\n\"Useful Information\": \"The company believes in Teamwork, Problem-solving, and Collaboration to ensure success.\"\n}",
+            "output_price": 0.00465,
+            "collect_time": 12.892873959848657
+        },
+        {
+            "Title": "Resources - Weaver Eggs",
+            "Link": "https://www.weavereggs.com/resources/",
+            "Description": "Nov 29, 2023 ... United Egg Producers · Ohio Poultry Association · Ohio Department of Agriculture · US Poultry & Egg Association.",
+            "Concated_text": "Title:Resources - Weaver Eggs\nLink:https://www.weavereggs.com/resources/\nDescription:Nov 29, 2023 ... United Egg Producers · Ohio Poultry Association · Ohio Department of Agriculture · US Poultry & Egg Association.",
+            "relevant": true,
+            "input_price": 0.18139000000000002,
+            "collect_time": 12.043108119862154
+        },
+        {
+            "Title": "Our Commitment - Weaver Eggs",
+            "Link": "https://www.weavereggs.com/our-commitment/",
+            "Description": "Nov 29, 2023 ... Animal Care. Weaver Brothers makes responsible decisions about animal well-being. Our hens are raised in safe, ...",
+            "Concated_text": "Title:Our Commitment - Weaver Eggs\nLink:https://www.weavereggs.com/our-commitment/\nDescription:Nov 29, 2023 ... Animal Care. Weaver Brothers makes responsible decisions about animal well-being. Our hens are raised in safe, ...",
+            "relevant": true,
+            "input_price": 0.19773000000000002,
+            "link_content_summary": "{\n \"Summary\": \"Weaver Brothers is a family-owned egg producer based in Ohio. They are committed to producing high-quality eggs while taking care of their animals, protecting the environment, and supporting their community. They have been recognized for their environmental efforts, including receiving the Environmental Stewardship Award from the Ohio Poultry Association and the U.S. Poultry & Egg Association’s Family Farm Environmental Excellence Award.\",\n \"Company Name\": \"Weaver Brothers\",\n \"Email\": \"sales@weavereggs.com\",\n \"Phone Number\": \"(937) 526-3331\",\n \"Address\": \"895 E. Main Street\\nVersailles, Ohio 45380\",\n \"Product Information\": \"Weaver Brothers produces a variety of egg products, including fresh eggs, liquid eggs, and egg products.\",\n \"Representative\": \"None\",\n \"Useful Information\": \"Weaver Brothers is an active member of the Ohio Poultry Association and the United Egg Producers. They are also certified by the Ohio Egg Quality Assurance Program, the National Poultry Improvement Program, and the United Egg Producers Five-Star Program.\"\n}",
+            "output_price": 0.00669,
+            "collect_time": 26.75505297188647
+        },
+        {
+            "Title": "admin, Author at Weaver Eggs",
+            "Link": "https://www.weavereggs.com/author/admin/",
+            "Description": "About admin. This author has not yet filled in any details. So far admin has created 19 blog entries. Daily Advocate - December 29, ...",
+            "Concated_text": "Title:admin, Author at Weaver Eggs\nLink:https://www.weavereggs.com/author/admin/\nDescription:About admin. This author has not yet filled in any details. So far admin has created 19 blog entries. Daily Advocate - December 29, ...",
+            "relevant": true,
+            "input_price": 0.2714,
+            "collect_time": 3.1519902269355953
+        },
+        {
+            "Title": "Egg Saftey - Weaver Eggs",
+            "Link": "https://www.weavereggs.com/egg-safety/",
+            "Description": "Nov 29, 2023 ... Suppliers are required to complete and document a food quality assessment of the food being produced and its associated ...",
+            "Concated_text": "Title:Egg Saftey - Weaver Eggs\nLink:https://www.weavereggs.com/egg-safety/\nDescription:Nov 29, 2023 ... Suppliers are required to complete and document a food quality assessment of the food being produced and its associated ...",
+            "relevant": true,
+            "input_price": 0.18875,
+            "collect_time": 13.336621415102854
+        },
+        {
+            "Title": "Cooking Terms - Weaver Eggs",
+            "Link": "https://www.weavereggs.com/cooking-terms/",
+            "Description": "Curdling. Also known as syneresis or weeping. When egg mixtures such as custards or sauces are cooked too rapidly, the protein becomes ...",
+            "Concated_text": "Title:Cooking Terms - Weaver Eggs\nLink:https://www.weavereggs.com/cooking-terms/\nDescription:Curdling. Also known as syneresis or weeping. When egg mixtures such as custards or sauces are cooked too rapidly, the protein becomes ...",
+            "relevant": true,
+            "input_price": 0.25724,
+            "collect_time": 3.046756150200963
+        }
+    ],
+    "email": "sales@weavereggs.com",
+    "search_total_info": "- Buyer overview\nCompany Name: Weaver Bros., Inc.\nRepresentative: Timothy John Weaver\nProduct: Poultry processing\nWebsite: www.weavereggs.com \n\n- Buyer's recent activities \nProduct info : Weaver Brothers produces a variety of egg products, including fresh eggs, liquid eggs, and egg products. \nUseful info : The company believes in Teamwork, Problem-solving, and Collaboration to ensure success.. Weaver Brothers is an active member of the Ohio Poultry Association and the United Egg Producers. They are also certified by the Ohio Egg Quality Assurance Program, the National Poultry Improvement Program, and the United Egg Producers Five-Star Program."
+}

@@ -1,0 +1,188 @@
+{
+    "rnum": 1,
+    "trgtpsnNo": "6002950060",
+    "trgtpsnCd": "450",
+    "trgtpsnDtlCd": "136082",
+    "trgtpsnNm": "Aviagen Inc.",
+    "rprsnt1Nm": "Randall Ennis",
+    "biztyp1Cd": "10112",
+    "biztyp1CdNm": "가금류 도축업",
+    "trgtpsn1EmpCnt": 50,
+    "trgtpsnTelno": "1-2568903800",
+    "trgtpsn1Addr": "/920 Explorer Blvd NW/Huntsville/Alabama/Madison/United States/35806-2808",
+    "fundDd": "19860630",
+    "prod1Nm": "Poultry processing",
+    "hmpgAddr": "www.en.aviagen.com",
+    "insuUseYn": "N",
+    "impYn": "Y",
+    "koreaCuYn": "N",
+    "extrnlCstYn": "N",
+    "packAbrdEntprYn": "N",
+    "korNm": "미국",
+    "compscale": "D",
+    "nation_name": "미국",
+    "industry_code": "10112",
+    "hscode": "160100",
+    "company_description": "Company Name: Aviagen Inc.\nRepresentative: Randall Ennis\nProduct: Poultry processing\nWebsite: www.en.aviagen.com",
+    "search_result": [
+        {
+            "Title": "Aviagen",
+            "Link": "https://www.aviagen.com/",
+            "Description": "Aviagen Broiler Breeders supplies day-old grandparent and parent stock chicks to customers in 130 countries worldwide under the Arbor Acres, Indian River, ...",
+            "Concated_text": "Title:Aviagen\nLink:https://www.aviagen.com/\nDescription:Aviagen Broiler Breeders supplies day-old grandparent and parent stock chicks to customers in 130 countries worldwide under the Arbor Acres, Indian River, ...",
+            "relevant": true,
+            "input_price": 0.12174000000000001,
+            "link_content_summary": "{\n \"Summary\": \"Aviagen supplies day-old grandparent and parent stock chicks to customers in 130 countries worldwide. Their broiler breeder brands Arbor Acres, Indian River, and Ross are recognized and respected throughout the industry, and each brand has shown a proven record of success and customer loyalty.\",\n \"Company Name\": \"Aviagen\",\n \"Email\": \"None\",\n \"Phone Number\": \"None\",\n \"Address\": \"None\",\n \"Product Information\": \"Aviagen provides day-old grandparent and parent stock chicks to customers in 130 countries worldwide under the Arbor Acres, Indian River, and Ross brand names.\",\n \"Representative\": \"None\",\n \"Useful Information\": \"Aviagen is committed to breeding success, health and biosecurity, global security of supply, compartmentalization, welfare, and sustainability. They also offer customer support, production management schools, and research and development.\"\n}",
+            "output_price": 0.00555,
+            "collect_time": 11.185720699140802
+        },
+        {
+            "Title": "Contact | Aviagen",
+            "Link": "https://aviagen.com/en/contact-us/",
+            "Description": "Aviagen Global Corporate Office · Aviagen Offices · Asia Pacific · Aviagen ANZ · Aviagen ANZ · Aviagen Asia Pacific Ltd. · Aviagen China · Aviagen India Poultry ...",
+            "Concated_text": "Title:Contact | Aviagen\nLink:https://aviagen.com/en/contact-us/\nDescription:Aviagen Global Corporate Office · Aviagen Offices · Asia Pacific · Aviagen ANZ · Aviagen ANZ · Aviagen Asia Pacific Ltd. · Aviagen China · Aviagen India Poultry ...",
+            "relevant": true,
+            "input_price": 0.13820000000000002,
+            "link_content_summary": "{\n\"Summary\": \"Aviagen is a company that specializes in poultry genetics. They are headquartered in Huntsville, Alabama and have global operations. They have a variety of contact information including phone numbers, emails, and addresses for their various offices around the world.\",\n\"Company Name\": \"Aviagen\",\n\"Email\": \"info@aviagen.com\",\n\"Phone Number\": \"+1 256 890 3800\",\n\"Address\": \"Cummings Research Park\\n920 Explorer Boulevard NW\\nHuntsville, AL 35806\\nUSA\",\n\"Product Information\": \"Aviagen specializes in poultry genetics.\",\n\"Representative\": \"None\",\n\"Useful Information\": \"None\"\n}",
+            "output_price": 0.004200000000000001,
+            "collect_time": 13.5995063460432
+        },
+        {
+            "Title": "Aviagen: Info Center",
+            "Link": "https://aviagen.com/eu/",
+            "Description": "This library contains material developed by Aviagen to help our customers profitably manage their operations to produce high-performance chickens through sound ...",
+            "Concated_text": "Title:Aviagen: Info Center\nLink:https://aviagen.com/eu/\nDescription:This library contains material developed by Aviagen to help our customers profitably manage their operations to produce high-performance chickens through sound ...",
+            "relevant": true,
+            "input_price": 0.08095000000000001,
+            "collect_time": 10.501409123186022
+        },
+        {
+            "Title": "Aviagen Inc - 2024 IPPE",
+            "Link": "https://ippe24.mapyourshow.com/8_0/exhibitor/exhibitor-details.cfm?exhid=580",
+            "Description": "Since 1923, Aviagen® has been recognized as a preferred global poultry breeding company. Its mission is to “Breed Success Together” with its valued ...",
+            "Concated_text": "Title:Aviagen Inc - 2024 IPPE\nLink:https://ippe24.mapyourshow.com/8_0/exhibitor/exhibitor-details.cfm?exhid=580\nDescription:Since 1923, Aviagen® has been recognized as a preferred global poultry breeding company. Its mission is to “Breed Success Together” with its valued ...",
+            "relevant": true,
+            "input_price": 0.15922999999999998,
+            "collect_time": 15.648020969936624
+        },
+        {
+            "Title": "Aviagen, Inc. Process Verified Program | Agricultural Marketing ...",
+            "Link": "https://www.ams.usda.gov/content/aviagen-inc-process-verified-program",
+            "Description": "Process Verified Point(s):. No Antibiotics Ever – all birds produced do not receive antibiotics at any step in the program. For more information on the USDA ...",
+            "Concated_text": "Title:Aviagen, Inc. Process Verified Program | Agricultural Marketing ...\nLink:https://www.ams.usda.gov/content/aviagen-inc-process-verified-program\nDescription:Process Verified Point(s):. No Antibiotics Ever – all birds produced do not receive antibiotics at any step in the program. For more information on the USDA ...",
+            "relevant": true,
+            "input_price": 0.10747,
+            "collect_time": 9.320568504976109
+        },
+        {
+            "Title": "Aviagen, Inc. | Manufacturing / Industry | Poultry and Poultry Product ...",
+            "Link": "https://cm.hsvchamber.org/list/member/aviagen-inc-200",
+            "Description": "Aviagen broiler breeders supply day-old grandparent and parent stock chicks to customers in more than 100 countries worldwide under the Arbor Acres®, Indian ...",
+            "Concated_text": "Title:Aviagen, Inc. | Manufacturing / Industry | Poultry and Poultry Product ...\nLink:https://cm.hsvchamber.org/list/member/aviagen-inc-200\nDescription:Aviagen broiler breeders supply day-old grandparent and parent stock chicks to customers in more than 100 countries worldwide under the Arbor Acres®, Indian ...",
+            "relevant": true,
+            "input_price": 0.35072000000000003,
+            "collect_time": 3.4449421390891075
+        },
+        {
+            "Title": "Find my Aviagen, Inc.. 401(k) Plan | Capitalize",
+            "Link": "https://www.hicapitalize.com/find-my-401k/aviagen-inc/",
+            "Description": "Aviagen, Inc.. offers AVIAGEN, INC. 401(K) RETIREMENT PLAN through Fidelity. Their plan covers 2,102 employees. Updated on Nov 11, 2023 ...",
+            "Concated_text": "Title:Find my Aviagen, Inc.. 401(k) Plan | Capitalize\nLink:https://www.hicapitalize.com/find-my-401k/aviagen-inc/\nDescription:Aviagen, Inc.. offers AVIAGEN, INC. 401(K) RETIREMENT PLAN through Fidelity. Their plan covers 2,102 employees. Updated on Nov 11, 2023 ...",
+            "relevant": true,
+            "input_price": 0.10242,
+            "collect_time": 11.420463246991858
+        },
+        {
+            "Title": "The Benefits of Floor Feeding (for Optimal Uniformity)",
+            "Link": "https://en.aviagen.com/assets/Tech_Center/AA_Technical_Articles/AAServiceBulletinFloorFeedingEN2015.pdf",
+            "Description": "A well-managed floor feeding system provides a range of benefits for bird welfare and flock performance, in particular when spin feeders are used.",
+            "Concated_text": "Title:The Benefits of Floor Feeding (for Optimal Uniformity)\nLink:https://en.aviagen.com/assets/Tech_Center/AA_Technical_Articles/AAServiceBulletinFloorFeedingEN2015.pdf\nDescription:A well-managed floor feeding system provides a range of benefits for bird welfare and flock performance, in particular when spin feeders are used.",
+            "relevant": true,
+            "input_price": 15.58851,
+            "collect_time": 4.41796417394653
+        },
+        {
+            "Title": "The Benefits of Floor Feeding (for Optimal Uniformity)",
+            "Link": "https://en.aviagen.com/assets/Tech_Center/Ross_Tech_Articles/RossTechNoteFloorFeedingEN2015.pdf",
+            "Description": "A well-managed floor feeding system provides a range of benefits for bird welfare and flock performance, in particular when spin feeders are used.",
+            "Concated_text": "Title:The Benefits of Floor Feeding (for Optimal Uniformity)\nLink:https://en.aviagen.com/assets/Tech_Center/Ross_Tech_Articles/RossTechNoteFloorFeedingEN2015.pdf\nDescription:A well-managed floor feeding system provides a range of benefits for bird welfare and flock performance, in particular when spin feeders are used.",
+            "relevant": true,
+            "input_price": 13.992120000000002,
+            "collect_time": 4.174372101202607
+        },
+        {
+            "Title": "Incubating Eggs at High Altitudes",
+            "Link": "https://en.aviagen.com/assets/Tech_Center/Ross_Tech_Articles/RossTechNote_HatchingAltitudes2013_EN.pdf",
+            "Description": "Jul 1, 2013 ... Introduction. A hatchery which is located 1500 meters (4921 feet) or more above sea level faces some particular challenges.",
+            "Concated_text": "Title:Incubating Eggs at High Altitudes\nLink:https://en.aviagen.com/assets/Tech_Center/Ross_Tech_Articles/RossTechNote_HatchingAltitudes2013_EN.pdf\nDescription:Jul 1, 2013 ... Introduction. A hatchery which is located 1500 meters (4921 feet) or more above sea level faces some particular challenges.",
+            "relevant": true,
+            "input_price": 3.90761,
+            "collect_time": 4.2107190859969705
+        },
+        {
+            "Title": "ENERGY - The Fuel of Life",
+            "Link": "https://en.aviagen.com/assets/Tech_Center/LIR_Tech_Articles/IRBeSmart-EnergyFuelofLifeFeb201-EN4.pdf",
+            "Description": "Energy is often considered the “Fuel of Life”. Primarily, it is needed for maintaining basic metabolism (maintenance energy).",
+            "Concated_text": "Title:ENERGY - The Fuel of Life\nLink:https://en.aviagen.com/assets/Tech_Center/LIR_Tech_Articles/IRBeSmart-EnergyFuelofLifeFeb201-EN4.pdf\nDescription:Energy is often considered the “Fuel of Life”. Primarily, it is needed for maintaining basic metabolism (maintenance energy).",
+            "relevant": true,
+            "input_price": 1.1526,
+            "collect_time": 3.3333032780792564
+        },
+        {
+            "Title": "How To... Set Up a Spot Brooding Circle for Parent Stock",
+            "Link": "http://en.aviagen.com/assets/Tech_Center/BB_Resources_Tools/BB_HowTos/RossHow-to9SetUpSpotBroodCircleEN17.pdf",
+            "Description": "Giving chicks the best start possible by providing the correct brooding set up is key to subsequent flock welfare, uniformity and performance.",
+            "Concated_text": "Title:How To... Set Up a Spot Brooding Circle for Parent Stock\nLink:http://en.aviagen.com/assets/Tech_Center/BB_Resources_Tools/BB_HowTos/RossHow-to9SetUpSpotBroodCircleEN17.pdf\nDescription:Giving chicks the best start possible by providing the correct brooding set up is key to subsequent flock welfare, uniformity and performance.",
+            "relevant": true,
+            "input_price": 10.38608,
+            "collect_time": 3.1383900919463485
+        },
+        {
+            "Title": "Ross Poultry Breeders - Measure Chain Feeder Speed",
+            "Link": "http://en.aviagen.com/assets/Tech_Center/BB_Resources_Tools/BB_HowTos/RossHow-to7MeasureChainFeederSpeedEN16.pdf",
+            "Description": "Chain feeder speed determines how quickly feed is distributed. • Feed distribution time is key to achieving and maintaining flock uniformity.",
+            "Concated_text": "Title:Ross Poultry Breeders - Measure Chain Feeder Speed\nLink:http://en.aviagen.com/assets/Tech_Center/BB_Resources_Tools/BB_HowTos/RossHow-to7MeasureChainFeederSpeedEN16.pdf\nDescription:Chain feeder speed determines how quickly feed is distributed. • Feed distribution time is key to achieving and maintaining flock uniformity.",
+            "relevant": true,
+            "input_price": 2.4662200000000003,
+            "collect_time": 2.9982567578554153
+        },
+        {
+            "Title": "Ross Poultry Breeders - Measure Nipple Drinker Flow Rate",
+            "Link": "https://en.aviagen.com/assets/Tech_Center/BB_Resources_Tools/BB_HowTos/RossHow-to8MeasureNippleDrinkerFlowRateEN16.pdf",
+            "Description": "To ensure that water supply will meet maximum demands for daily water intake. • A lower than required water flow rate can cause dehydration,.",
+            "Concated_text": "Title:Ross Poultry Breeders - Measure Nipple Drinker Flow Rate\nLink:https://en.aviagen.com/assets/Tech_Center/BB_Resources_Tools/BB_HowTos/RossHow-to8MeasureNippleDrinkerFlowRateEN16.pdf\nDescription:To ensure that water supply will meet maximum demands for daily water intake. • A lower than required water flow rate can cause dehydration,.",
+            "relevant": true,
+            "input_price": 11.466719999999999,
+            "collect_time": 3.9169974208343774
+        },
+        {
+            "Title": "Management of Broiler Breeders to Improve Leg Health During ...",
+            "Link": "http://en.aviagen.com/assets/Tech_Center/Broiler_Breeder_Tech_Articles/English/AviagenBriefLegHealth2015-EN.pdf",
+            "Description": "Leg health issues in broiler breeders. Staphylococcus. Staphylococci bacteria are normal chicken commensals, commonly found in poultry without any negative ...",
+            "Concated_text": "Title:Management of Broiler Breeders to Improve Leg Health During ...\nLink:http://en.aviagen.com/assets/Tech_Center/Broiler_Breeder_Tech_Articles/English/AviagenBriefLegHealth2015-EN.pdf\nDescription:Leg health issues in broiler breeders. Staphylococcus. Staphylococci bacteria are normal chicken commensals, commonly found in poultry without any negative ...",
+            "relevant": true,
+            "input_price": 2.69334,
+            "collect_time": 3.500216198153794
+        },
+        {
+            "Title": "A Checklist for Inves&ga&ng Broiler Performance Problems",
+            "Link": "https://en.aviagen.com/assets/Tech_Center/BB_Resources_Tools/AVIA-BroilerPerfChecklist-2017-EN.pdf",
+            "Description": "The Invesfgafng Broiler Performance tool is a user-‐friendly checklist designed for poultry producers to help remind them of crifcal producfon components ...",
+            "Concated_text": "Title:A Checklist for Inves&ga&ng Broiler Performance Problems\nLink:https://en.aviagen.com/assets/Tech_Center/BB_Resources_Tools/AVIA-BroilerPerfChecklist-2017-EN.pdf\nDescription:The Invesfgafng Broiler Performance tool is a user-‐friendly checklist designed for poultry producers to help remind them of crifcal producfon components ...",
+            "relevant": true,
+            "input_price": 11.027059999999999,
+            "collect_time": 3.883324035909027
+        },
+        {
+            "Title": "Marek's Disease Virus",
+            "Link": "https://en.aviagen.com/assets/Tech_Center/Broiler_Breeder_Tech_Articles/English/MareksDiseaseVirus-2017-EN.pdf",
+            "Description": "Dr. Isabel Gimeno received her Veterinary Degree (1995), MS (1996), and. PhD (1999) from Universidad Complutense de Madrid, Spain. She is a.",
+            "Concated_text": "Title:Marek's Disease Virus\nLink:https://en.aviagen.com/assets/Tech_Center/Broiler_Breeder_Tech_Articles/English/MareksDiseaseVirus-2017-EN.pdf\nDescription:Dr. Isabel Gimeno received her Veterinary Degree (1995), MS (1996), and. PhD (1999) from Universidad Complutense de Madrid, Spain. She is a.",
+            "relevant": true,
+            "input_price": 61.13951,
+            "collect_time": 7.119941820157692
+        }
+    ],
+    "email": "info@aviagen.com",
+    "search_total_info": "- Buyer overview\nCompany Name: Aviagen Inc.\nRepresentative: Randall Ennis\nProduct: Poultry processing\nWebsite: www.en.aviagen.com \n\n- Buyer's recent activities \nProduct info : Aviagen provides day-old grandparent and parent stock chicks to customers in 130 countries worldwide under the Arbor Acres, Indian River, and Ross brand names.. Aviagen specializes in poultry genetics.. Aviagen offers a full portfolio of breeding stock under the Arbor Acres®, Indian River® and Ross® brand names. The Rowan Range® and Specialty Males® target slower-growing and other niche market needs. \nUseful info : Aviagen is committed to breeding success, health and biosecurity, global security of supply, compartmentalization, welfare, and sustainability. They also offer customer support, production management schools, and research and development."
+}

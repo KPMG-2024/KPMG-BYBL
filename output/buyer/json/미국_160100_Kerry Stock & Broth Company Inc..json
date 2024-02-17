@@ -1,0 +1,60 @@
+{
+    "rnum": 6,
+    "trgtpsnNo": "6004152405",
+    "trgtpsnCd": "450",
+    "trgtpsnDtlCd": "334190",
+    "trgtpsnNm": "Kerry Stock & Broth Company Inc.",
+    "rprsnt1Nm": "Gerry Behan",
+    "biztyp1Cd": "10112",
+    "biztyp1CdNm": "가금류 도축업",
+    "trgtpsn1EmpCnt": 60,
+    "trgtpsnTelno": "1-5404326550",
+    "trgtpsn1Addr": "/1711 N Liberty St/Harrisonburg/Virginia/Harrisonburg City/United States/22802-4518",
+    "fundDd": "19980630",
+    "prod1Nm": "Poultry processing",
+    "hmpgAddr": "www.ariake.com",
+    "insuUseYn": "N",
+    "impYn": "Y",
+    "koreaCuYn": "N",
+    "extrnlCstYn": "N",
+    "packAbrdEntprYn": "N",
+    "korNm": "미국",
+    "compscale": "D",
+    "nation_name": "미국",
+    "industry_code": "10112",
+    "hscode": "160100",
+    "company_description": "Company Name: Kerry Stock & Broth Company Inc.\nRepresentative: Gerry Behan\nProduct: Poultry processing\nWebsite: www.ariake.com",
+    "search_result": [
+        {
+            "Title": "Stocks and Broths | Kerry",
+            "Link": "https://www.kerry.com/products/food-solutions/stocks-and-broths.html",
+            "Description": "Our nutritious and delicious stocks and broths are manufactured by slow-cooking natural ingredients. Stock and broth products can be packaged for industrial ...",
+            "Concated_text": "Title:Stocks and Broths | Kerry\nLink:https://www.kerry.com/products/food-solutions/stocks-and-broths.html\nDescription:Our nutritious and delicious stocks and broths are manufactured by slow-cooking natural ingredients. Stock and broth products can be packaged for industrial ...",
+            "relevant": true,
+            "input_price": 0.31681,
+            "collect_time": 4.471162820002064
+        },
+        {
+            "Title": "Kerry Stock & Broth Company Inc. | Food Safety and Inspection ...",
+            "Link": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/kerry-stock-broth-company-inc.",
+            "Description": "Jul 15, 2021 ... Want the latest food safety news and information from FSIS? Subscribe to get email updates when new content is added to our website. No Thanks",
+            "Concated_text": "Title:Kerry Stock & Broth Company Inc. | Food Safety and Inspection ...\nLink:http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/kerry-stock-broth-company-inc.\nDescription:Jul 15, 2021 ... Want the latest food safety news and information from FSIS? Subscribe to get email updates when new content is added to our website. No Thanks",
+            "relevant": true,
+            "input_price": 0.50698,
+            "collect_time": 3.2682314820121974
+        },
+        {
+            "Title": "Discover Animal Slaughtering and Processing Companies in - Dun ...",
+            "Link": "https://www.dnb.com/business-directory/company-information.animal_slaughtering_and_processing.us.virginia.html",
+            "Description": "Kerry Stock & Broth Company Inc. Country: Harrisonburg, Virginia United States. Sales Revenue ($M):. $25.69M. Supreme Foods, Inc. Country: Suffolk, Virginia",
+            "Concated_text": "Title:Discover Animal Slaughtering and Processing Companies in - Dun ...\nLink:https://www.dnb.com/business-directory/company-information.animal_slaughtering_and_processing.us.virginia.html\nDescription:Kerry Stock & Broth Company Inc. Country: Harrisonburg, Virginia United States. Sales Revenue ($M):. $25.69M. Supreme Foods, Inc. Country: Suffolk, Virginia",
+            "relevant": true,
+            "input_price": 0.00868,
+            "link_content_summary": "{\n \"Summary\": \"죄송합니다. 제공한 HTML 소스 코드에는 요약할 수 있는 콘텐츠가 없습니다. 콘텐츠가 없는 빈 페이지입니다.\",\n \"Company Name\": \"None\",\n \"Email\": \"None\",\n \"Phone Number\": \"None\",\n \"Address\": \"None\",\n \"Product Information\": \"None\",\n \"Representative\": \"None\",\n \"Useful Information\": \"None\"\n}",
+            "output_price": 0.00324,
+            "collect_time": 6.280866221990436
+        }
+    ],
+    "email": null,
+    "search_total_info": "- Buyer overview\nCompany Name: Kerry Stock & Broth Company Inc.\nRepresentative: Gerry Behan\nProduct: Poultry processing\nWebsite: www.ariake.com \n\n- Buyer's recent activities \nProduct info :  \nUseful info :"
+}

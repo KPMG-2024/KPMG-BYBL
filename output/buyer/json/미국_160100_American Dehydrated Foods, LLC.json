@@ -1,0 +1,80 @@
+{
+    "rnum": 30,
+    "trgtpsnNo": "6003754288",
+    "trgtpsnCd": "450",
+    "trgtpsnDtlCd": "267075",
+    "trgtpsnNm": "American Dehydrated Foods, LLC",
+    "rprsnt1Nm": "William H Darr",
+    "biztyp1Cd": "10112",
+    "biztyp1CdNm": "가금류 도축업",
+    "trgtpsn1EmpCnt": 36,
+    "trgtpsnTelno": "1-4178817755",
+    "trgtpsn1Addr": "/3801 E Sunshine St/Springfield/Missouri/Greene/United States/65809-2800",
+    "fundDd": "19780630",
+    "prod1Nm": "Poultry processing",
+    "hmpgAddr": "www.adf.com",
+    "insuUseYn": "N",
+    "impYn": "Y",
+    "koreaCuYn": "N",
+    "extrnlCstYn": "N",
+    "packAbrdEntprYn": "N",
+    "korNm": "미국",
+    "compscale": "D",
+    "nation_name": "미국",
+    "industry_code": "10112",
+    "hscode": "160100",
+    "company_description": "Company Name: American Dehydrated Foods, LLC\nRepresentative: William H Darr\nProduct: Poultry processing\nWebsite: www.adf.com",
+    "search_result": [
+        {
+            "Title": "Nutrios™",
+            "Link": "https://www.adf.com/",
+            "Description": "Our chicken protein is produced from USDA-inspected (and/or labeled) raw materials.",
+            "Concated_text": "Title:Nutrios™\nLink:https://www.adf.com/\nDescription:Our chicken protein is produced from USDA-inspected (and/or labeled) raw materials.",
+            "relevant": true,
+            "input_price": 0.01408,
+            "link_content_summary": "{\n\"Summary\": \"The HTML source code provided does not contain any substantial content, only the basic structure of a website. Additional information is required to complete the task.\",\n\"Company Name\": \"None\",\n\"Email\": \"None\",\n\"Phone Number\": \"+18004563447\",\n\"Address\": \"None\",\n\"Product Information\": \"None\",\n\"Representative\": \"None\",\n\"Useful Information\": \"None\"\n}",
+            "output_price": 0.0025800000000000003,
+            "collect_time": 5.317616751184687
+        },
+        {
+            "Title": "IDF® - Real Food Ingredients™ - Chicken Protein & Fat",
+            "Link": "https://idf.com/",
+            "Description": "International Dehydrated Foods, Inc. (IDF®) crafts easily digestible protein and natural chicken flavor ingredients for food ...",
+            "Concated_text": "Title:IDF® - Real Food Ingredients™ - Chicken Protein & Fat\nLink:https://idf.com/\nDescription:International Dehydrated Foods, Inc. (IDF®) crafts easily digestible protein and natural chicken flavor ingredients for food ...",
+            "relevant": true,
+            "input_price": 0.4527,
+            "collect_time": 2.7536943280138075
+        },
+        {
+            "Title": "Office of Public Affairs | Justice Department Requires Divestiture to ...",
+            "Link": "https://www.justice.gov/opa/pr/justice-department-requires-divestiture-resolve-antitrust-concerns-symrises-acquisition-idf",
+            "Description": "Oct 30, 2019 ... ... Dehydrated Foods LLC (IDF) and American Dehydrated Foods LLC (ADF) from IDF Holdco Inc. and ADF Holdco Inc. The ...",
+            "Concated_text": "Title:Office of Public Affairs | Justice Department Requires Divestiture to ...\nLink:https://www.justice.gov/opa/pr/justice-department-requires-divestiture-resolve-antitrust-concerns-symrises-acquisition-idf\nDescription:Oct 30, 2019 ... ... Dehydrated Foods LLC (IDF) and American Dehydrated Foods LLC (ADF) from IDF Holdco Inc. and ADF Holdco Inc. The ...",
+            "relevant": true,
+            "input_price": 0.1584,
+            "link_content_summary": "{\n \"Summary\": \"The Department of Justice announced today that it will require Symrise AG to divest its chicken-based food ingredient manufacturing facility in Banks County, Georgia, in order to proceed with its proposed $900 million acquisition of International Dehydrated Foods LLC (IDF) and American Dehydrated Foods LLC (ADF) from IDF Holdco Inc. and ADF Holdco Inc.\\n\\nThe Justice Department’s Antitrust Division filed a civil antitrust lawsuit in the U.S. District Court for the District of Columbia to block the proposed merger.  At the same time, the Division filed a proposed settlement that, if approved by the court, would resolve the Department’s competitive concerns.\\n\\nThe divestiture required under the settlement would, if approved by the court, require Symrise to sell its brand-new facility in Banks County, Georgia, to Kerry Inc. or an alternate acquirer approved by the United States.\",\n \"Company Name\": \"Symrise\",\n \"Email\": \"None\",\n \"Phone Number\": \"None\",\n \"Address\": \"None\",\n \"Product Information\": \"Chicken-based food ingredients\",\n \"Representative\": \"None\",\n \"Useful Information\": \"1. The Department of Justice filed a civil antitrust lawsuit in the U.S. District Court for the District of Columbia to block the proposed merger.\\n2. The Justice Department’s Antitrust Division filed a civil antitrust lawsuit in the U.S. District Court for the District of Columbia to block the proposed merger.\\n3. The divestiture required under the settlement would, if approved by the court, require Symrise to sell its brand-new facility in Banks County, Georgia, to Kerry Inc. or an alternate acquirer approved by the United States.\"\n}",
+            "output_price": 0.010559999999999998,
+            "collect_time": 15.597833674866706
+        },
+        {
+            "Title": "Case 1:19-cv-03263 Document 1 Filed 10/30/19 Page 1 of 10 ...",
+            "Link": "https://www.justice.gov/opa/press-release/file/1213906/download",
+            "Description": "Oct 30, 2019 ... and American Dehydrated Foods, LLC (“ADF ... relevant product market and line of commerce under Section 7 of the Clayton ...",
+            "Concated_text": "Title:Case 1:19-cv-03263 Document 1 Filed 10/30/19 Page 1 of 10 ...\nLink:https://www.justice.gov/opa/press-release/file/1213906/download\nDescription:Oct 30, 2019 ... and American Dehydrated Foods, LLC (“ADF ... relevant product market and line of commerce under Section 7 of the Clayton ...",
+            "relevant": true,
+            "input_price": 3.40983,
+            "collect_time": 3.345044879009947
+        },
+        {
+            "Title": "Latin America Dehydrated Food Market | Brazil, Mexico, Argentina ...",
+            "Link": "https://www.marketdataforecast.com/market-reports/latin-america-dehydrated-food-market",
+            "Description": "White & Case advised BNP Paribas and UniCredit Bank AG in financing the acquisition of American Dehydrated Foods LLC, International ...",
+            "Concated_text": "Title:Latin America Dehydrated Food Market | Brazil, Mexico, Argentina ...\nLink:https://www.marketdataforecast.com/market-reports/latin-america-dehydrated-food-market\nDescription:White & Case advised BNP Paribas and UniCredit Bank AG in financing the acquisition of American Dehydrated Foods LLC, International ...",
+            "relevant": true,
+            "input_price": 0.22989,
+            "collect_time": 17.724604706978425
+        }
+    ],
+    "email": null,
+    "search_total_info": "- Buyer overview\nCompany Name: American Dehydrated Foods, LLC\nRepresentative: William H Darr\nProduct: Poultry processing\nWebsite: www.adf.com \n\n- Buyer's recent activities \nProduct info : Chicken-based food ingredients \nUseful info : 1. The Department of Justice filed a civil antitrust lawsuit in the U.S. District Court for the District of Columbia to block the proposed merger.\n2. The Justice Department’s Antitrust Division filed a civil antitrust lawsuit in the U.S. District Court for the District of Columbia to block the proposed merger.\n3. The divestiture required under the settlement would, if approved by the court, require Symrise to sell its brand-new facility in Banks County, Georgia, to Kerry Inc. or an alternate acquirer approved by the United States."
+}

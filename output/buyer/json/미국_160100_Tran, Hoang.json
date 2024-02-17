@@ -1,0 +1,48 @@
+{
+    "rnum": 8,
+    "trgtpsnNo": "6003196940",
+    "trgtpsnCd": "450",
+    "trgtpsnDtlCd": "174139",
+    "trgtpsnNm": "Tran, Hoang",
+    "rprsnt1Nm": "HOANG TRAN",
+    "biztyp1Cd": "10112",
+    "biztyp1CdNm": "가금류 도축업",
+    "trgtpsn1EmpCnt": 3,
+    "trgtpsnTelno": "1-2158330923",
+    "trgtpsn1Addr": "/4938 N 5TH St/Philadelphia/Pennsylvania/Philadelphia/United States/19120-3810",
+    "fundDd": "20150630",
+    "prod1Nm": "Poultry processing",
+    "insuUseYn": "N",
+    "impYn": "N",
+    "koreaCuYn": "Y",
+    "extrnlCstYn": "N",
+    "packAbrdEntprYn": "N",
+    "korNm": "미국",
+    "compscale": "D",
+    "nation_name": "미국",
+    "industry_code": "10112",
+    "hscode": "160100",
+    "company_description": "Company Name: Tran, Hoang\nRepresentative: HOANG TRAN\nProduct: Poultry processing\nWebsite:",
+    "search_result": [
+        {
+            "Title": "Hoang Tran (@mumblestohimself) • Instagram photos and videos",
+            "Link": "https://www.instagram.com/mumblestohimself/?hl=en",
+            "Description": "79K Followers, 312 Following, 1181 Posts - See Instagram photos and videos from Hoang Tran (@mumblestohimself)",
+            "Concated_text": "Title:Hoang Tran (@mumblestohimself) • Instagram photos and videos\nLink:https://www.instagram.com/mumblestohimself/?hl=en\nDescription:79K Followers, 312 Following, 1181 Posts - See Instagram photos and videos from Hoang Tran (@mumblestohimself)",
+            "relevant": true,
+            "input_price": 0.26389999999999997,
+            "collect_time": 3.998596022836864
+        },
+        {
+            "Title": "Hoang Dinh Tran, DO - Family Medicine | Kaiser Permanente",
+            "Link": "https://healthy.kaiserpermanente.org/southern-california/physicians/hoang-tran-5457608",
+            "Description": "Hoang Dinh Tran, DO practices in southern-california. See full profile for credentials, specialty, location(s), and contact information.",
+            "Concated_text": "Title:Hoang Dinh Tran, DO - Family Medicine | Kaiser Permanente\nLink:https://healthy.kaiserpermanente.org/southern-california/physicians/hoang-tran-5457608\nDescription:Hoang Dinh Tran, DO practices in southern-california. See full profile for credentials, specialty, location(s), and contact information.",
+            "relevant": true,
+            "input_price": 0.25626,
+            "collect_time": 8.44218158815056
+        }
+    ],
+    "email": null,
+    "search_total_info": "- Buyer overview\nCompany Name: Tran, Hoang\nRepresentative: HOANG TRAN\nProduct: Poultry processing\nWebsite: \n\n- Buyer's recent activities \nProduct info :  \nUseful info :"
+}

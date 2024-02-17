@@ -1,0 +1,100 @@
+{
+    "rnum": 17,
+    "trgtpsnNo": "6003102200",
+    "trgtpsnCd": "450",
+    "trgtpsnDtlCd": "160570",
+    "trgtpsnNm": "Henningsen Foods, Inc.",
+    "rprsnt1Nm": "James Harshman",
+    "biztyp1Cd": "10112",
+    "biztyp1CdNm": "가금류 도축업",
+    "trgtpsn1EmpCnt": 25,
+    "trgtpsnTelno": "1-4023302500",
+    "trgtpsn1Addr": "/10025 I St/Omaha/Nebraska/Douglas/United States/68127-1132",
+    "fundDd": "18890630",
+    "prod1Nm": "Poultry processing",
+    "hmpgAddr": "www.henningsenfoods.com",
+    "insuUseYn": "N",
+    "impYn": "Y",
+    "koreaCuYn": "Y",
+    "extrnlCstYn": "N",
+    "packAbrdEntprYn": "N",
+    "korNm": "미국",
+    "compscale": "D",
+    "nation_name": "미국",
+    "industry_code": "10112",
+    "hscode": "160100",
+    "company_description": "Company Name: Henningsen Foods, Inc.\nRepresentative: James Harshman\nProduct: Poultry processing\nWebsite: www.henningsenfoods.com",
+    "search_result": [
+        {
+            "Title": "Henningsen Foods, Inc.",
+            "Link": "https://web.nechamber.com/Restaurants,-Food-Beverages/Henningsen-Foods,-Inc-3028",
+            "Description": "Henningsen Foods, Inc. | PO Box 1289, Norfolk, NE, 68702 |",
+            "Concated_text": "Title:Henningsen Foods, Inc.\nLink:https://web.nechamber.com/Restaurants,-Food-Beverages/Henningsen-Foods,-Inc-3028\nDescription:Henningsen Foods, Inc. | PO Box 1289, Norfolk, NE, 68702 |",
+            "relevant": true,
+            "input_price": 0.19358,
+            "link_content_summary": "{\n \"Summary\": \"Henningsen Foods, Inc. is a food processing company based in Norfolk, Nebraska. They can be reached at (402) 330-2500 and their website is www.henningsenfoods.com.\",\n \"Company Name\": \"Henningsen Foods, Inc.\",\n \"Email\": \"None\",\n \"Phone Number\": \"402) 330-2500\",\n \"Address\": \"PO Box 1289 Norfolk, NE, 68702\",\n \"Product Information\": \"None\",\n \"Representative\": \"None\",\n \"Useful Information\": \"Henningsen Foods, Inc.\\nis a member of the National Association of Manufacturers\\nand the US Chamber of Commerce.\"\n}",
+            "output_price": 0.00432,
+            "collect_time": 24.73008693708107
+        },
+        {
+            "Title": "Henningsen Foods, Inc. | Food Safety and Inspection Service",
+            "Link": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/henningsen-foods-inc.-0",
+            "Description": "Nov 18, 2020 ... Want the latest food safety news and information from FSIS? Subscribe to get email updates when new content is added to our website. No Thanks",
+            "Concated_text": "Title:Henningsen Foods, Inc. | Food Safety and Inspection Service\nLink:http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/henningsen-foods-inc.-0\nDescription:Nov 18, 2020 ... Want the latest food safety news and information from FSIS? Subscribe to get email updates when new content is added to our website. No Thanks",
+            "relevant": true,
+            "input_price": 0.50686,
+            "collect_time": 3.557855407940224
+        },
+        {
+            "Title": "Henningsen Foods, Inc. Company Profile | Omaha, NE | Competitors ...",
+            "Link": "https://www.dnb.com/business-directory/company-profiles.henningsen_foods_inc.2fbe0dd5ee2b48c8579376882652031b.html",
+            "Description": "Find company research, competitor information, contact details & financial data for Henningsen Foods, Inc. of Omaha, NE. Get the latest business insights ...",
+            "Concated_text": "Title:Henningsen Foods, Inc. Company Profile | Omaha, NE | Competitors ...\nLink:https://www.dnb.com/business-directory/company-profiles.henningsen_foods_inc.2fbe0dd5ee2b48c8579376882652031b.html\nDescription:Find company research, competitor information, contact details & financial data for Henningsen Foods, Inc. of Omaha, NE. Get the latest business insights ...",
+            "relevant": true,
+            "input_price": 0.00864,
+            "link_content_summary": "{\n\"Summary\": \"요약된 HTML 소스 코드가 없습니다.\",\n\"Company Name\": \"None\",\n\"Email\": \"None\",\n\"Phone Number\": \"None\",\n\"Address\": \"None\",\n\"Product Information\": \"None\",\n\"Representative\": \"None\",\n\"Useful Information\": \"None\"\n}",
+            "output_price": 0.0020099999999999996,
+            "collect_time": 2.4549037299584597
+        },
+        {
+            "Title": "Michael Foods Acquires Eggs Processor Henningsen Foods",
+            "Link": "https://www.powderbulksolids.com/food-beverage/michael-foods-acquires-eggs-processor-henningsen-foods",
+            "Description": "Post Holdings-owned Michael Foods closed its acquisition of dehydrated eggs and meats producer Henningsen Foods from Kewpie Corporation.",
+            "Concated_text": "Title:Michael Foods Acquires Eggs Processor Henningsen Foods\nLink:https://www.powderbulksolids.com/food-beverage/michael-foods-acquires-eggs-processor-henningsen-foods\nDescription:Post Holdings-owned Michael Foods closed its acquisition of dehydrated eggs and meats producer Henningsen Foods from Kewpie Corporation.",
+            "relevant": true,
+            "input_price": 0.28481,
+            "collect_time": 2.6563665671274066
+        },
+        {
+            "Title": "United States and State of Nebraska Reach Settlement with ...",
+            "Link": "https://www.epa.gov/newsreleases/united-states-and-state-nebraska-reach-settlement-henningsen-foods-inc-alleged-clean",
+            "Description": "Jul 7, 2020 ... EPA News Release: United States and State of Nebraska Reach Settlement with Henningsen Foods Inc. for Alleged Clean Water Act Violations.",
+            "Concated_text": "Title:United States and State of Nebraska Reach Settlement with ...\nLink:https://www.epa.gov/newsreleases/united-states-and-state-nebraska-reach-settlement-henningsen-foods-inc-alleged-clean\nDescription:Jul 7, 2020 ... EPA News Release: United States and State of Nebraska Reach Settlement with Henningsen Foods Inc. for Alleged Clean Water Act Violations.",
+            "relevant": true,
+            "input_price": 0.24556,
+            "link_content_summary": "{\n\"Summary\": \"The United States and State of Nebraska have reached a settlement with Henningsen Foods Inc. for alleged Clean Water Act violations. Henningsen Foods will spend about $2 million to reduce the amount of pollutants the facility sends to the David City wastewater treatment system and pay a $827,500 civil penalty.\",\n\"Company Name\": \"Henningsen Foods Inc.\",\n\"Email\": null,\n\"Phone Number\": \"913-551-7364\",\n\"Address\": null,\n\"Product Information\": null,\n\"Representative\": \"Ben Washburn\",\n\"Useful Information\": \"Henningsen processes approximately 1.2 million eggs per day and is one of the largest egg processors in the state.\"\n}",
+            "output_price": 0.0045,
+            "collect_time": 12.861700979061425
+        },
+        {
+            "Title": "(Translation) July 2, 2020 Dear Sirs: Kewpie Corporation Notice of ...",
+            "Link": "https://www.kewpie.com/en/ir/pdf/news/2020/Notice_of_Share_Transfer_of_U.S._Subsidiary.pdf",
+            "Description": "Jul 2, 2020 ... Person to contact: Nobuo Inoue,. Director, Executive Corporate Officer. (TEL: 03-3486 ... (\"POST\") to transfer all shares of HENNINGSEN FOODS, INC ...",
+            "Concated_text": "Title:(Translation) July 2, 2020 Dear Sirs: Kewpie Corporation Notice of ...\nLink:https://www.kewpie.com/en/ir/pdf/news/2020/Notice_of_Share_Transfer_of_U.S._Subsidiary.pdf\nDescription:Jul 2, 2020 ... Person to contact: Nobuo Inoue,. Director, Executive Corporate Officer. (TEL: 03-3486 ... (\"POST\") to transfer all shares of HENNINGSEN FOODS, INC ...",
+            "relevant": true,
+            "input_price": 0.92352,
+            "collect_time": 2.2783885118551552
+        },
+        {
+            "Title": "Michael Foods acquires Henningsen Foods from Kewpie ...",
+            "Link": "https://www.wattagnet.com/egg/egg-production/article/15531400/michael-foods-acquires-henningsen-foods-from-kewpie-wattagnet",
+            "Description": "Jul 6, 2020 ... According to information on the Kewpie Corporation, on its website, stated that its medium-term business plan was to accelerate business ...",
+            "Concated_text": "Title:Michael Foods acquires Henningsen Foods from Kewpie ...\nLink:https://www.wattagnet.com/egg/egg-production/article/15531400/michael-foods-acquires-henningsen-foods-from-kewpie-wattagnet\nDescription:Jul 6, 2020 ... According to information on the Kewpie Corporation, on its website, stated that its medium-term business plan was to accelerate business ...",
+            "relevant": true,
+            "input_price": 0.54311,
+            "collect_time": 3.6261103528086096
+        }
+    ],
+    "email": null,
+    "search_total_info": "- Buyer overview\nCompany Name: Henningsen Foods, Inc.\nRepresentative: James Harshman\nProduct: Poultry processing\nWebsite: www.henningsenfoods.com \n\n- Buyer's recent activities \nProduct info :  \nUseful info : Henningsen Foods, Inc.\nis a member of the National Association of Manufacturers\nand the US Chamber of Commerce.. Henningsen processes approximately 1.2 million eggs per day and is one of the largest egg processors in the state."
+}

@@ -1,0 +1,88 @@
+{
+    "rnum": 10,
+    "trgtpsnNo": "6004068540",
+    "trgtpsnCd": "450",
+    "trgtpsnDtlCd": "319599",
+    "trgtpsnNm": "Eggology, Inc",
+    "rprsnt1Nm": "Tony Gryack",
+    "biztyp1Cd": "10112",
+    "biztyp1CdNm": "가금류 도축업",
+    "trgtpsn1EmpCnt": 19,
+    "trgtpsnTelno": "1-8186102222",
+    "trgtpsn1Addr": "/968 S Kent Rd/Pearl City/Illinois/Stephenson/United States/61062-9170",
+    "fundDd": "19950630",
+    "prod1Nm": "Poultry processing",
+    "insuUseYn": "N",
+    "impYn": "Y",
+    "koreaCuYn": "N",
+    "extrnlCstYn": "N",
+    "packAbrdEntprYn": "N",
+    "korNm": "미국",
+    "compscale": "D",
+    "nation_name": "미국",
+    "industry_code": "10112",
+    "hscode": "160100",
+    "company_description": "Company Name: Eggology, Inc\nRepresentative: Tony Gryack\nProduct: Poultry processing\nWebsite:",
+    "search_result": [
+        {
+            "Title": "packagingdigest.com - Certified Humane",
+            "Link": "https://certifiedhumane.org/packagingdigest-com/",
+            "Description": "Feb 9, 2012 ... Eggology Inc., a leading processor of liquid organic and all-natural egg white products, has become the first California egg products company ...",
+            "Concated_text": "Title:packagingdigest.com - Certified Humane\nLink:https://certifiedhumane.org/packagingdigest-com/\nDescription:Feb 9, 2012 ... Eggology Inc., a leading processor of liquid organic and all-natural egg white products, has become the first California egg products company ...",
+            "relevant": true,
+            "input_price": 0.21869,
+            "link_content_summary": "{\n \"Summary\": \"- Eggology Inc., a leading processor of liquid organic and all-natural egg white products, has become the first California egg products company to commit to having 100 percent of its egg products made from Proposition 2 compliant eggs, and to have all of its cage-free products made from Certified Humane® eggs.\\n- Packages now show the Certified Humane® logo. \\n- Proposition 2, passed by Californians in 2008, mandates that all chickens must be raised outside of restrictive battery cages by 2015, while the Certified Humane® seal assures customers that the product meets strict animal welfare standards (including space and air quality requirements, no sub-therapeutic antibiotics, and environmental enrichment such as perching and litter).\",\n \"Company Name\": \"Eggology Inc\",\n \"Email\": \"None\",\n \"Phone Number\": \"(703)435-3883\",\n \"Address\": \"PO Box 82 Middleburg, VA 20118\",\n \"Product Information\": \"liquid organic and all-natural egg white products\",\n \"Representative\": \"Tony Dryak\",\n \"Useful Information\": \"Proposition 2, passed by Californians in 2008, mandates that all chickens must be raised outside of restrictive battery cages by 2015, while the Certified Humane® seal assures customers that the product meets strict animal welfare standards (including space and air quality requirements, no sub-therapeutic antibiotics, and environmental enrichment such as perching and litter).\"\n}",
+            "output_price": 0.00912,
+            "collect_time": 18.303783030016348
+        },
+        {
+            "Title": "Eggology Becomes First Egg Products Brand \"Certified ... - CSRWire",
+            "Link": "https://www.csrwire.com/press_releases/14480-eggology-becomes-first-egg-products-brand-certified-humane-by-animal-welfare-auditor-humane-farm-animal-care-",
+            "Description": "Mar 31, 2008 ... ... information about the non-cruelty standards Eggology maintains). ... Eggology is the only company that utilizes only fresh pasteurized egg whites ...",
+            "Concated_text": "Title:Eggology Becomes First Egg Products Brand \"Certified ... - CSRWire\nLink:https://www.csrwire.com/press_releases/14480-eggology-becomes-first-egg-products-brand-certified-humane-by-animal-welfare-auditor-humane-farm-animal-care-\nDescription:Mar 31, 2008 ... ... information about the non-cruelty standards Eggology maintains). ... Eggology is the only company that utilizes only fresh pasteurized egg whites ...",
+            "relevant": true,
+            "input_price": 0.13561,
+            "collect_time": 17.83843092713505
+        },
+        {
+            "Title": "Eggology | Exercise.com",
+            "Link": "https://www.exercise.com/companies/eggology/",
+            "Description": "Overview; Awards; Endorsements. Eggology History. Brad Halpern, CEO, founded Eggology in California in 1993. Although the company began selling egg white ...",
+            "Concated_text": "Title:Eggology | Exercise.com\nLink:https://www.exercise.com/companies/eggology/\nDescription:Overview; Awards; Endorsements. Eggology History. Brad Halpern, CEO, founded Eggology in California in 1993. Although the company began selling egg white ...",
+            "relevant": true,
+            "input_price": 0.10656,
+            "collect_time": 10.161142776021734
+        },
+        {
+            "Title": "Eggology",
+            "Link": "https://www.eggology.com/",
+            "Description": null,
+            "Concated_text": "Title:Eggology\nLink:https://www.eggology.com/\nDescription:None",
+            "relevant": true,
+            "input_price": 0.00347,
+            "link_content_summary": "{\n\"Summary\": \"이 HTML 소스 코드는 웹 페이지의 뼈대를 구성하는 기본 구조만 제공하며, 내용이나 특정 회사에 대한 정보가 없습니다.\",\n\"Company Name\": \"None\",\n\"Email\": \"None\",\n\"Phone Number\": \"None\",\n\"Address\": \"None\",\n\"Product Information\": \"None\",\n\"Representative\": \"None\",\n\"Useful Information\": \"None\"\n}",
+            "output_price": 0.00309,
+            "collect_time": 3.513557937927544
+        },
+        {
+            "Title": "Eggology® Announces Two-Year Sponsorship of CrossFit Games",
+            "Link": "https://www.prnewswire.com/news-releases/eggology-announces-two-year-sponsorship-of-crossfit-games-300295144.html",
+            "Description": "PRNewswire/ -- Eggology®, a leading producer of organic and cage free liquid egg products, has announced a two-year sponsorship with CrossFit, Inc. as the.",
+            "Concated_text": "Title:Eggology® Announces Two-Year Sponsorship of CrossFit Games\nLink:https://www.prnewswire.com/news-releases/eggology-announces-two-year-sponsorship-of-crossfit-games-300295144.html\nDescription:PRNewswire/ -- Eggology®, a leading producer of organic and cage free liquid egg products, has announced a two-year sponsorship with CrossFit, Inc. as the.",
+            "relevant": true,
+            "input_price": 0.46126,
+            "collect_time": 3.175685891881585
+        },
+        {
+            "Title": "Councilmember Brad Halpern | Westlake Village, CA - Official Website",
+            "Link": "https://www.wlv.org/350/Brad-Halpern",
+            "Description": "Brad received a Bachelors degree from USC. He is an entrepreneurial businessman who created and founded Eggology, Inc. in Canoga Park in 1993 that pioneered the ...",
+            "Concated_text": "Title:Councilmember Brad Halpern | Westlake Village, CA - Official Website\nLink:https://www.wlv.org/350/Brad-Halpern\nDescription:Brad received a Bachelors degree from USC. He is an entrepreneurial businessman who created and founded Eggology, Inc. in Canoga Park in 1993 that pioneered the ...",
+            "relevant": true,
+            "input_price": 0.26834,
+            "collect_time": 5.025805888930336
+        }
+    ],
+    "email": null,
+    "search_total_info": "- Buyer overview\nCompany Name: Eggology, Inc\nRepresentative: Tony Gryack\nProduct: Poultry processing\nWebsite: \n\n- Buyer's recent activities \nProduct info : liquid organic and all-natural egg white products \nUseful info : Proposition 2, passed by Californians in 2008, mandates that all chickens must be raised outside of restrictive battery cages by 2015, while the Certified Humane® seal assures customers that the product meets strict animal welfare standards (including space and air quality requirements, no sub-therapeutic antibiotics, and environmental enrichment such as perching and litter)."
+}

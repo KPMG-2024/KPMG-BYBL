@@ -1,0 +1,79 @@
+{
+    "rnum": 43,
+    "trgtpsnNo": "6003675350",
+    "trgtpsnCd": "450",
+    "trgtpsnDtlCd": "253674",
+    "trgtpsnNm": "Grimaud Farms of California, Inc.",
+    "rprsnt1Nm": "Rheal Cayer",
+    "biztyp1Cd": "10112",
+    "biztyp1CdNm": "가금류 도축업",
+    "trgtpsn1EmpCnt": 20,
+    "trgtpsnTelno": "1-2094663200",
+    "trgtpsn1Addr": "/1320 S Aurora St Ste A/Stockton/California/San Joaquin/United States/95206-1616",
+    "fundDd": "19850630",
+    "prod1Nm": "Poultry processing",
+    "hmpgAddr": "www.grimaudfarms.com",
+    "insuUseYn": "N",
+    "impYn": "Y",
+    "koreaCuYn": "N",
+    "usdSaleAmt": 12143240,
+    "extrnlCstYn": "N",
+    "packAbrdEntprYn": "N",
+    "korNm": "미국",
+    "compscale": "D",
+    "nation_name": "미국",
+    "industry_code": "10112",
+    "hscode": "160100",
+    "company_description": "Company Name: Grimaud Farms of California, Inc.\nRepresentative: Rheal Cayer\nProduct: Poultry processing\nWebsite: www.grimaudfarms.com",
+    "search_result": [
+        {
+            "Title": "Dupont Market, Inc. dba Grimaud Farms | Food Safety and ...",
+            "Link": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/dupont-market-inc.-dba-grimaud-farms",
+            "Description": "Mar 30, 2022 ... Stockton, CA 95205. Activities Poultry Slaughter, Poultry Processing. DBAS Grimaud Farms ... Information Quality & Publishing Schedule · Visit OIG ...",
+            "Concated_text": "Title:Dupont Market, Inc. dba Grimaud Farms | Food Safety and ...\nLink:http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/dupont-market-inc.-dba-grimaud-farms\nDescription:Mar 30, 2022 ... Stockton, CA 95205. Activities Poultry Slaughter, Poultry Processing. DBAS Grimaud Farms ... Information Quality & Publishing Schedule · Visit OIG ...",
+            "relevant": true,
+            "input_price": 0.50691,
+            "collect_time": 5.226196754025295
+        },
+        {
+            "Title": "GRIMAUD FARMS - 1320 S Aurora St, Stockton, California - Farms ...",
+            "Link": "https://www.yelp.com/biz/grimaud-farms-stockton",
+            "Description": "2 reviews and 2 photos of Grimaud Farms \"Bought a couple of their duck breasts through a local butcher here in Berkeley; nice quality and flavorful.",
+            "Concated_text": "Title:GRIMAUD FARMS - 1320 S Aurora St, Stockton, California - Farms ...\nLink:https://www.yelp.com/biz/grimaud-farms-stockton\nDescription:2 reviews and 2 photos of Grimaud Farms \"Bought a couple of their duck breasts through a local butcher here in Berkeley; nice quality and flavorful.",
+            "relevant": true,
+            "input_price": 1.4736300000000002,
+            "collect_time": 4.10231127589941
+        },
+        {
+            "Title": "Grimaud Farms - Crunchbase Company Profile & Funding",
+            "Link": "https://www.crunchbase.com/organization/grimaud-farms",
+            "Description": "Grimaud Farms is a poultry and egg farm that specializes in muscovy drake, hens, and bas well boneless chicks, as well as packing services.",
+            "Concated_text": "Title:Grimaud Farms - Crunchbase Company Profile & Funding\nLink:https://www.crunchbase.com/organization/grimaud-farms\nDescription:Grimaud Farms is a poultry and egg farm that specializes in muscovy drake, hens, and bas well boneless chicks, as well as packing services.",
+            "relevant": true,
+            "input_price": 0.77565,
+            "collect_time": 4.105497362790629
+        },
+        {
+            "Title": "FSIS Salmonella Categorization of Individual Establishments - Jan ...",
+            "Link": "https://www.fsis.usda.gov/sites/default/files/media_file/2020-08/establishment-categories-201902.pdf",
+            "Description": "dba Grimaud Farms. Stockton. CA. 5. Young Chicken Carcasses. 1. M19636+P19636. Tyson ... Foster Poultry Farms, A California Corporation. Farmerville. LA. 40.",
+            "Concated_text": "Title:FSIS Salmonella Categorization of Individual Establishments - Jan ...\nLink:https://www.fsis.usda.gov/sites/default/files/media_file/2020-08/establishment-categories-201902.pdf\nDescription:dba Grimaud Farms. Stockton. CA. 5. Young Chicken Carcasses. 1. M19636+P19636. Tyson ... Foster Poultry Farms, A California Corporation. Farmerville. LA. 40.",
+            "relevant": true,
+            "input_price": 6.1448,
+            "collect_time": 4.945328897796571
+        },
+        {
+            "Title": "Grimaud Farms-California Inc - Farm in Stockton",
+            "Link": "https://grimaud-farms-california-inc.business.site/",
+            "Description": "Grimaud Farms-California Inc · Gallery · Contact Us. Contact. Call now. (209) 466-3200 ...",
+            "Concated_text": "Title:Grimaud Farms-California Inc - Farm in Stockton\nLink:https://grimaud-farms-california-inc.business.site/\nDescription:Grimaud Farms-California Inc · Gallery · Contact Us. Contact. Call now. (209) 466-3200 ...",
+            "relevant": true,
+            "input_price": 0.22287,
+            "link_content_summary": "{\n\"Summary\": \"Grimaud Farms-California Inc is a farm in Stockton that sells a variety of crops and livestock. They offer a variety of services, including farm tours, hayrides, and pumpkin picking. The farm is family-owned and operated, and they are committed to providing their customers with the highest quality products and services. The farm is open to the public from 9am to 5pm, seven days a week.\",\n\"Company Name\": \"Grimaud Farms-California Inc.\",\n\"Email\": \"None\",\n\"Phone Number\": \"(209) 466-3200\",\n\"Address\": \"2716 East Miner Avenue, Stockton, CA 95205, USA\",\n\"Product Information\": \"None\",\n\"Representative\": \"None\",\n\"Useful Information\": \"The farm is open to the public from 9am to 5pm, seven days a week.\"\n}",
+            "output_price": 0.00552,
+            "collect_time": 14.633845559088513
+        }
+    ],
+    "email": null,
+    "search_total_info": "- Buyer overview\nCompany Name: Grimaud Farms of California, Inc.\nRepresentative: Rheal Cayer\nProduct: Poultry processing\nWebsite: www.grimaudfarms.com \n\n- Buyer's recent activities \nProduct info :  \nUseful info : The farm is open to the public from 9am to 5pm, seven days a week."
+}

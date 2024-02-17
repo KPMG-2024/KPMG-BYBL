@@ -1,0 +1,60 @@
+{
+    "rnum": 9,
+    "trgtpsnNo": "6004080279",
+    "trgtpsnCd": "450",
+    "trgtpsnDtlCd": "321540",
+    "trgtpsnNm": "Kustom Pak Foods, Ltd.",
+    "rprsnt1Nm": "Stan Sherman Junior",
+    "biztyp1Cd": "10112",
+    "biztyp1CdNm": "가금류 도축업",
+    "trgtpsn1EmpCnt": 450,
+    "trgtpsnTelno": "1-7122555108",
+    "trgtpsn1Addr": "/6201 MacArthur St/Sioux City/Iowa/Woodbury/United States/51111-1313",
+    "fundDd": "19830630",
+    "prod1Nm": "Poultry processing",
+    "hmpgAddr": "www.kustompakfoods.com",
+    "insuUseYn": "N",
+    "impYn": "Y",
+    "koreaCuYn": "N",
+    "extrnlCstYn": "N",
+    "packAbrdEntprYn": "N",
+    "korNm": "미국",
+    "compscale": "D",
+    "nation_name": "미국",
+    "industry_code": "10112",
+    "hscode": "160100",
+    "company_description": "Company Name: Kustom Pak Foods, Ltd.\nRepresentative: Stan Sherman Junior\nProduct: Poultry processing\nWebsite: www.kustompakfoods.com",
+    "search_result": [
+        {
+            "Title": "Kustom Pak Foods, Tur-Pak Foods and Sherman Family Foods ...",
+            "Link": "https://www.kustompakfoods.com/",
+            "Description": "Kustom Pak Foods and Tur-Pak Foods provide customized, fully-cooked proteins to Industrial, Chain Account, Foodservice and Retail customers in the United ...",
+            "Concated_text": "Title:Kustom Pak Foods, Tur-Pak Foods and Sherman Family Foods ...\nLink:https://www.kustompakfoods.com/\nDescription:Kustom Pak Foods and Tur-Pak Foods provide customized, fully-cooked proteins to Industrial, Chain Account, Foodservice and Retail customers in the United ...",
+            "relevant": true,
+            "input_price": 0.04611,
+            "collect_time": 5.66460798191838
+        },
+        {
+            "Title": "Kustom Pak Foods, Tur-Pak Foods and Sherman Family Foods ...",
+            "Link": "https://www.kustompakfoods.com/contact-us/",
+            "Description": "Contact Us · OUR PHILOSOPHY · \"We operate under one basic, but effective business philosophy: 'WIN/WIN' for Customers, Suppliers and our Company.\" · SEARCH OUR ...",
+            "Concated_text": "Title:Kustom Pak Foods, Tur-Pak Foods and Sherman Family Foods ...\nLink:https://www.kustompakfoods.com/contact-us/\nDescription:Contact Us · OUR PHILOSOPHY · \"We operate under one basic, but effective business philosophy: 'WIN/WIN' for Customers, Suppliers and our Company.\" · SEARCH OUR ...",
+            "relevant": true,
+            "input_price": 0.03854,
+            "collect_time": 6.332143591018394
+        },
+        {
+            "Title": "Kustom Pak Foods, Ltd. Company Profile | Sioux City, IA ...",
+            "Link": "https://www.dnb.com/business-directory/company-profiles.kustom_pak_foods_ltd.a835fb645f19df01dcb7a3bb2dac7dde.html",
+            "Description": "Just $139.99 * ... Company Description: Kustom Pak Foods produces packaged meat products, including portion-controlled and vacuum-packed pork, beef, and poultry.",
+            "Concated_text": "Title:Kustom Pak Foods, Ltd. Company Profile | Sioux City, IA ...\nLink:https://www.dnb.com/business-directory/company-profiles.kustom_pak_foods_ltd.a835fb645f19df01dcb7a3bb2dac7dde.html\nDescription:Just $139.99 * ... Company Description: Kustom Pak Foods produces packaged meat products, including portion-controlled and vacuum-packed pork, beef, and poultry.",
+            "relevant": true,
+            "input_price": 0.00856,
+            "link_content_summary": "{\n\"Summary\": \"This HTML code does not contain any relevant information about a company.\",\n\"Company Name\": \"None\",\n\"Email\": \"None\",\n\"Phone Number\": \"None\",\n\"Address\": \"None\",\n\"Product Information\": \"None\",\n\"Representative\": \"None\",\n\"Useful Information\": \"None\"\n}",
+            "output_price": 0.0020099999999999996,
+            "collect_time": 2.7861851130146533
+        }
+    ],
+    "email": null,
+    "search_total_info": "- Buyer overview\nCompany Name: Kustom Pak Foods, Ltd.\nRepresentative: Stan Sherman Junior\nProduct: Poultry processing\nWebsite: www.kustompakfoods.com \n\n- Buyer's recent activities \nProduct info :  \nUseful info :"
+}

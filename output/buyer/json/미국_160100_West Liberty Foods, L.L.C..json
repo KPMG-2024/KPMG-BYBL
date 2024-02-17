@@ -1,0 +1,181 @@
+{
+    "rnum": 15,
+    "trgtpsnNo": "6004216991",
+    "trgtpsnCd": "450",
+    "trgtpsnDtlCd": "345847",
+    "trgtpsnNm": "West Liberty Foods, L.L.C.",
+    "rprsnt1Nm": "Ed Garrett",
+    "biztyp1Cd": "10112",
+    "biztyp1CdNm": "가금류 도축업",
+    "trgtpsn1EmpCnt": 750,
+    "trgtpsnTelno": "1-3196272126",
+    "trgtpsn1Addr": "/228 W 2ND St/West Liberty/Iowa/Muscatine/United States/52776-1559",
+    "fundDd": "19960630",
+    "prod1Nm": "Poultry processing",
+    "hmpgAddr": "www.wlfoods.com",
+    "insuUseYn": "N",
+    "impYn": "Y",
+    "koreaCuYn": "N",
+    "extrnlCstYn": "N",
+    "packAbrdEntprYn": "N",
+    "korNm": "미국",
+    "compscale": "D",
+    "nation_name": "미국",
+    "industry_code": "10112",
+    "hscode": "160100",
+    "company_description": "Company Name: West Liberty Foods, L.L.C.\nRepresentative: Ed Garrett\nProduct: Poultry processing\nWebsite: www.wlfoods.com",
+    "search_result": [
+        {
+            "Title": "West Liberty Foods: Home",
+            "Link": "https://www.wlfoods.com/",
+            "Description": "Our hardworking, passionate food industry experts drive the development of signature proteins and business solutions to set your operation apart.",
+            "Concated_text": "Title:West Liberty Foods: Home\nLink:https://www.wlfoods.com/\nDescription:Our hardworking, passionate food industry experts drive the development of signature proteins and business solutions to set your operation apart.",
+            "relevant": true,
+            "input_price": 0.44850999999999996,
+            "collect_time": 2.4410816449671984
+        },
+        {
+            "Title": "West Liberty Foods Careers",
+            "Link": "https://careers.wlfoods.com/",
+            "Description": "West Liberty Foods Careers: We are The Surprisingly Big Company®, and we're right in your backyard. Visit us to learn more about career opportunities.",
+            "Concated_text": "Title:West Liberty Foods Careers\nLink:https://careers.wlfoods.com/\nDescription:West Liberty Foods Careers: We are The Surprisingly Big Company®, and we're right in your backyard. Visit us to learn more about career opportunities.",
+            "relevant": true,
+            "input_price": 0.21506999999999998,
+            "link_content_summary": "{\n\"Summary\": \"West Liberty Foods Careers: We are The Surprisingly Big Company®, and we’re right in your backyard. \\n\\nWe are a food company. We manufacture hundreds of meat and poultry products that can be found in well-known grocery stores and top restaurant chains nationwide.\",\n\"Company Name\": \"West Liberty Foods\",\n\"Email\": \"None\",\n\"Phone Number\": \"None\",\n\"Address\": \"None\",\n\"Product Information\": \"Meat and poultry products\",\n\"Representative\": \"None\",\n\"Useful Information\": \"Earnest employment-related questions and concerns should be addressed to the Human Resources Department, 800-874-7782, or your local Human Resources representative.\"\n}",
+            "output_price": 0.00426,
+            "collect_time": 15.60442550899461
+        },
+        {
+            "Title": "Contact - West Liberty Foods",
+            "Link": "https://www.wlfoods.com/contact/",
+            "Description": "We've expanded beyond our original facility in West Liberty, Iowa to our greenfield facility in Tremonton, Utah, and state-of-the-art sandwich operations in ...",
+            "Concated_text": "Title:Contact - West Liberty Foods\nLink:https://www.wlfoods.com/contact/\nDescription:We've expanded beyond our original facility in West Liberty, Iowa to our greenfield facility in Tremonton, Utah, and state-of-the-art sandwich operations in ...",
+            "relevant": true,
+            "input_price": 0.6140399999999999,
+            "collect_time": 2.4598263970110565
+        },
+        {
+            "Title": "West Liberty Foods, LLC | Food Safety and Inspection Service",
+            "Link": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/west-liberty-foods-llc",
+            "Description": "May 11, 2022 ... Want the latest food safety news and information from FSIS? Subscribe to get email updates when new content is added to our website. No Thanks",
+            "Concated_text": "Title:West Liberty Foods, LLC | Food Safety and Inspection Service\nLink:http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/west-liberty-foods-llc\nDescription:May 11, 2022 ... Want the latest food safety news and information from FSIS? Subscribe to get email updates when new content is added to our website. No Thanks",
+            "relevant": true,
+            "input_price": 0.5067900000000001,
+            "collect_time": 2.5999929460231215
+        },
+        {
+            "Title": "West Liberty Foods Recalls Grilled Chicken Breast Products Due to ...",
+            "Link": "http://www.fsis.usda.gov/recalls-alerts/west-liberty-foods-recalls-grilled-chicken-breast-products-due-possible-foreign",
+            "Description": "Apr 24, 2015 ... ... West Liberty Foods LLC. Quantity Recovered. 19,838 pounds. FSIS ... FSIS Contact Information. Media Contact. Congressional and Public Affairs.",
+            "Concated_text": "Title:West Liberty Foods Recalls Grilled Chicken Breast Products Due to ...\nLink:http://www.fsis.usda.gov/recalls-alerts/west-liberty-foods-recalls-grilled-chicken-breast-products-due-possible-foreign\nDescription:Apr 24, 2015 ... ... West Liberty Foods LLC. Quantity Recovered. 19,838 pounds. FSIS ... FSIS Contact Information. Media Contact. Congressional and Public Affairs.",
+            "relevant": true,
+            "input_price": 0.56332,
+            "collect_time": 4.782002231804654
+        },
+        {
+            "Title": "West Liberty Foods LLC | Food Safety and Inspection Service",
+            "Link": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/west-liberty-foods-llc-0",
+            "Description": "Jan 27, 2022 ... Want the latest food safety news and information from FSIS? Subscribe to get email updates when new content is added to our website. No Thanks",
+            "Concated_text": "Title:West Liberty Foods LLC | Food Safety and Inspection Service\nLink:http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/west-liberty-foods-llc-0\nDescription:Jan 27, 2022 ... Want the latest food safety news and information from FSIS? Subscribe to get email updates when new content is added to our website. No Thanks",
+            "relevant": true,
+            "input_price": 0.51221,
+            "collect_time": 4.133940446190536
+        },
+        {
+            "Title": "West Liberty Foods Careers",
+            "Link": "https://careers.wlfoods.com/",
+            "Description": "Core Values · Leadership. Through relationships, knowledge, and vision, we will strive to ethically influence situations and create empowered and engaged team ...",
+            "Concated_text": "Title:West Liberty Foods Careers\nLink:https://careers.wlfoods.com/\nDescription:Core Values · Leadership. Through relationships, knowledge, and vision, we will strive to ethically influence situations and create empowered and engaged team ...",
+            "relevant": true,
+            "input_price": 0.21519,
+            "link_content_summary": "{\n\"Summary\": \"West Liberty Foods is a protein processing company headquartered in West Liberty, Iowa. With facilities in Iowa, Illinois, and Utah, the company produces various meat and poultry products for major grocery chains and restaurants. West Liberty Foods is known as “The Surprisingly Big Company” due to its significant production capacity of over 650 million pounds of food annually. The company emphasizes its family-oriented atmosphere and commitment to environmental responsibility.\",\n\"Company Name\": \"West Liberty Foods\",\n\"Email\": \"None\",\n\"Phone Number\": \"None\",\n\"Address\": \"None\",\n\"Product Information\": \"West Liberty Foods manufactures a wide range of meat and poultry products, including:\\n\\n* Beef\\n* Poultry\\n* Pork\\n* Seafood\\n\\nThese products are sold to major grocery chains and restaurants nationwide.\",\n\"Representative\": \"None\",\n\"Useful Information\": \"* West Liberty Foods is a family-oriented company that values agricultural heritage and strives to maintain a positive work-life balance for its employees.\\n\\n* The company prioritizes innovation and entrepreneurship, encouraging its employees to take calculated risks to grow the business.\\n\\n* West Liberty Foods is committed to social responsibility, focusing on sustainability, ethical sourcing, and minimizing its environmental impact.\\n\\n* The company offers a variety of employee benefits, including health insurance, paid time off, and tuition reimbursement.\"\n}",
+            "output_price": 0.00825,
+            "collect_time": 14.549464209005237
+        },
+        {
+            "Title": "West Liberty Foods: Home",
+            "Link": "https://www.wlfoods.com/",
+            "Description": "Our hardworking, passionate food industry experts drive the development of signature proteins and business solutions to set your operation apart.",
+            "Concated_text": "Title:West Liberty Foods: Home\nLink:https://www.wlfoods.com/\nDescription:Our hardworking, passionate food industry experts drive the development of signature proteins and business solutions to set your operation apart.",
+            "relevant": true,
+            "input_price": 0.4485,
+            "collect_time": 3.5934675021562725
+        },
+        {
+            "Title": "Capabilities - West Liberty Foods",
+            "Link": "https://www.wlfoods.com/capabilities/",
+            "Description": "With long-standing expertise across the protein category—including turkey, beef, pork and chicken—West Liberty Foods is here to help our food industry ...",
+            "Concated_text": "Title:Capabilities - West Liberty Foods\nLink:https://www.wlfoods.com/capabilities/\nDescription:With long-standing expertise across the protein category—including turkey, beef, pork and chicken—West Liberty Foods is here to help our food industry ...",
+            "relevant": true,
+            "input_price": 0.45579000000000003,
+            "collect_time": 2.607471430907026
+        },
+        {
+            "Title": "Sustainability - West Liberty Foods",
+            "Link": "https://www.wlfoods.com/sustainability/",
+            "Description": "At West Liberty Foods, we are proud of the achievements we have reached so far, but our long-term objective is continuous improvement across our operations. We ...",
+            "Concated_text": "Title:Sustainability - West Liberty Foods\nLink:https://www.wlfoods.com/sustainability/\nDescription:At West Liberty Foods, we are proud of the achievements we have reached so far, but our long-term objective is continuous improvement across our operations. We ...",
+            "relevant": true,
+            "input_price": 0.5276000000000001,
+            "collect_time": 2.762801670935005
+        },
+        {
+            "Title": "Contact - West Liberty Foods",
+            "Link": "https://www.wlfoods.com/contact/",
+            "Description": "GET IN TOUCH. Our business is built on the strength of our word, and we have an unwavering responsibility to our partners. When you reach out to us, know that ...",
+            "Concated_text": "Title:Contact - West Liberty Foods\nLink:https://www.wlfoods.com/contact/\nDescription:GET IN TOUCH. Our business is built on the strength of our word, and we have an unwavering responsibility to our partners. When you reach out to us, know that ...",
+            "relevant": true,
+            "input_price": 0.6140399999999999,
+            "collect_time": 3.082398812053725
+        },
+        {
+            "Title": "Benefits | West Liberty Foods Careers",
+            "Link": "https://careers.wlfoods.com/benefits/",
+            "Description": "After 60 Days · Medical & Prescription · Dental · Vision · Group Basic Life & AD&D Insurance · Short Term Disability · Long Term Disability · Flexible Spending ...",
+            "Concated_text": "Title:Benefits | West Liberty Foods Careers\nLink:https://careers.wlfoods.com/benefits/\nDescription:After 60 Days · Medical & Prescription · Dental · Vision · Group Basic Life & AD&D Insurance · Short Term Disability · Long Term Disability · Flexible Spending ...",
+            "relevant": true,
+            "input_price": 0.14246999999999999,
+            "link_content_summary": "{\n\"Summary\": \"- We consider our team members family and take care of them.\\n- We offer benefits packages for both our salaried and hourly full-time team members.\\n- Benefits include: Holiday Pay, Vacation Pay, Sick Pay, Bereavement Leave Pay, Team Member Assistance Program (EAP), and Team Member Market Discount.\\n- After 60 Days of employment, additional benefits may include: Medical & Prescription, Dental, Vision, Group Basic Life & AD&D Insurance, Short Term Disability, Long Term Disability, Flexible Spending Accounts (FSA), Voluntary Term Life Insurance, Supplemental Insurance, 401(K) Retirement Plan, Wellness for Life Program, and Educational Assistance Program.\",\n\"Company Name\": \"West Liberty Foods\",\n\"Email\": \"None\",\n\"Phone Number\": \"None\",\n\"Address\": \"None\",\n\"Product Information\": \"None\",\n\"Representative\": \"None\",\n\"Useful Information\": \"None\"\n}",
+            "output_price": 0.00579,
+            "collect_time": 12.741824188036844
+        },
+        {
+            "Title": "Culinary Resources - West Liberty Foods",
+            "Link": "https://www.wlfoods.com/culinary-resources/",
+            "Description": "CLEAN LABEL APPEAL. 78% of consumers find clean-label products appealing. West Liberty Foods offers many antibiotic-free turkey, pork, and chicken products, ...",
+            "Concated_text": "Title:Culinary Resources - West Liberty Foods\nLink:https://www.wlfoods.com/culinary-resources/\nDescription:CLEAN LABEL APPEAL. 78% of consumers find clean-label products appealing. West Liberty Foods offers many antibiotic-free turkey, pork, and chicken products, ...",
+            "relevant": true,
+            "input_price": 0.45826,
+            "collect_time": 2.7674838199745864
+        },
+        {
+            "Title": "Privacy Policy - West Liberty Foods",
+            "Link": "https://www.wlfoods.com/privacy-policy/",
+            "Description": "If you have any questions about this Policy, or the information collected, disseminated or used by WLF, you can contact WLF and its employee(s) responsible for ...",
+            "Concated_text": "Title:Privacy Policy - West Liberty Foods\nLink:https://www.wlfoods.com/privacy-policy/\nDescription:If you have any questions about this Policy, or the information collected, disseminated or used by WLF, you can contact WLF and its employee(s) responsible for ...",
+            "relevant": true,
+            "input_price": 0.43086,
+            "collect_time": 2.452873397851363
+        },
+        {
+            "Title": "Brand Promise - West Liberty Foods",
+            "Link": "https://www.wlfoods.com/brand-promise/",
+            "Description": "From our dedication to sustainability to the mindful approach we take to innovation, West Liberty Foods is committed to responsible practices that demonstrate ...",
+            "Concated_text": "Title:Brand Promise - West Liberty Foods\nLink:https://www.wlfoods.com/brand-promise/\nDescription:From our dedication to sustainability to the mindful approach we take to innovation, West Liberty Foods is committed to responsible practices that demonstrate ...",
+            "relevant": true,
+            "input_price": 0.42282,
+            "collect_time": 2.4087066780775785
+        },
+        {
+            "Title": "About Us - West Liberty Foods",
+            "Link": "https://www.wlfoods.com/about-us/",
+            "Description": "West Liberty Foods was formed in 1996 under the guiding principles of the Iowa Turkey Growers Cooperative. The continued success of West Liberty Foods is ...",
+            "Concated_text": "Title:About Us - West Liberty Foods\nLink:https://www.wlfoods.com/about-us/\nDescription:West Liberty Foods was formed in 1996 under the guiding principles of the Iowa Turkey Growers Cooperative. The continued success of West Liberty Foods is ...",
+            "relevant": true,
+            "input_price": 0.41445,
+            "collect_time": 2.37379531795159
+        }
+    ],
+    "email": null,
+    "search_total_info": "- Buyer overview\nCompany Name: West Liberty Foods, L.L.C.\nRepresentative: Ed Garrett\nProduct: Poultry processing\nWebsite: www.wlfoods.com \n\n- Buyer's recent activities \nProduct info : Meat and poultry products. West Liberty Foods manufactures a wide range of meat and poultry products, including:\n\n* Beef\n* Poultry\n* Pork\n* Seafood\n\nThese products are sold to major grocery chains and restaurants nationwide. \nUseful info : Earnest employment-related questions and concerns should be addressed to the Human Resources Department, 800-874-7782, or your local Human Resources representative.. * West Liberty Foods is a family-oriented company that values agricultural heritage and strives to maintain a positive work-life balance for its employees.\n\n* The company prioritizes innovation and entrepreneurship, encouraging its employees to take calculated risks to grow the business.\n\n* West Liberty Foods is committed to social responsibility, focusing on sustainability, ethical sourcing, and minimizing its environmental impact.\n\n* The company offers a variety of employee benefits, including health insurance, paid time off, and tuition reimbursement."
+}

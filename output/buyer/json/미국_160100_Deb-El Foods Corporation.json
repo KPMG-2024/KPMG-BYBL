@@ -1,0 +1,162 @@
+{
+    "rnum": 44,
+    "trgtpsnNo": "6004097266",
+    "trgtpsnCd": "450",
+    "trgtpsnDtlCd": "324405",
+    "trgtpsnNm": "Deb-El Foods Corporation",
+    "rprsnt1Nm": "Elliot Gibber",
+    "biztyp1Cd": "10112",
+    "biztyp1CdNm": "가금류 도축업",
+    "trgtpsn1EmpCnt": 135,
+    "trgtpsnTelno": "1-9083510330",
+    "trgtpsn1Addr": "/520 Broad St/Newark/New Jersey/Essex/United States/07102-3121",
+    "fundDd": "19830630",
+    "prod1Nm": "Poultry processing",
+    "hmpgAddr": "www.debelfoods.com",
+    "insuUseYn": "N",
+    "impYn": "Y",
+    "koreaCuYn": "N",
+    "extrnlCstYn": "N",
+    "packAbrdEntprYn": "N",
+    "korNm": "미국",
+    "compscale": "D",
+    "nation_name": "미국",
+    "industry_code": "10112",
+    "hscode": "160100",
+    "company_description": "Company Name: Deb-El Foods Corporation\nRepresentative: Elliot Gibber\nProduct: Poultry processing\nWebsite: www.debelfoods.com",
+    "search_result": [
+        {
+            "Title": ":: Deb El :: Leaders in the Liquid Egg Industry",
+            "Link": "https://www.debelfoods.com/",
+            "Description": "Elizabeth, NJ 07206. Tel. 908.351.0330 800.421.EGGS Fax. 908.351.0334. Email: info@debelfoods.com · About | FOOD SERVICE | INDUSTRIAL | Quality Assurance | ...",
+            "Concated_text": "Title::: Deb El :: Leaders in the Liquid Egg Industry\nLink:https://www.debelfoods.com/\nDescription:Elizabeth, NJ 07206. Tel. 908.351.0330 800.421.EGGS Fax. 908.351.0334. Email: info@debelfoods.com · About | FOOD SERVICE | INDUSTRIAL | Quality Assurance | ...",
+            "relevant": true,
+            "input_price": 0.020900000000000002,
+            "link_content_summary": "{\n\"Summary\": \"This website is for Deb El Food, a company specializing in the liquid egg industry.\",\n\"Company Name\": \"Deb El Food\",\n\"Email\": \"info@debelfoods.com\",\n\"Phone Number\": \"908.351.0330\",\n\"Address\": \"2 Papetti Plaza Elizabeth, NJ 07206\",\n\"Product Information\": \"The company offers various liquid egg products, including Just Whites, Research & Development, and Kosher.\",\n\"Representative\": \"Elliot Gibber\",\n\"Useful Information\": \"The company provides downloadable brochures, conversion sheets, full product line information, and product case dimensions.\"\n}",
+            "output_price": 0.00399,
+            "collect_time": 5.997126728994772
+        },
+        {
+            "Title": "Deb-El Foods Corporation - OU Kosher Certification",
+            "Link": "https://oukosher.org/companies/deb-el-foods-corporation/",
+            "Description": "Deb-El Foods Corporation ... Deb El Food Products is a family owned business, based in Elizabeth, NJ, specializing in manufacturing and distributing a full line ...",
+            "Concated_text": "Title:Deb-El Foods Corporation - OU Kosher Certification\nLink:https://oukosher.org/companies/deb-el-foods-corporation/\nDescription:Deb-El Foods Corporation ... Deb El Food Products is a family owned business, based in Elizabeth, NJ, specializing in manufacturing and distributing a full line ...",
+            "relevant": true,
+            "input_price": 0.2001,
+            "link_content_summary": "{\n \"Summary\": \"Deb-El Foods Corporation is a family owned business, based in Elizabeth, NJ, specializing in manufacturing and distributing a full line of Liquid, Frozen and Dried Egg Products. Deb El prides itself on producing high quality egg products at competitive prices with first class customer service.\",\n \"Company Name\": \"Deb-El Foods Corporation\",\n \"Email\": \"None\",\n \"Phone Number\": \"None\",\n \"Address\": \"Elizabeth, NJ\",\n \"Product Information\": \"Deb El Food Products is a family owned business, based in Elizabeth, NJ, specializing in manufacturing and distributing a full line of Liquid, Frozen and Dried Egg Products.\",\n \"Representative\": \"None\",\n \"Useful Information\": \"Deb El prides itself on producing high quality egg products at competitive prices with first class customer service.\"\n}",
+            "output_price": 0.005069999999999999,
+            "collect_time": 12.816131513100117
+        },
+        {
+            "Title": ":: Deb El :: Leaders in the Liquid Egg Industry",
+            "Link": "https://www.debelfoods.com/retail-about.php",
+            "Description": "Deb El has the ability to pack both under the company's brand as well as under a private label. Deb El's retail products are safe, convenient and wholesome. For ...",
+            "Concated_text": "Title::: Deb El :: Leaders in the Liquid Egg Industry\nLink:https://www.debelfoods.com/retail-about.php\nDescription:Deb El has the ability to pack both under the company's brand as well as under a private label. Deb El's retail products are safe, convenient and wholesome. For ...",
+            "relevant": true,
+            "input_price": 0.023030000000000002,
+            "link_content_summary": "{\n \"Summary\": \"데브 엘에서는 소매 거래에 이상적으로 적합한 모든 종류의 액상, 냉동 계란 제품을 제조합니다. 데브 엘은 자사 브랜드와 프라이빗 레이블로 두 가지 모두로 포장할 수 있습니다. 데브 엘의 소매 제품은 안전하고 편리하며 건강합니다.\",\n \"Company Name\": \"Deb El\",\n \"Email\": \"info@debelfoods.com\",\n \"Phone Number\": \"800.421.EGGS\",\n \"Address\": \"2 Papetti Plaza\\nElizabeth, NJ 07206\",\n \"Product Information\": \"액상과 냉동 계란 제품\",\n \"Representative\": \"None\",\n \"Useful Information\": \"데브 엘은 소매 서비스 업계를 선도하는 기업입니다.\\n데브 엘의 모든 제품 라인을 보려면 여기를 클릭하세요.\"\n}",
+            "output_price": 0.00819,
+            "collect_time": 6.59264234197326
+        },
+        {
+            "Title": "Page 1 of 13 Reports :: Bid Array 6/29/2016 https://usda.combinenet ...",
+            "Link": "https://www.ams.usda.gov/sites/default/files/2000004102%20-%20Bid%20Award.pdf",
+            "Description": "Jun 20, 2016 ... DEB EL FOOD PRODUCTS. LLC. SPARBOE FOODS, LLC. SONSTEGARD FOODS. COMPANY. Plant. Name. DEB-EL/DEB EL FOODS-. THOMPSONVILLE. N,Thompsonville,NY.",
+            "Concated_text": "Title:Page 1 of 13 Reports :: Bid Array 6/29/2016 https://usda.combinenet ...\nLink:https://www.ams.usda.gov/sites/default/files/2000004102%20-%20Bid%20Award.pdf\nDescription:Jun 20, 2016 ... DEB EL FOOD PRODUCTS. LLC. SPARBOE FOODS, LLC. SONSTEGARD FOODS. COMPANY. Plant. Name. DEB-EL/DEB EL FOODS-. THOMPSONVILLE. N,Thompsonville,NY.",
+            "relevant": true,
+            "input_price": 2.36403,
+            "collect_time": 2.571039285045117
+        },
+        {
+            "Title": "Page 1 of 14 Reports :: Bid Array 5/25/2017 https://usda.combinenet ...",
+            "Link": "https://www.ams.usda.gov/sites/default/files/2000004707%20-%20Bid%20Award.pdf",
+            "Description": "May 15, 2017 ... NEWBURG EGG CORP. DEB EL FOOD PRODUCTS. LLC. Plant. Name. NEWBURG EGG CORP-. WOODRIDGE. NY,WOODRIDGE,NY. DEB-EL/DEB EL FOODS-. THOMPSONVILLE. N ...",
+            "Concated_text": "Title:Page 1 of 14 Reports :: Bid Array 5/25/2017 https://usda.combinenet ...\nLink:https://www.ams.usda.gov/sites/default/files/2000004707%20-%20Bid%20Award.pdf\nDescription:May 15, 2017 ... NEWBURG EGG CORP. DEB EL FOOD PRODUCTS. LLC. Plant. Name. NEWBURG EGG CORP-. WOODRIDGE. NY,WOODRIDGE,NY. DEB-EL/DEB EL FOODS-. THOMPSONVILLE. N ...",
+            "relevant": true,
+            "input_price": 2.20279,
+            "collect_time": 3.7985636019147933
+        },
+        {
+            "Title": ":: Deb El :: Leaders in the Liquid Egg Industry",
+            "Link": "https://www.debelfoods.com/",
+            "Description": "\"From our inception we have remained steadfast in our commitment to serve our customers with high quality egg products and reliable service.\".",
+            "Concated_text": "Title::: Deb El :: Leaders in the Liquid Egg Industry\nLink:https://www.debelfoods.com/\nDescription:\"From our inception we have remained steadfast in our commitment to serve our customers with high quality egg products and reliable service.\".",
+            "relevant": true,
+            "input_price": 0.020900000000000002,
+            "link_content_summary": "{\n\"Summary\": \"본 웹사이트는 Deb El Food에 관한 정보를 제공하며, 액체 달걀 산업을 선도하는 기업임을 자부한다. 이 회사는 品质 보증, 연구 개발, 유스트 화이트, 풀 프로덕트 라인, 제품 케이스 치수에 대한 다양한 자료를 다운로드할 수 있는 다운로드 가능한 리소스 섹션을 운영하고 있다.\",\n\"Company Name\": \"Deb El Food\",\n\"Email\": \"info@debelfoods.com\",\n\"Phone Number\": \"908.351.0330\\n800.421.EGGS\",\n\"Address\": \"2 Papetti Plaza\\nElizabeth, NJ 07206\",\n\"Product Information\": \"액체 달걀 제품\",\n\"Representative\": \"Elliot Gibber\",\n\"Useful Information\": \"이 웹사이트에는 회사의 역사나 제품 정보와 같은 추가적인 유용한 정보가 포함되어 있지 않다.\"\n}",
+            "output_price": 0.00819,
+            "collect_time": 8.905514077981934
+        },
+        {
+            "Title": ":: Deb El :: Leaders in the Liquid Egg Industry",
+            "Link": "https://www.debelfoods.com/history.php",
+            "Description": "Deb El continued to diversify and in 1996 purchased a manufacturer of mayonnaise and powdered drink mixes, which became known as G&L Food Products. Returning to ...",
+            "Concated_text": "Title::: Deb El :: Leaders in the Liquid Egg Industry\nLink:https://www.debelfoods.com/history.php\nDescription:Deb El continued to diversify and in 1996 purchased a manufacturer of mayonnaise and powdered drink mixes, which became known as G&L Food Products. Returning to ...",
+            "relevant": true,
+            "input_price": 0.026150000000000003,
+            "link_content_summary": "{\n\"Summary\": \"데브엘은 1984년에 설립된 세계에서 가장 현대적인 계란 건조 공장으로 설계되었습니다. 데브엘은 규모를 키우고 다양화를 추구하면서도 계란 건조 시설 중에서도 가장 크고 현대적인 공장으로 자리매김하고 있습니다. 그 후 10년이 지난 1994년 데브엘은 뉴욕 도시권의 제과업체와 소규모 식품 제조업체에 냉동, 액상, 건조 계란 제품을 공급하는 공급업체인 발라스 푸드 प्रोडक्ट을 인수했습니다. 1996년에도 마요네즈와 가루 음료 믹스 제조업체를 인수하여 G&L 푸드 प्रोडक्ट를 설립했습니다. 데브엘은 계란 제품을 핵심 사업으로 삼아 계란 깨기 및 가공 공장인 기버 에그 컴퍼니를 인수하여 데브엘 푸드 प्रोडक्ट에 합병했습니다.\",\n\"Company Name\": \"Deb El\",\n\"Email\": \"info@debelfoods.com\",\n\"Phone Number\": \"908.351.0330\",\n\"Address\": \"2 Papetti Plaza\\nElizabeth, NJ 07206\",\n\"Product Information\": null,\n\"Representative\": \"Elliot P. Gibber\",\n\"Useful Information\": null\n}",
+            "output_price": 0.013229999999999999,
+            "collect_time": 12.045782591914758
+        },
+        {
+            "Title": ":: Deb El :: Leaders in the Liquid Egg Industry",
+            "Link": "https://www.debelfoods.com/about.php",
+            "Description": "Deb El carries a full array of Egg Products ideally suited for restaurants, diners, hospitals, hotels, caterers, summer camps, correctional facilities and all ...",
+            "Concated_text": "Title::: Deb El :: Leaders in the Liquid Egg Industry\nLink:https://www.debelfoods.com/about.php\nDescription:Deb El carries a full array of Egg Products ideally suited for restaurants, diners, hospitals, hotels, caterers, summer camps, correctional facilities and all ...",
+            "relevant": true,
+            "input_price": 0.06960000000000001,
+            "link_content_summary": "{\n\"Summary\": \"Deb El is a manufacturer and distributor of egg products, such as liquid, frozen, and dried eggs to the foodservice industry. The foodservice product line is designed to ensure customer satisfaction and value for the business. Additionally, the company offers a range of products, including Deb El's unique blend of High-Quality Products, Competitive Pricing, and Reliable service.\",\n\"Company Name\": \"Deb El\",\n\"Email\": \"info@debelfoods.com\",\n\"Phone Number\": \"800-421-EGGS\",\n\"Address\": \"2 Papetti Plaza\\nElizabeth, NJ 07206\",\n\"Product Information\": \"Deb El carries a full array of Egg Products ideally suited for restaurants, diners, hospitals, hotels, caterers, summer camps, correctional facilities, and foodservice venues.\",\n\"Representative\": \"None\",\n\"Useful Information\": \"Deb El has a USDA and FSIS approved lab, is Kosher certified, and has a research and development team focused on innovation.\\nThe company offers downloadable resources, such as an e-brochure, conversion sheet, full product line, and product case dimensions.\"\n}",
+            "output_price": 0.00708,
+            "collect_time": 8.744488397845998
+        },
+        {
+            "Title": ":: Deb El :: Leaders in the Liquid Egg Industry",
+            "Link": "https://www.debelfoods.com/quality-assurance.php",
+            "Description": "Quality Assurance is the backbone of Deb El's success. · Deb El culture breeds pride in the quality requirements and high standards that the company was founded ...",
+            "Concated_text": "Title::: Deb El :: Leaders in the Liquid Egg Industry\nLink:https://www.debelfoods.com/quality-assurance.php\nDescription:Quality Assurance is the backbone of Deb El's success. · Deb El culture breeds pride in the quality requirements and high standards that the company was founded ...",
+            "relevant": true,
+            "input_price": 0.026719999999999997,
+            "link_content_summary": "{\n \"Summary\": \"About Deb El, the company's dedicated commitment to quality and assurance. Deb El endeavors to surpass quality requirements and high standards leveraging its in-house USDA-approved laboratory and by partnering with independent commercial laboratories to ensure comprehensive testing. Third-party auditing verifies adherence to Global Food Safety Initiative standards.\",\n \"Company Name\": \"Deb El Food\",\n \"Email\": \"info@debelfoods.com\",\n \"Phone Number\": \"908.351.0330\",\n \"Address\": \"2 Papetti Plaza <br/>Elizabeth, NJ 07206\",\n \"Product Information\": \"Liquid egg industry leader offering a spectrum of high-quality liquid egg products, ranging from whole eggs and egg whites to specialty blends tailored to specific culinary and industrial applications.\",\n \"Representative\": \"None\",\n \"Useful Information\": \"- The company maintains an SQF Level 3 certification for safety and quality. \\n- Bio Security requirements are an addition to the company's continuous improvement culture. \\n- Deb El's products are certified Kosher by the Orthodox Union (OU). \\n- Deb El is committed to ethical and sustainable practices, as evidenced by its Humane Farm Animal Care certification (Certified Cage Free).\"\n}",
+            "output_price": 0.00726,
+            "collect_time": 6.793602413032204
+        },
+        {
+            "Title": ":: Deb El :: Leaders in the Liquid Egg Industry",
+            "Link": "https://www.debelfoods.com/speciality-about.php",
+            "Description": "Deb El offers a full array of Liquid, Frozen and Dried Specialty Products, ranging in size from 1 lb gable-top cartons to 48,000 lb tank trucks to meet the ...",
+            "Concated_text": "Title::: Deb El :: Leaders in the Liquid Egg Industry\nLink:https://www.debelfoods.com/speciality-about.php\nDescription:Deb El offers a full array of Liquid, Frozen and Dried Specialty Products, ranging in size from 1 lb gable-top cartons to 48,000 lb tank trucks to meet the ...",
+            "relevant": true,
+            "input_price": 0.022449999999999998,
+            "collect_time": 9.550069773104042
+        },
+        {
+            "Title": ":: Deb El :: Leaders in the Liquid Egg Industry",
+            "Link": "https://www.debelfoods.com/industrial-about.php",
+            "Description": "Over several decades Deb El has earned a reputation for offering High Quality Products at Competitive Prices both to world-wide export markets as well as ...",
+            "Concated_text": "Title::: Deb El :: Leaders in the Liquid Egg Industry\nLink:https://www.debelfoods.com/industrial-about.php\nDescription:Over several decades Deb El has earned a reputation for offering High Quality Products at Competitive Prices both to world-wide export markets as well as ...",
+            "relevant": true,
+            "input_price": 0.02307,
+            "collect_time": 8.769222607836127
+        },
+        {
+            "Title": ":: Deb El :: Leaders in the Liquid Egg Industry",
+            "Link": "https://www.debelfoods.com/retail-about.php",
+            "Description": "Deb El manufactures a full line of Liquid and Frozen Egg Products ideally suited for the retail trade. Deb El has the ability to pack both under the ...",
+            "Concated_text": "Title::: Deb El :: Leaders in the Liquid Egg Industry\nLink:https://www.debelfoods.com/retail-about.php\nDescription:Deb El manufactures a full line of Liquid and Frozen Egg Products ideally suited for the retail trade. Deb El has the ability to pack both under the ...",
+            "relevant": true,
+            "input_price": 0.023030000000000002,
+            "collect_time": 7.539943236857653
+        },
+        {
+            "Title": "Just Whites",
+            "Link": "https://www.debelfoods.com/just-whites.php",
+            "Description": "Just Whites is a fat and cholesterol-free Dried Egg White product that is ideal for any application calling for Egg Whites in cooking or baking. Just Whites is ...",
+            "Concated_text": "Title:Just Whites\nLink:https://www.debelfoods.com/just-whites.php\nDescription:Just Whites is a fat and cholesterol-free Dried Egg White product that is ideal for any application calling for Egg Whites in cooking or baking. Just Whites is ...",
+            "relevant": true,
+            "input_price": 0.0816,
+            "collect_time": 12.548983277985826
+        }
+    ],
+    "email": "info@debelfoods.com",
+    "search_total_info": "- Buyer overview\nCompany Name: Deb-El Foods Corporation\nRepresentative: Elliot Gibber\nProduct: Poultry processing\nWebsite: www.debelfoods.com \n\n- Buyer's recent activities \nProduct info : The company offers various liquid egg products, including Just Whites, Research & Development, and Kosher.. Deb El Food Products is a family owned business, based in Elizabeth, NJ, specializing in manufacturing and distributing a full line of Liquid, Frozen and Dried Egg Products.. 액상과 냉동 계란 제품. 액체 달걀 제품. Deb El carries a full array of Egg Products ideally suited for restaurants, diners, hospitals, hotels, caterers, summer camps, correctional facilities, and foodservice venues.. Liquid egg industry leader offering a spectrum of high-quality liquid egg products, ranging from whole eggs and egg whites to specialty blends tailored to specific culinary and industrial applications. \nUseful info : The company provides downloadable brochures, conversion sheets, full product line information, and product case dimensions.. Deb El prides itself on producing high quality egg products at competitive prices with first class customer service.. 데브 엘은 소매 서비스 업계를 선도하는 기업입니다.\n데브 엘의 모든 제품 라인을 보려면 여기를 클릭하세요.. 이 웹사이트에는 회사의 역사나 제품 정보와 같은 추가적인 유용한 정보가 포함되어 있지 않다.. Deb El has a USDA and FSIS approved lab, is Kosher certified, and has a research and development team focused on innovation.\nThe company offers downloadable resources, such as an e-brochure, conversion sheet, full product line, and product case dimensions.. - The company maintains an SQF Level 3 certification for safety and quality. \n- Bio Security requirements are an addition to the company's continuous improvement culture. \n- Deb El's products are certified Kosher by the Orthodox Union (OU). \n- Deb El is committed to ethical and sustainable practices, as evidenced by its Humane Farm Animal Care certification (Certified Cage Free)."
+}

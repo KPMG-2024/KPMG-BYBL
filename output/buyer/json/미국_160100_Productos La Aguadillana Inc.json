@@ -1,0 +1,203 @@
+{
+    "rnum": 13,
+    "trgtpsnNo": "6003691971",
+    "trgtpsnCd": "450",
+    "trgtpsnDtlCd": "256343",
+    "trgtpsnNm": "Productos La Aguadillana Inc",
+    "rprsnt1Nm": "Migdalia Marcial",
+    "biztyp1Cd": "10112",
+    "biztyp1CdNm": "가금류 도축업",
+    "trgtpsn1EmpCnt": 89,
+    "trgtpsnTelno": "1-7878915720",
+    "trgtpsn1Addr": "/1 Carr 467 # 4 Villa Universitaria/Aguadilla/Puerto Rico/Aguadilla/United States/00603-6605",
+    "fundDd": "19620630",
+    "prod1Nm": "Poultry processing",
+    "hmpgAddr": "www.aguadillana.com",
+    "insuUseYn": "N",
+    "impYn": "Y",
+    "koreaCuYn": "N",
+    "usdSaleAmt": 7730653,
+    "extrnlCstYn": "N",
+    "packAbrdEntprYn": "N",
+    "korNm": "미국",
+    "compscale": "D",
+    "nation_name": "미국",
+    "industry_code": "10112",
+    "hscode": "160100",
+    "company_description": "Company Name: Productos La Aguadillana Inc\nRepresentative: Migdalia Marcial\nProduct: Poultry processing\nWebsite: www.aguadillana.com",
+    "search_result": [
+        {
+            "Title": "Productos La Aguadillana",
+            "Link": "https://www.aguadillana.com/",
+            "Description": "Productos La Aguadillana, Inc.",
+            "Concated_text": "Title:Productos La Aguadillana\nLink:https://www.aguadillana.com/\nDescription:Productos La Aguadillana, Inc.",
+            "relevant": true,
+            "input_price": 0.059910000000000005,
+            "link_content_summary": "{\n\"Summary\": \"The company's website mainly introduces its products and provides information about the company. \\nThe company's products include empanadas, embutidos, and other Puerto Rican dishes. \\nThe website also provides information about the company's history, its team, and its commitment to quality.\",\n\"Company Name\": \"Productos La Aguadillana, Inc.\",\n\"Email\": \"None\",\n\"Phone Number\": \"787.891.5720\",\n\"Address\": \"None\",\n\"Product Information\": \"The company's products include empanadas, embutidos, and other Puerto Rican dishes.\",\n\"Representative\": \"None\",\n\"Useful Information\": \"The website also provides information about the company's history, its team, and its commitment to quality.\"\n}",
+            "output_price": 0.00471,
+            "collect_time": 7.808542442042381
+        },
+        {
+            "Title": "Puerto Rican chicken company recalls 35K lbs. of product | 2019-03 ...",
+            "Link": "https://www.meatpoultry.com/articles/21025-puerto-rican-chicken-company-recalls-35k-lbs-of-product",
+            "Description": "Mar 15, 2019 ... WASHINGTON – Productos La Aguadillana in Puerto Rico is recalling approximately 35870 lbs. of breaded chicken patty products that may be ...",
+            "Concated_text": "Title:Puerto Rican chicken company recalls 35K lbs. of product | 2019-03 ...\nLink:https://www.meatpoultry.com/articles/21025-puerto-rican-chicken-company-recalls-35k-lbs-of-product\nDescription:Mar 15, 2019 ... WASHINGTON – Productos La Aguadillana in Puerto Rico is recalling approximately 35870 lbs. of breaded chicken patty products that may be ...",
+            "relevant": true,
+            "input_price": 0.222,
+            "collect_time": 3.508660875959322
+        },
+        {
+            "Title": "Who We Are | Productos La Aguadillana",
+            "Link": "https://www.aguadillana.com/nuestra-historia/",
+            "Description": "PRODUCTOS LA AGUADILLANA, INC. is a locally-owned puerto rican company that manufactures and distributes breaded meats, nuggets, stuffed chicken breasts, ...",
+            "Concated_text": "Title:Who We Are | Productos La Aguadillana\nLink:https://www.aguadillana.com/nuestra-historia/\nDescription:PRODUCTOS LA AGUADILLANA, INC. is a locally-owned puerto rican company that manufactures and distributes breaded meats, nuggets, stuffed chicken breasts, ...",
+            "relevant": true,
+            "input_price": 0.05652,
+            "link_content_summary": "{\n \"Summary\": \"Productos La Aguadillana, Inc. is a locally-owned Puerto Rican company that has been providing quality breaded meats, nuggets, stuffed chicken breasts, and various types of sausages since 1962. The company has a workforce of more than 80 employees and a fleet of refrigerated trucks that services the retail and institutional markets of Puerto Rico.\",\n \"Company Name\": \"PRODUCTOS LA AGUADILLANA, INC.\",\n \"Email\": null,\n \"Phone Number\": \"787.891.5720\",\n \"Address\": \"Barrio Borinquen, Aguadilla\",\n \"Product Information\": \"The company offers a variety of sausages, stuffed chicken breasts, turkey chops, fully cooked breaded meats, as well as the original breaded beef steak.\",\n \"Representative\": \"Mr. Jaime Marcial\",\n \"Useful Information\": \"The company's corporate mission is: “To develop and process food products our consumers always enjoy”\"\n}",
+            "output_price": 0.00603,
+            "collect_time": 8.47424706700258
+        },
+        {
+            "Title": "Productos La Aguadillana, Inc. retira los productos de pollo debido a ...",
+            "Link": "http://www.fsis.usda.gov/es/retirada/productos-la-aguadillana-inc.-retira-los-productos-de-pollo-debido-una-posible",
+            "Description": "Productos La Aguadillana, Inc., un establecimiento de Aguadilla, Puerto Rico, está retirando del mercado aproximadamente 35870 libras de productos de ...",
+            "Concated_text": "Title:Productos La Aguadillana, Inc. retira los productos de pollo debido a ...\nLink:http://www.fsis.usda.gov/es/retirada/productos-la-aguadillana-inc.-retira-los-productos-de-pollo-debido-una-posible\nDescription:Productos La Aguadillana, Inc., un establecimiento de Aguadilla, Puerto Rico, está retirando del mercado aproximadamente 35870 libras de productos de ...",
+            "relevant": true,
+            "input_price": 0.40391000000000005,
+            "collect_time": 4.4640324409119785
+        },
+        {
+            "Title": "PRODUCTOS LA AGUADILLANA !MÁS CALIDAD CON LA SAZÓN ...",
+            "Link": "https://trademarks.justia.com/863/75/productos-la-aguadillana-mas-calidad-con-la-sazon-criolla-de-verdad-en-dios-86375758.html",
+            "Description": "PRODUCTOS LA AGUADILLANA !MÁS CALIDAD CON LA SAZÓN CRIOLLA DE VERDAD! EN DIOS CONFIAMOS is a trademark of Productos La Aguadillana, Inc..",
+            "Concated_text": "Title:PRODUCTOS LA AGUADILLANA !MÁS CALIDAD CON LA SAZÓN ...\nLink:https://trademarks.justia.com/863/75/productos-la-aguadillana-mas-calidad-con-la-sazon-criolla-de-verdad-en-dios-86375758.html\nDescription:PRODUCTOS LA AGUADILLANA !MÁS CALIDAD CON LA SAZÓN CRIOLLA DE VERDAD! EN DIOS CONFIAMOS is a trademark of Productos La Aguadillana, Inc..",
+            "relevant": true,
+            "input_price": 0.18297999999999998,
+            "link_content_summary": "{\n\"Summary\": \"This trademark, PRODUCTO LA AGUADILLANA !MÃ S CALIDAD CON LA SAZÃ“N CRIOLLA DE VERDAD! EN DIOS CONFIAMOS, is a trademark filed with the USPTO and registered on August 23, 2016. The trademark is owned by Productos La Aguadillana, Inc. The goods and services listed on the trademark application include meats and breaded meat food products, namely, breaded chicken fillet, breaded chicken breast, breaded beefsteak, breaded turkey breast, breaded fish fillet, chicken nuggets, turkey nuggets, fish nuggets and stuffed chicken breast; sausages.\",\n\"Company Name\": \"Productos La Aguadillana, Inc.\",\n\"Email\": null,\n\"Phone Number\": null,\n\"Address\": null,\n\"Product Information\": \"- Meats and breaded meat food products, namely, breaded chicken fillet, breaded chicken breast, breaded beefsteak, breaded turkey breast, breaded fish fillet, chicken nuggets, turkey nuggets, fish nuggets and stuffed chicken breast;\\n- sausages\",\n\"Representative\": null,\n\"Useful Information\": \"1. The trademark is currently in a registered status (700). \\n2. The trademark was filed on August 25, 2014.\\n3. The trademark was registered on August 23, 2016.\\n4. The status date is August 23, 2016.\\n5. The trademark has been published for opposition on June 7, 2016.\"\n}",
+            "output_price": 0.010139999999999998,
+            "collect_time": 25.69164008507505
+        },
+        {
+            "Title": "Important Commercial Alliance Between Two Puerto Rican ...",
+            "Link": "https://www.theweeklyjournal.com/business/important-commercial-alliance-between-two-puerto-rican-companies/article_b03c5688-9bce-11eb-ae83-fbbf95ed646f.html",
+            "Description": "Apr 12, 2021 ... Productos La Aguadillana, a local company recognized for its variety of meat products and sausage formats, recently completed a commercial ...",
+            "Concated_text": "Title:Important Commercial Alliance Between Two Puerto Rican ...\nLink:https://www.theweeklyjournal.com/business/important-commercial-alliance-between-two-puerto-rican-companies/article_b03c5688-9bce-11eb-ae83-fbbf95ed646f.html\nDescription:Apr 12, 2021 ... Productos La Aguadillana, a local company recognized for its variety of meat products and sausage formats, recently completed a commercial ...",
+            "relevant": true,
+            "input_price": 0.53877,
+            "collect_time": 4.2245360179804265
+        },
+        {
+            "Title": "PRODUCTOS LA AGUADILLANA, INC. :: Puerto Rico ...",
+            "Link": "https://opencorporates.com/companies/pr/52572-111",
+            "Description": "Free and open company data on Puerto Rico company PRODUCTOS LA AGUADILLANA, INC. (company number 52572-111), CARR. 467 KM 1.4 BARRIO BORINQUEN, AGUADILLA, ...",
+            "Concated_text": "Title:PRODUCTOS LA AGUADILLANA, INC. :: Puerto Rico ...\nLink:https://opencorporates.com/companies/pr/52572-111\nDescription:Free and open company data on Puerto Rico company PRODUCTOS LA AGUADILLANA, INC. (company number 52572-111), CARR. 467 KM 1.4 BARRIO BORINQUEN, AGUADILLA, ...",
+            "relevant": true,
+            "input_price": 0.00267,
+            "link_content_summary": "{\n\"Summary\": \"The provided HTML contains no content, so I cannot summarize it or extract the requested information.\",\n\"Company Name\": \"None\",\n\"Email\": \"None\",\n\"Phone Number\": \"None\",\n\"Address\": \"None\",\n\"Product Information\": \"None\",\n\"Representative\": \"None\",\n\"Useful Information\": \"None\"\n}",
+            "output_price": 0.00216,
+            "collect_time": 2.629742386052385
+        },
+        {
+            "Title": "Productos La Aguadillana",
+            "Link": "https://www.aguadillana.com/",
+            "Description": "Home · Who We Are · Products · Recipes · Contact Us · Find a Retailer. ¡Saborea nuestra sazón criolla de verdad! Copyright © 2024 - Productos La Aguadillana ...",
+            "Concated_text": "Title:Productos La Aguadillana\nLink:https://www.aguadillana.com/\nDescription:Home · Who We Are · Products · Recipes · Contact Us · Find a Retailer. ¡Saborea nuestra sazón criolla de verdad! Copyright © 2024 - Productos La Aguadillana ...",
+            "relevant": true,
+            "input_price": 0.059910000000000005,
+            "collect_time": 5.6926189658697695
+        },
+        {
+            "Title": "Recipes with La Aguadillana products | Productos La Aguadillana",
+            "Link": "https://www.aguadillana.com/recipes/",
+            "Description": "Prepare quick, easy and delicious dishes using products from La Aguadillana.",
+            "Concated_text": "Title:Recipes with La Aguadillana products | Productos La Aguadillana\nLink:https://www.aguadillana.com/recipes/\nDescription:Prepare quick, easy and delicious dishes using products from La Aguadillana.",
+            "relevant": true,
+            "input_price": 0.0925,
+            "link_content_summary": "{\n \"Summary\": \"The website provides recipes using products from La Aguadillana. Some of the recipes provided include Longaniza Picante al Ron Obscure, Bruschettas de Longaniza, Carne Empanizada de Res La Aguadillana, and Wrap de Pollo Empanizado. \",\n \"Company Name\": \"La Aguadillana\",\n \"Email\": \"None\",\n \"Phone Number\": \"787.891.5720\",\n \"Address\": \"None\",\n \"Product Information\": \"The website provides recipes using products from La Aguadillana. Some of the recipes provided include Longaniza Picante al Ron Obscure, Bruschettas de Longaniza, Carne Empanizada de Res La Aguadillana, and Wrap de Pollo Empanizado.\",\n \"Representative\": \"None\",\n \"Useful Information\": \"None\"\n}",
+            "output_price": 0.00552,
+            "collect_time": 9.280395525041968
+        },
+        {
+            "Title": "Contact Us | Productos La Aguadillana",
+            "Link": "https://www.aguadillana.com/contactenos/",
+            "Description": "Write to us! · Your Name (*) · Your Email (*) · Subject · Your Message. Sending ...",
+            "Concated_text": "Title:Contact Us | Productos La Aguadillana\nLink:https://www.aguadillana.com/contactenos/\nDescription:Write to us! · Your Name (*) · Your Email (*) · Subject · Your Message. Sending ...",
+            "relevant": true,
+            "input_price": 0.07010000000000001,
+            "collect_time": 13.117858085082844
+        },
+        {
+            "Title": "Our Products | Productos La Aguadillana",
+            "Link": "https://www.aguadillana.com/nuestros-productos/",
+            "Description": "All; Breaded; Other; Sausages. Salchicha Italiana Aguadillana1. Italian Sausage. Sausages 6. Chicken Nuggets La Aguadillana. Chicken Nuggets. Breaded 4.",
+            "Concated_text": "Title:Our Products | Productos La Aguadillana\nLink:https://www.aguadillana.com/nuestros-productos/\nDescription:All; Breaded; Other; Sausages. Salchicha Italiana Aguadillana1. Italian Sausage. Sausages 6. Chicken Nuggets La Aguadillana. Chicken Nuggets. Breaded 4.",
+            "relevant": true,
+            "input_price": 0.08591,
+            "link_content_summary": "{\n\"Summary\": \"This is the product page of the company \\\"Productos La Aguadillana\\\" which sells a variety of meat products. The products are divided into three categories: breaded, other, and sausages.\",\n\"Company Name\": \"Productos La Aguadillana\",\n\"Email\": \"None\",\n\"Phone Number\": \"787.891.5720\",\n\"Address\": \"None\",\n\"Product Information\": \"The product list of the company includes:\\n1. Italian Sausage\\n2. Chicken Nuggets\\n3. Bacon-Wrapped Chicken Breast Stuffed with Sweet Plantain\\n4. Bacon-wrapped Chicken Breast Stuffed with Plantain\\n5. Spanish Sausage\\n6. Long Pork and Chicken Sausage\\n7. Chicken Long Sausage\\n8. Spicy Pork Long Sausage\\n9. Bacon-wrapped Chicken Breast stuffed with Ham & Cheese\\n10. Breaded Turkey Patty\\n11. Breaded Chicken Steak\\n12. Breaded Beef Steak\\n13. Breaded Chicken Patty\\n14. Breaded Beef Patty\\n15. Breaded Pork Patty\\n16. Pork Long Sausage\\n17. Turkey & Pork Long Sausage\\n18. Blood Sausage – Morcilla\\n19. Butifarra Fresh Sausage\",\n\"Representative\": \"None\",\n\"Useful Information\": \"None\"\n}",
+            "output_price": 0.00843,
+            "collect_time": 14.201063268817961
+        },
+        {
+            "Title": "Who We Are | Productos La Aguadillana",
+            "Link": "https://www.aguadillana.com/nuestra-historia/",
+            "Description": "Originally located on Nueva street, in the city of Aguadilla, it started enticing its customers with the authentic puerto rican taste of its breaded meats in ...",
+            "Concated_text": "Title:Who We Are | Productos La Aguadillana\nLink:https://www.aguadillana.com/nuestra-historia/\nDescription:Originally located on Nueva street, in the city of Aguadilla, it started enticing its customers with the authentic puerto rican taste of its breaded meats in ...",
+            "relevant": true,
+            "input_price": 0.05652,
+            "link_content_summary": "{\n \"Summary\": \"Productos La Aguadillana, Inc. is a locally-owned Puerto Rican company that manufactures and distributes breaded meats, nuggets, stuffed chicken breasts, turkey chops, and various types of sausages. It was founded in 1962 and is headquartered in Aguadilla, Puerto Rico. The company has a labor force of more than 80 employees and a fleet of refrigerated trucks that services the retail and institutional markets of Puerto Rico.\",\n \"Company Name\": \"Productos La Aguadillana, Inc.\",\n \"Email\": \"None\",\n \"Phone Number\": \"787.891.5720\",\n \"Address\": \"Barrio Borinquen, Aguadilla, Puerto Rico\",\n \"Product Information\": \"The company offers a variety of products, including breaded meats, nuggets, stuffed chicken breasts, turkey chops, and various types of sausages.\",\n \"Representative\": \"Jaime Marcial and his wife\",\n \"Useful Information\": \"The company's mission is \\\"To develop and process food products our consumers always enjoy\\\"\"\n}",
+            "output_price": 0.00654,
+            "collect_time": 8.464733977103606
+        },
+        {
+            "Title": "Receta: Carne Empanizada con Ragú de Longaniza | Productos La ...",
+            "Link": "https://www.aguadillana.com/744/",
+            "Description": "Oct 22, 2015 ... Procedimiento · Fría u hornee las Empanadas La Aguadillana según instrucciones en paquete. · En una olla mediana, caliente el aceite y sofría la ...",
+            "Concated_text": "Title:Receta: Carne Empanizada con Ragú de Longaniza | Productos La ...\nLink:https://www.aguadillana.com/744/\nDescription:Oct 22, 2015 ... Procedimiento · Fría u hornee las Empanadas La Aguadillana según instrucciones en paquete. · En una olla mediana, caliente el aceite y sofría la ...",
+            "relevant": true,
+            "input_price": 0.07331,
+            "link_content_summary": "        {\n        \"Summary\": \"This HTML source code is the content of a recipe page from Productos La Aguadillana company's website. The page provides a recipe for preparing \\\"Breaded Meat with Longaniza Ragout.\\\" It includes ingredients, instructions, and additional culinary suggestions.\",\n        \"Company Name\": \"Productos La Aguadillana\",\n        \"Email\": \"None\",\n        \"Phone Number\": \"787.891.5720\",\n        \"Address\": \"None\",\n        \"Product Information\": \"The recipe utilizes various products from La Aguadillana, including Empanadas and Longaniza.\",\n        \"Representative\": \"None\",\n        \"Useful Information\": \"The page also includes links to other recipes from La Aguadillana, a section on the company's history, and a contact form.\"\n        }",
+            "output_price": 0.0051600000000000005,
+            "collect_time": 9.183771127834916
+        },
+        {
+            "Title": "Receta: Wrap de Pollo Empanizado y Ensalada Cesar | Productos ...",
+            "Link": "https://www.aguadillana.com/747/",
+            "Description": "Oct 22, 2015 ... Procedimiento. En un freidora o sartén, fría la Empanada; Pique las hojas de lechuga y agréguele el queso y el aderezo mezclando ...",
+            "Concated_text": "Title:Receta: Wrap de Pollo Empanizado y Ensalada Cesar | Productos ...\nLink:https://www.aguadillana.com/747/\nDescription:Oct 22, 2015 ... Procedimiento. En un freidora o sartén, fría la Empanada; Pique las hojas de lechuga y agréguele el queso y el aderezo mezclando ...",
+            "relevant": true,
+            "input_price": 0.07131,
+            "collect_time": 7.414082819130272
+        },
+        {
+            "Title": "Receta: Longaniza Picante al Ron Obscuro | Productos La ...",
+            "Link": "https://www.aguadillana.com/726/",
+            "Description": "Oct 22, 2015 ... Procedimiento · Picar las Longanizas aún medio congelas. · En un sartén calentar el Aceite de Oliva · Añada la cebolla, la longaniza y cocine a ...",
+            "Concated_text": "Title:Receta: Longaniza Picante al Ron Obscuro | Productos La ...\nLink:https://www.aguadillana.com/726/\nDescription:Oct 22, 2015 ... Procedimiento · Picar las Longanizas aún medio congelas. · En un sartén calentar el Aceite de Oliva · Añada la cebolla, la longaniza y cocine a ...",
+            "relevant": true,
+            "input_price": 0.07124,
+            "link_content_summary": "{\n\"Summary\": \"This article describes a recipe for Spicy Longaniza with Dark Rum. Featured in the article is a video with instructions on how to cook the dish. The video is subtitled in English.\",\n\"Company Name\": \"Productos La Aguadillana\",\n\"Email\": \"None\",\n\"Phone Number\": \"787.891.5720\",\n\"Address\": \"None\",\n\"Product Information\": \"The company manufactures a variety of meat products, including spicy pork longaniza, pork butifarra, and chicken longaniza.\",\n\"Representative\": \"None\",\n\"Useful Information\": \"The company's website includes a variety of recipes using its products, as well as information on its history and team.\"\n}",
+            "output_price": 0.00447,
+            "collect_time": 17.40501076192595
+        },
+        {
+            "Title": "Equipo Ganador | Productos La Aguadillana",
+            "Link": "https://www.aguadillana.com/equipo-ganador/",
+            "Description": "Luis A. Álvarez Martínez. CEO - Gerente General. Marta Serra Lima. Gerente de Operaciones. Mario “El Quijote” Morales. Gerente de Ventas.",
+            "Concated_text": "Title:Equipo Ganador | Productos La Aguadillana\nLink:https://www.aguadillana.com/equipo-ganador/\nDescription:Luis A. Álvarez Martínez. CEO - Gerente General. Marta Serra Lima. Gerente de Operaciones. Mario “El Quijote” Morales. Gerente de Ventas.",
+            "relevant": true,
+            "input_price": 0.052300000000000006,
+            "collect_time": 6.513022796018049
+        },
+        {
+            "Title": "Blood Sausage – Morcilla - Productos La Aguadillana",
+            "Link": "https://www.aguadillana.com/portfolio-item/morcilla/",
+            "Description": "Only the right spices and the best traditional manufacturing process make the best Morcilla. One bite of this product will reveal one of the best",
+            "Concated_text": "Title:Blood Sausage – Morcilla - Productos La Aguadillana\nLink:https://www.aguadillana.com/portfolio-item/morcilla/\nDescription:Only the right spices and the best traditional manufacturing process make the best Morcilla. One bite of this product will reveal one of the best",
+            "relevant": true,
+            "input_price": 0.07246000000000001,
+            "collect_time": 14.296493401983753
+        }
+    ],
+    "email": null,
+    "search_total_info": "- Buyer overview\nCompany Name: Productos La Aguadillana Inc\nRepresentative: Migdalia Marcial\nProduct: Poultry processing\nWebsite: www.aguadillana.com \n\n- Buyer's recent activities \nProduct info : The company's products include empanadas, embutidos, and other Puerto Rican dishes.. The company offers a variety of sausages, stuffed chicken breasts, turkey chops, fully cooked breaded meats, as well as the original breaded beef steak.. - Meats and breaded meat food products, namely, breaded chicken fillet, breaded chicken breast, breaded beefsteak, breaded turkey breast, breaded fish fillet, chicken nuggets, turkey nuggets, fish nuggets and stuffed chicken breast;\n- sausages. The website provides recipes using products from La Aguadillana. Some of the recipes provided include Longaniza Picante al Ron Obscure, Bruschettas de Longaniza, Carne Empanizada de Res La Aguadillana, and Wrap de Pollo Empanizado.. The product list of the company includes:\n1. Italian Sausage\n2. Chicken Nuggets\n3. Bacon-Wrapped Chicken Breast Stuffed with Sweet Plantain\n4. Bacon-wrapped Chicken Breast Stuffed with Plantain\n5. Spanish Sausage\n6. Long Pork and Chicken Sausage\n7. Chicken Long Sausage\n8. Spicy Pork Long Sausage\n9. Bacon-wrapped Chicken Breast stuffed with Ham & Cheese\n10. Breaded Turkey Patty\n11. Breaded Chicken Steak\n12. Breaded Beef Steak\n13. Breaded Chicken Patty\n14. Breaded Beef Patty\n15. Breaded Pork Patty\n16. Pork Long Sausage\n17. Turkey & Pork Long Sausage\n18. Blood Sausage – Morcilla\n19. Butifarra Fresh Sausage. The company offers a variety of products, including breaded meats, nuggets, stuffed chicken breasts, turkey chops, and various types of sausages.. The recipe utilizes various products from La Aguadillana, including Empanadas and Longaniza.. The company manufactures a variety of meat products, including spicy pork longaniza, pork butifarra, and chicken longaniza. \nUseful info : The website also provides information about the company's history, its team, and its commitment to quality.. The company's corporate mission is: “To develop and process food products our consumers always enjoy”. 1. The trademark is currently in a registered status (700). \n2. The trademark was filed on August 25, 2014.\n3. The trademark was registered on August 23, 2016.\n4. The status date is August 23, 2016.\n5. The trademark has been published for opposition on June 7, 2016.. The company's mission is \"To develop and process food products our consumers always enjoy\". The page also includes links to other recipes from La Aguadillana, a section on the company's history, and a contact form.. The company's website includes a variety of recipes using its products, as well as information on its history and team."
+}

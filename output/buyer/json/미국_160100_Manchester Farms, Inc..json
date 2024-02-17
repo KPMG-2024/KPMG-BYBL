@@ -1,0 +1,177 @@
+{
+    "rnum": 3,
+    "trgtpsnNo": "6003247872",
+    "trgtpsnCd": "450",
+    "trgtpsnDtlCd": "181316",
+    "trgtpsnNm": "Manchester Farms, Inc.",
+    "rprsnt1Nm": "Britney Miller",
+    "biztyp1Cd": "10112",
+    "biztyp1CdNm": "가금류 도축업",
+    "trgtpsn1EmpCnt": 15,
+    "trgtpsnTelno": "1-8037839024",
+    "trgtpsn1Addr": "/8126 Garners Ferry Rd/Columbia/South Carolina/Richland/United States/29209-9402",
+    "fundDd": "19800630",
+    "prod1Nm": "Poultry processing",
+    "hmpgAddr": "www.manchesterfarms.com",
+    "insuUseYn": "N",
+    "impYn": "Y",
+    "koreaCuYn": "N",
+    "extrnlCstYn": "N",
+    "packAbrdEntprYn": "N",
+    "korNm": "미국",
+    "compscale": "D",
+    "nation_name": "미국",
+    "industry_code": "10112",
+    "hscode": "160100",
+    "company_description": "Company Name: Manchester Farms, Inc.\nRepresentative: Britney Miller\nProduct: Poultry processing\nWebsite: www.manchesterfarms.com",
+    "search_result": [
+        {
+            "Title": "Manchester Farms Quail",
+            "Link": "https://manchesterfarms.com/",
+            "Description": "Manchester Farms is the place to buy fresh quail products. From boneless quail, quail breasts, to quail eggs our premium products are perfect choice.",
+            "Concated_text": "Title:Manchester Farms Quail\nLink:https://manchesterfarms.com/\nDescription:Manchester Farms is the place to buy fresh quail products. From boneless quail, quail breasts, to quail eggs our premium products are perfect choice.",
+            "relevant": true,
+            "input_price": 0.35979,
+            "collect_time": 4.962486203992739
+        },
+        {
+            "Title": "Contact Manchester Farms",
+            "Link": "https://manchesterfarms.com/contact/",
+            "Description": "Manchester Farms, Inc. ... To place an order, please contact your region's sales representative or call 800-845-0421. Sales Representatives: Jim Lenox. Regions: ...",
+            "Concated_text": "Title:Contact Manchester Farms\nLink:https://manchesterfarms.com/contact/\nDescription:Manchester Farms, Inc. ... To place an order, please contact your region's sales representative or call 800-845-0421. Sales Representatives: Jim Lenox. Regions: ...",
+            "relevant": true,
+            "input_price": 0.37745,
+            "collect_time": 7.419423424871638
+        },
+        {
+            "Title": "Brittney Miller | Manchester Farms",
+            "Link": "https://manchesterfarms.com/brittney-miller/",
+            "Description": "Owner aka “Mother Hen” For Brittney Miller, quail farming is in her blood. Now known as the “Mother Hen” of Manchester Farms,",
+            "Concated_text": "Title:Brittney Miller | Manchester Farms\nLink:https://manchesterfarms.com/brittney-miller/\nDescription:Owner aka “Mother Hen” For Brittney Miller, quail farming is in her blood. Now known as the “Mother Hen” of Manchester Farms,",
+            "relevant": true,
+            "input_price": 0.37609000000000004,
+            "collect_time": 5.664742209017277
+        },
+        {
+            "Title": "Job Application",
+            "Link": "https://manchesterfarms.com/job-application/",
+            "Description": "Manchester Farms, Inc. ... Equal access to programs, services and employment is available to all persons. Those applicants requiring reasonable accommodation to ...",
+            "Concated_text": "Title:Job Application\nLink:https://manchesterfarms.com/job-application/\nDescription:Manchester Farms, Inc. ... Equal access to programs, services and employment is available to all persons. Those applicants requiring reasonable accommodation to ...",
+            "relevant": true,
+            "input_price": 1.00824,
+            "collect_time": 6.593725105980411
+        },
+        {
+            "Title": "Manchester Farm Community Association",
+            "Link": "https://manchesterfarm.com/",
+            "Description": "The Manchester Farm Board has adopted a modified meeting schedule with some Board meetings online and some in person at the clubhouse. While we enjoy seeing all ...",
+            "Concated_text": "Title:Manchester Farm Community Association\nLink:https://manchesterfarm.com/\nDescription:The Manchester Farm Board has adopted a modified meeting schedule with some Board meetings online and some in person at the clubhouse. While we enjoy seeing all ...",
+            "relevant": true,
+            "input_price": 0.12962,
+            "link_content_summary": "        {\n        \"Summary\": \"This is a website for a residential community association's community. The navigation menu at the top provides links for registered users to sign in, register as a new resident, and also links to ARC information, the community calendar, documents, news, helpful links, and a classifieds section. There is also an area for important dates, calendar of events, and holiday closings.\",\n        \"Company Name\": \"Manchester Farm Community Association\",\n        \"Email\": \"None\",\n        \"Phone Number\": \"None\",\n        \"Address\": \"None\",\n        \"Product Information\": \"None\",\n        \"Representative\": \"None\",\n        \"Useful Information\": \"To receive a password to view private and secured portions of the site, complete the Sign Up information.\"\n        }",
+            "output_price": 0.0048,
+            "collect_time": 9.37722243485041
+        },
+        {
+            "Title": "Manchester Farms History",
+            "Link": "https://manchesterfarms.com/about-us/",
+            "Description": "In the early 1970s, Bill Odom, a poultry specialist for Campbell Soup Company in Sumter, SC, was offered a corporate position in New Jersey, ...",
+            "Concated_text": "Title:Manchester Farms History\nLink:https://manchesterfarms.com/about-us/\nDescription:In the early 1970s, Bill Odom, a poultry specialist for Campbell Soup Company in Sumter, SC, was offered a corporate position in New Jersey, ...",
+            "relevant": true,
+            "input_price": 0.37366000000000005,
+            "collect_time": 5.203652600990608
+        },
+        {
+            "Title": "Manchester Farms Quail",
+            "Link": "https://manchesterfarms.com/",
+            "Description": "Manchester Farms is the place to buy fresh quail products. From boneless quail, quail breasts, to quail eggs our premium products ...",
+            "Concated_text": "Title:Manchester Farms Quail\nLink:https://manchesterfarms.com/\nDescription:Manchester Farms is the place to buy fresh quail products. From boneless quail, quail breasts, to quail eggs our premium products ...",
+            "relevant": true,
+            "input_price": 0.35979,
+            "collect_time": 3.2623187419958413
+        },
+        {
+            "Title": "Manchester Farms Image Gallery",
+            "Link": "https://manchesterfarms.com/gallery/",
+            "Description": "View images of the Manchester Farms quail process. See amazing pictures from quail egg to processing the quail at Manchester Farms.",
+            "Concated_text": "Title:Manchester Farms Image Gallery\nLink:https://manchesterfarms.com/gallery/\nDescription:View images of the Manchester Farms quail process. See amazing pictures from quail egg to processing the quail at Manchester Farms.",
+            "relevant": true,
+            "input_price": 0.49757999999999997,
+            "collect_time": 6.122827632818371
+        },
+        {
+            "Title": "Manchester Farms Merchandise",
+            "Link": "https://manchesterfarms.com/merchandise/",
+            "Description": "Manchester Farms Rewards. Call 1-800-845-0421 to order your Manchester Farms 'Schwag' products. Points for Proof of Purchase Redemption ...",
+            "Concated_text": "Title:Manchester Farms Merchandise\nLink:https://manchesterfarms.com/merchandise/\nDescription:Manchester Farms Rewards. Call 1-800-845-0421 to order your Manchester Farms 'Schwag' products. Points for Proof of Purchase Redemption ...",
+            "relevant": true,
+            "input_price": 0.42255000000000004,
+            "collect_time": 5.978655005805194
+        },
+        {
+            "Title": "Manchester Farms In The News",
+            "Link": "https://manchesterfarms.com/press/",
+            "Description": "Dec 4, 2020 ... Manchester Farms may be the country's largest quail producer, but they're deeply rooted in S.C.. April 2013. NY Times.",
+            "Concated_text": "Title:Manchester Farms In The News\nLink:https://manchesterfarms.com/press/\nDescription:Dec 4, 2020 ... Manchester Farms may be the country's largest quail producer, but they're deeply rooted in S.C.. April 2013. NY Times.",
+            "relevant": true,
+            "input_price": 0.42792,
+            "collect_time": 4.8935595150105655
+        },
+        {
+            "Title": "Fresh Quail Products | Semi Bonless And Bone In Whole Quail",
+            "Link": "https://manchesterfarms.com/quail/",
+            "Description": "Our semi-boneless quail is our most popular item and is perfect for stuffing and baking. A number of our products are available tumble ...",
+            "Concated_text": "Title:Fresh Quail Products | Semi Bonless And Bone In Whole Quail\nLink:https://manchesterfarms.com/quail/\nDescription:Our semi-boneless quail is our most popular item and is perfect for stuffing and baking. A number of our products are available tumble ...",
+            "relevant": true,
+            "input_price": 0.3982,
+            "collect_time": 4.636409278027713
+        },
+        {
+            "Title": "Quail Recipes | Manchester Farms Fresh Quail",
+            "Link": "https://manchesterfarms.com/recipies/",
+            "Description": "Learn about great tasting quail recipes brought to you from Manchester Farms Quail. From appetisers to entres we have something ...",
+            "Concated_text": "Title:Quail Recipes | Manchester Farms Fresh Quail\nLink:https://manchesterfarms.com/recipies/\nDescription:Learn about great tasting quail recipes brought to you from Manchester Farms Quail. From appetisers to entres we have something ...",
+            "relevant": true,
+            "input_price": 0.39556,
+            "collect_time": 4.685481508960947
+        },
+        {
+            "Title": "Manchester Farms Testimonials",
+            "Link": "https://manchesterfarms.com/testimonials/",
+            "Description": "View testimonials about the great tasting quail products found at Manchester Farms. See what people are saying about our fresh ...",
+            "Concated_text": "Title:Manchester Farms Testimonials\nLink:https://manchesterfarms.com/testimonials/\nDescription:View testimonials about the great tasting quail products found at Manchester Farms. See what people are saying about our fresh ...",
+            "relevant": true,
+            "input_price": 0.37718,
+            "collect_time": 4.095855378080159
+        },
+        {
+            "Title": "quaillegs | Manchester Farms Quail",
+            "Link": "https://manchesterfarms.com/quaillegs/",
+            "Description": "Nov 10, 2015 ... Quail meat is a nutritious and lean source of protein. It is rich in essential nutrients such as iron, zinc, and B ...",
+            "Concated_text": "Title:quaillegs | Manchester Farms Quail\nLink:https://manchesterfarms.com/quaillegs/\nDescription:Nov 10, 2015 ... Quail meat is a nutritious and lean source of protein. It is rich in essential nutrients such as iron, zinc, and B ...",
+            "relevant": true,
+            "input_price": 0.23987999999999998,
+            "collect_time": 13.777555261971429
+        },
+        {
+            "Title": "Contact Manchester Farms",
+            "Link": "https://manchesterfarms.com/contact/",
+            "Description": "Contact Manchester Farms to order quail products or for general questions about our great tasting quail and quail eggs.",
+            "Concated_text": "Title:Contact Manchester Farms\nLink:https://manchesterfarms.com/contact/\nDescription:Contact Manchester Farms to order quail products or for general questions about our great tasting quail and quail eggs.",
+            "relevant": true,
+            "input_price": 0.37745,
+            "collect_time": 5.592271312139928
+        },
+        {
+            "Title": "baconwrappedquail | Manchester Farms Quail",
+            "Link": "https://manchesterfarms.com/baconwrappedquail/",
+            "Description": "Feb 9, 2016 ... Quail meat is a nutritious and lean source of protein. It is rich in essential nutrients such as iron, zinc, and B ...",
+            "Concated_text": "Title:baconwrappedquail | Manchester Farms Quail\nLink:https://manchesterfarms.com/baconwrappedquail/\nDescription:Feb 9, 2016 ... Quail meat is a nutritious and lean source of protein. It is rich in essential nutrients such as iron, zinc, and B ...",
+            "relevant": true,
+            "input_price": 0.24007,
+            "collect_time": 16.0068243551068
+        }
+    ],
+    "email": null,
+    "search_total_info": "- Buyer overview\nCompany Name: Manchester Farms, Inc.\nRepresentative: Britney Miller\nProduct: Poultry processing\nWebsite: www.manchesterfarms.com \n\n- Buyer's recent activities \nProduct info :  \nUseful info : To receive a password to view private and secured portions of the site, complete the Sign Up information."
+}

@@ -1,0 +1,216 @@
+{
+    "rnum": 20,
+    "trgtpsnNo": "6003708890",
+    "trgtpsnCd": "450",
+    "trgtpsnDtlCd": "259511",
+    "trgtpsnNm": "Case Farms Processing, Inc.",
+    "rprsnt1Nm": "Thomas R Shelton",
+    "biztyp1Cd": "10112",
+    "biztyp1CdNm": "가금류 도축업",
+    "trgtpsn1EmpCnt": 2747,
+    "trgtpsnTelno": "1-7045284501",
+    "trgtpsn1Addr": "/385 Pilch Rd/Troutman/North Carolina/Iredell/United States/28166-8782",
+    "fundDd": "19430630",
+    "prod1Nm": "Poultry processing",
+    "hmpgAddr": "www.casefarms.com",
+    "insuUseYn": "N",
+    "impYn": "Y",
+    "koreaCuYn": "N",
+    "extrnlCstYn": "N",
+    "packAbrdEntprYn": "N",
+    "korNm": "미국",
+    "compscale": "D",
+    "nation_name": "미국",
+    "industry_code": "10112",
+    "hscode": "160100",
+    "company_description": "Company Name: Case Farms Processing, Inc.\nRepresentative: Thomas R Shelton\nProduct: Poultry processing\nWebsite: www.casefarms.com",
+    "search_result": [
+        {
+            "Title": "Case Farms Processing, Inc. | Food Safety and Inspection Service",
+            "Link": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/case-farms-processing-inc.",
+            "Description": "Feb 14, 2020 ... Want the latest food safety news and information from FSIS? Subscribe to get email updates when new content is added to our website. No Thanks",
+            "Concated_text": "Title:Case Farms Processing, Inc. | Food Safety and Inspection Service\nLink:http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/case-farms-processing-inc.\nDescription:Feb 14, 2020 ... Want the latest food safety news and information from FSIS? Subscribe to get email updates when new content is added to our website. No Thanks",
+            "relevant": true,
+            "input_price": 0.50645,
+            "collect_time": 2.8984369339887053
+        },
+        {
+            "Title": "Troutman, North Carolina Poultry Farm | Case Farms Chicken | Case ...",
+            "Link": "https://www.casefarms.com/",
+            "Description": "Case Farms is a fully integrated poultry farming and processing group of dedicated individuals who produce quality poultry products for our customers.",
+            "Concated_text": "Title:Troutman, North Carolina Poultry Farm | Case Farms Chicken | Case ...\nLink:https://www.casefarms.com/\nDescription:Case Farms is a fully integrated poultry farming and processing group of dedicated individuals who produce quality poultry products for our customers.",
+            "relevant": true,
+            "input_price": 0.04751,
+            "link_content_summary": "{\n \"Summary\": \"Case Farms is a poultry farming and processing company that prioritizes quality and animal welfare. Their operations include over 3200 employees and 475 grower farms, working together to provide consistent poultry products. The company is dedicated to community involvement, environmental sustainability, and worker safety. This summary is based on the HTML source code provided.\",\n \"Company Name\": \"Case Farms\",\n \"Email\": \"None\",\n \"Phone Number\": \"704-528-4501\",\n \"Address\": \"385 Pilch Rd\\nTroutman, NC 28166\",\n \"Product Information\": \"Cage-free and hormone-free chicken\",\n \"Representative\": \"None\",\n \"Useful Information\": \"Case Farms has received recognition for its leadership in poultry industry workplace safety.\"\n}",
+            "output_price": 0.00468,
+            "collect_time": 7.266753579955548
+        },
+        {
+            "Title": "Our Location | Case Farms Chickens | Case Farms",
+            "Link": "https://www.casefarms.com/about-us/locations",
+            "Description": "Case Farms proudly has many locations. We have 3 locations in North Carolina as well as 2 in Ohio. Contact us for more information on our locations.",
+            "Concated_text": "Title:Our Location | Case Farms Chickens | Case Farms\nLink:https://www.casefarms.com/about-us/locations\nDescription:Case Farms proudly has many locations. We have 3 locations in North Carolina as well as 2 in Ohio. Contact us for more information on our locations.",
+            "relevant": true,
+            "input_price": 0.053660000000000006,
+            "link_content_summary": "{\n \"Summary\": \"The HTML source code summarizes the different locations of Case Farms. Case Farms has 3 locations in North Carolina and 2 locations in  Ohio. The North Carolina locations are Troutman 385 Pilch Road Troutman, NC 28166, Goldsboro 330 Pecan Road Dudley, NC 28333 and Morganton 121 Rand Street Morganton, NC 28655. The Ohio locations are Winesburg 1818 County Road 160 Winesburg, OH 44690 and Canton 1925 30th Street NE Canton, OH 44705.\",\n \"Company Name\": \"Case Farms\",\n \"Email\": \"None\",\n \"Phone Number\": \"704-528-4501\",\n \"Address\": \"385 Pilch Rd Troutman, NC 28166\",\n \"Product Information\": \"None\",\n \"Representative\": \"None\",\n \"Useful Information\": \"The source code also provides information on the company's financial administration, processing plants, administrative offices, hatcheries, feed mills, garages, sales offices, and live production offices.\"\n}",
+            "output_price": 0.00666,
+            "collect_time": 8.806710655800998
+        },
+        {
+            "Title": "US Department of Labor finds Case Farms Processing again ...",
+            "Link": "https://www.dol.gov/newsroom/releases/osha/osha20240207",
+            "Description": "Feb 7, 2024 ... ... Case Farms Processing Inc. in Winesburg on Aug. 7, 2023. OSHA found machine guarding and trip-and-fall hazards in the facility's live-hang ...",
+            "Concated_text": "Title:US Department of Labor finds Case Farms Processing again ...\nLink:https://www.dol.gov/newsroom/releases/osha/osha20240207\nDescription:Feb 7, 2024 ... ... Case Farms Processing Inc. in Winesburg on Aug. 7, 2023. OSHA found machine guarding and trip-and-fall hazards in the facility's live-hang ...",
+            "relevant": true,
+            "input_price": 0.18103,
+            "link_content_summary": "{\n        \"Summary\": \"US Department of Labor finds Case Farms Processing again exposes workers to multiple hazards at Ohio chicken processing plant\",\n        \"Company Name\": \"Case Farms Processing\",\n        \"Email\": \"allen.scott@dol.gov\",\n        \"Phone Number\": \"312-353-4727\",\n        \"Address\": null,\n        \"Product Information\": null,\n        \"Representative\": \"Scott Allen\",\n        \"Useful Information\": \"OSHA cites repeat offender for 14 violations, proposes $393K in penalties\"\n}",
+            "output_price": 0.00324,
+            "collect_time": 16.75950470706448
+        },
+        {
+            "Title": "Chicken processor faces $861K in fines after OSHA finds workers ...",
+            "Link": "https://www.osha.gov/news/newsreleases/region5/08132015-0",
+            "Description": "Aug 13, 2015 ... ... processing facility operated by Case Farms Processing Inc. found that the company was aware of the dangers, but continued to expose workers ...",
+            "Concated_text": "Title:Chicken processor faces $861K in fines after OSHA finds workers ...\nLink:https://www.osha.gov/news/newsreleases/region5/08132015-0\nDescription:Aug 13, 2015 ... ... processing facility operated by Case Farms Processing Inc. found that the company was aware of the dangers, but continued to expose workers ...",
+            "relevant": true,
+            "input_price": 0.24423000000000003,
+            "collect_time": 10.651876053074375
+        },
+        {
+            "Title": "Teen contractor loses leg, co-worker loses fingers at Case Farms ...",
+            "Link": "https://www.dol.gov/newsroom/releases/osha/osha20150929-2",
+            "Description": "Sep 29, 2015 ... The U.S. Department of Labor's Occupational Safety and Health Administration has levied the latest penalties against Case Farms Processing Inc.",
+            "Concated_text": "Title:Teen contractor loses leg, co-worker loses fingers at Case Farms ...\nLink:https://www.dol.gov/newsroom/releases/osha/osha20150929-2\nDescription:Sep 29, 2015 ... The U.S. Department of Labor's Occupational Safety and Health Administration has levied the latest penalties against Case Farms Processing Inc.",
+            "relevant": true,
+            "input_price": 0.18388,
+            "link_content_summary": "{\n        \"Summary\": \"Case Farms faces more than $1.4 million in fines as a result of worker safety and health violations, including one incident that led to an employee losing a leg. Two workers sustained serious injuries while cleaning machinery, one lost a leg and another lost two fingers resulting in them being fired.\",\n        \"Company Name\": \"Case Farms\",\n        \"Email\": null,\n        \"Phone Number\": null,\n        \"Address\": null,\n        \"Product Information\": null,\n        \"Representative\": null,\n        \"Useful Information\": \"Current citations on Case Farms are available here.\\n\\nView citations issued to Callaghan and Callaghan here.\"\n}",
+            "output_price": 0.00408,
+            "collect_time": 12.033939673099667
+        },
+        {
+            "Title": "Case Farms Processing, Inc. | National Labor Relations Board",
+            "Link": "https://www.nlrb.gov/case/08-CA-037850",
+            "Description": "Case Farms Processing, Inc. ; Location: Winesburg, OH ; Region Assigned: Region 08, Cleveland, Ohio ...",
+            "Concated_text": "Title:Case Farms Processing, Inc. | National Labor Relations Board\nLink:https://www.nlrb.gov/case/08-CA-037850\nDescription:Case Farms Processing, Inc. ; Location: Winesburg, OH ; Region Assigned: Region 08, Cleveland, Ohio ...",
+            "relevant": true,
+            "input_price": 0.45154,
+            "collect_time": 11.579249531030655
+        },
+        {
+            "Title": "Case Farms, Inc. Process Verified Program | Agricultural Marketing ...",
+            "Link": "https://www.ams.usda.gov/content/case-farms-inc-process-verified-program",
+            "Description": "Process Verified Point(s): ... For more information on the USDA Process Verified Program and additional information on this specific program, visit the Livestock ...",
+            "Concated_text": "Title:Case Farms, Inc. Process Verified Program | Agricultural Marketing ...\nLink:https://www.ams.usda.gov/content/case-farms-inc-process-verified-program\nDescription:Process Verified Point(s): ... For more information on the USDA Process Verified Program and additional information on this specific program, visit the Livestock ...",
+            "relevant": true,
+            "input_price": 0.10692,
+            "collect_time": 9.978478748816997
+        },
+        {
+            "Title": "Case Farm Careers: Careers Home",
+            "Link": "https://careers.casefarms.com/careers-home/",
+            "Description": "Case Farms looks for driven individuals in perfect-fit opportunities that will help us maximize our potential along with yours. We consider ourselves a family ...",
+            "Concated_text": "Title:Case Farm Careers: Careers Home\nLink:https://careers.casefarms.com/careers-home/\nDescription:Case Farms looks for driven individuals in perfect-fit opportunities that will help us maximize our potential along with yours. We consider ourselves a family ...",
+            "relevant": true,
+            "input_price": 0.10862000000000001,
+            "collect_time": 10.24142069905065
+        },
+        {
+            "Title": "Troutman, North Carolina Poultry Farm | Case Farms Chicken | Case ...",
+            "Link": "https://www.casefarms.com/",
+            "Description": "Case Farms is a fully integrated poultry farming and processing group of dedicated individuals who produce quality poultry products for our customers.",
+            "Concated_text": "Title:Troutman, North Carolina Poultry Farm | Case Farms Chicken | Case ...\nLink:https://www.casefarms.com/\nDescription:Case Farms is a fully integrated poultry farming and processing group of dedicated individuals who produce quality poultry products for our customers.",
+            "relevant": true,
+            "input_price": 0.0475,
+            "link_content_summary": "{\n\"Summary\": \"This website is for Case Farms, a poultry farming and processing group that emphasizes quality products and a commitment to their employees, animal welfare, food safety, and community involvement.\",\n\"Company Name\": \"Case Farms\",\n\"Email\": \"None\",\n\"Phone Number\": \"704-528-4501\",\n\"Address\": \"385 Pilch Rd \\nTroutman, NC 28166\",\n\"Product Information\": \"The website mentions Cage Free & Hormone Free Chicken as well as their commitment to animal welfare and safety.\",\n\"Representative\": \"None\",\n\"Useful Information\": \"The website provides access to news articles, career opportunities, and information on their social responsibility initiatives.\"\n}",
+            "output_price": 0.00429,
+            "collect_time": 5.963638257002458
+        },
+        {
+            "Title": "Professional Jobs | Case Farm Careers",
+            "Link": "https://careers.casefarms.com/professional",
+            "Description": "Case Farms is looking for motivated individuals who are interested in a long-term career where they can bring their unique experiences, skill sets and ideas to ...",
+            "Concated_text": "Title:Professional Jobs | Case Farm Careers\nLink:https://careers.casefarms.com/professional\nDescription:Case Farms is looking for motivated individuals who are interested in a long-term career where they can bring their unique experiences, skill sets and ideas to ...",
+            "relevant": true,
+            "input_price": 0.05638,
+            "collect_time": 7.217827899148688
+        },
+        {
+            "Title": "Drivers Jobs | Case Farm Careers",
+            "Link": "https://careers.casefarms.com/drivers",
+            "Description": "Noah Coonse – Live Haul Truck Driver (Has worked for Case Farms since April 2021.) “Driving with Case Farms allows me to be home every night. Case Farms ...",
+            "Concated_text": "Title:Drivers Jobs | Case Farm Careers\nLink:https://careers.casefarms.com/drivers\nDescription:Noah Coonse – Live Haul Truck Driver (Has worked for Case Farms since April 2021.) “Driving with Case Farms allows me to be home every night. Case Farms ...",
+            "relevant": true,
+            "input_price": 0.05641,
+            "collect_time": 6.400128643959761
+        },
+        {
+            "Title": "Production Jobs | Case Farm Careers",
+            "Link": "https://careers.casefarms.com/production",
+            "Description": "Case Farms is looking for motivated individuals who are interested in a long-term career where they can bring their unique experiences, skill sets and ideas to ...",
+            "Concated_text": "Title:Production Jobs | Case Farm Careers\nLink:https://careers.casefarms.com/production\nDescription:Case Farms is looking for motivated individuals who are interested in a long-term career where they can bring their unique experiences, skill sets and ideas to ...",
+            "relevant": true,
+            "input_price": 0.05627,
+            "collect_time": 7.343566755997017
+        },
+        {
+            "Title": "Trainee Jobs | Case Farm Careers",
+            "Link": "https://careers.casefarms.com/trainee",
+            "Description": "Management Trainee & Intern Program. Provides candidates the opportunity to enhance the knowledge of coursework studies with hands on practical work experience.",
+            "Concated_text": "Title:Trainee Jobs | Case Farm Careers\nLink:https://careers.casefarms.com/trainee\nDescription:Management Trainee & Intern Program. Provides candidates the opportunity to enhance the knowledge of coursework studies with hands on practical work experience.",
+            "relevant": true,
+            "input_price": 0.05612,
+            "collect_time": 9.780797368846834
+        },
+        {
+            "Title": "Case Farm Careers: Careers Home",
+            "Link": "https://careers.casefarms.com/careers-home/",
+            "Description": "Case Farms looks for driven individuals in perfect-fit opportunities that will help us maximize our potential along with yours. We consider ourselves a family ...",
+            "Concated_text": "Title:Case Farm Careers: Careers Home\nLink:https://careers.casefarms.com/careers-home/\nDescription:Case Farms looks for driven individuals in perfect-fit opportunities that will help us maximize our potential along with yours. We consider ourselves a family ...",
+            "relevant": true,
+            "input_price": 0.10862000000000001,
+            "collect_time": 12.199194730026647
+        },
+        {
+            "Title": "About Us | Case Farms Chicken | Case Farms",
+            "Link": "https://www.casefarms.com/about-us",
+            "Description": "A core component to Case Farms' quality commitment is to ensure the welfare and health of our chickens. All chickens are farm-raised cage-free and fed a diet ...",
+            "Concated_text": "Title:About Us | Case Farms Chicken | Case Farms\nLink:https://www.casefarms.com/about-us\nDescription:A core component to Case Farms' quality commitment is to ensure the welfare and health of our chickens. All chickens are farm-raised cage-free and fed a diet ...",
+            "relevant": true,
+            "input_price": 0.04216,
+            "collect_time": 7.899509704904631
+        },
+        {
+            "Title": "Contact Us | Case Farms Chicken | Case Farms",
+            "Link": "https://www.casefarms.com/contact-us",
+            "Description": "We would love to hear from you. Please fill out the contact form below and we will be in touch!",
+            "Concated_text": "Title:Contact Us | Case Farms Chicken | Case Farms\nLink:https://www.casefarms.com/contact-us\nDescription:We would love to hear from you. Please fill out the contact form below and we will be in touch!",
+            "relevant": true,
+            "input_price": 0.05432,
+            "collect_time": 6.403584606945515
+        },
+        {
+            "Title": "Careers and Benefits | Case Farms Chicken | Case Farms",
+            "Link": "https://www.casefarms.com/careers/benefits",
+            "Description": "Case Farms provides employees with a comprehensive benefits package. The care and protection offered by our diverse plans and programs are designed to help ...",
+            "Concated_text": "Title:Careers and Benefits | Case Farms Chicken | Case Farms\nLink:https://www.casefarms.com/careers/benefits\nDescription:Case Farms provides employees with a comprehensive benefits package. The care and protection offered by our diverse plans and programs are designed to help ...",
+            "relevant": true,
+            "input_price": 0.0288,
+            "link_content_summary": "        {\n        \"Summary\": \"이 HTML 소스 코드는 Case Farms Chicken의 채용과 혜택에 대한 정보를 제공합니다. 이 회사는 직원들에게 건강 관리와 가족 안부 관리에 도움을 주는 포괄적인 혜택 패키지를 제공합니다. 이 웹사이트에서는 채용 기회와 회사에 대해 더 자세히 알아볼 수 있습니다.\",\n        \"Company Name\": \"Case Farms Chicken\",\n        \"Email\": \"None\",\n        \"Phone Number\": \"704-528-4501\",\n        \"Address\": \"385 Pilch Rd\\nTroutman, NC 28166\",\n        \"Product Information\": \"None\",\n        \"Representative\": \"None\",\n        \"Useful Information\": \"이 웹사이트에는 회사에 대한 정보, 뉴스룸, 채용 공고 등 다양한 유용한 정보가 있습니다.\"\n        }",
+            "output_price": 0.00729,
+            "collect_time": 6.819524630904198
+        },
+        {
+            "Title": "Careers Home | Case Farm Careers",
+            "Link": "https://careers.casefarms.com/careers-home/jobs",
+            "Description": "Cookies are used on this site to assist in continually improving the candidate experience and all the interaction data we store of our visitors is anonymous.",
+            "Concated_text": "Title:Careers Home | Case Farm Careers\nLink:https://careers.casefarms.com/careers-home/jobs\nDescription:Cookies are used on this site to assist in continually improving the candidate experience and all the interaction data we store of our visitors is anonymous.",
+            "relevant": true,
+            "input_price": 0.04482,
+            "link_content_summary": "{\n \"Summary\": \"This website is for Case Farm Careers. The website provides information about the company, including its address, phone number, and social media links. It also has a search function that allows users to search for jobs by category or location.\",\n \"Company Name\": \"Case Farms\",\n \"Email\": \"None\",\n \"Phone Number\": \"704-528-4501\",\n \"Address\": \"385 Pilch Rd\\nTroutman, NC 28166\",\n \"Product Information\": \"None\",\n \"Representative\": \"None\",\n \"Useful Information\": \"The website has a link to a privacy policy page that provides information about the company's use of cookies.\"\n}",
+            "output_price": 0.004109999999999999,
+            "collect_time": 11.25333529082127
+        }
+    ],
+    "email": "allen.scott@dol.gov",
+    "search_total_info": "- Buyer overview\nCompany Name: Case Farms Processing, Inc.\nRepresentative: Thomas R Shelton\nProduct: Poultry processing\nWebsite: www.casefarms.com \n\n- Buyer's recent activities \nProduct info : Cage-free and hormone-free chicken. Case Farms, Inc. produces Processed poultry.. The website mentions Cage Free & Hormone Free Chicken as well as their commitment to animal welfare and safety. \nUseful info : Case Farms has received recognition for its leadership in poultry industry workplace safety.. The source code also provides information on the company's financial administration, processing plants, administrative offices, hatcheries, feed mills, garages, sales offices, and live production offices.. OSHA cites repeat offender for 14 violations, proposes $393K in penalties. Current citations on Case Farms are available here.\n\nView citations issued to Callaghan and Callaghan here.. The website provides access to news articles, career opportunities, and information on their social responsibility initiatives.. 이 웹사이트에는 회사에 대한 정보, 뉴스룸, 채용 공고 등 다양한 유용한 정보가 있습니다.. The website has a link to a privacy policy page that provides information about the company's use of cookies."
+}

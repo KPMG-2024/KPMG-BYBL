@@ -1,0 +1,213 @@
+{
+    "rnum": 12,
+    "trgtpsnNo": "6003599995",
+    "trgtpsnCd": "450",
+    "trgtpsnDtlCd": "240434",
+    "trgtpsnNm": "Simmons Foods, Inc.",
+    "rprsnt1Nm": "Mark Simmons",
+    "biztyp1Cd": "10112",
+    "biztyp1CdNm": "가금류 도축업",
+    "trgtpsn1EmpCnt": 90,
+    "trgtpsnTelno": "1-4795248151",
+    "trgtpsn1Addr": "/601 N Hico St/Siloam Springs/Arkansas/Benton/United States/72761-2410",
+    "fundDd": "19490630",
+    "prod1Nm": "Poultry processing",
+    "hmpgAddr": "www.simmonsfoods.com",
+    "insuUseYn": "N",
+    "impYn": "Y",
+    "koreaCuYn": "N",
+    "extrnlCstYn": "N",
+    "packAbrdEntprYn": "N",
+    "korNm": "미국",
+    "compscale": "D",
+    "nation_name": "미국",
+    "industry_code": "10112",
+    "hscode": "160100",
+    "company_description": "Company Name: Simmons Foods, Inc.\nRepresentative: Mark Simmons\nProduct: Poultry processing\nWebsite: www.simmonsfoods.com",
+    "search_result": [
+        {
+            "Title": "Simmons Foods",
+            "Link": "https://simmonsfoods.com/",
+            "Description": "Simmons Foods is a leading supplier of poultry, pet and ingredient products based in Siloam Springs, Arkansas.",
+            "Concated_text": "Title:Simmons Foods\nLink:https://simmonsfoods.com/\nDescription:Simmons Foods is a leading supplier of poultry, pet and ingredient products based in Siloam Springs, Arkansas.",
+            "relevant": true,
+            "input_price": 0.16462000000000002,
+            "collect_time": 26.27821291005239
+        },
+        {
+            "Title": "Simmons Careers",
+            "Link": "https://workatsimmons.com/",
+            "Description": "... Foods, Inc. & Affiliates. 601 N. Hico Street Siloam Springs, AR 72761. (479) ... Click here for more information. \\",
+            "Concated_text": "Title:Simmons Careers\nLink:https://workatsimmons.com/\nDescription:... Foods, Inc. & Affiliates. 601 N. Hico Street Siloam Springs, AR 72761. (479) ... Click here for more information. \\",
+            "relevant": true,
+            "input_price": 0.18321,
+            "link_content_summary": "{\n \"Summary\": \"Simmons Foods, Inc. announces that despite economic struggles their health &amp; safety measures are guaranteed for their employees and their families.\",\n \"Company Name\": \"Simmons Foods, Inc.\",\n \"Email\": \"None\",\n \"Phone Number\": \"(479) 524-8151\",\n \"Address\": \"601 N. Hico Street\\nSiloam Springs, AR 72761\",\n \"Product Information\": \"Simmons is grounded in the idea there is always a better way. During times like these, we are putting that concept to work in our evolving health and safety measures.\\n\\nEven with all of these measures in place, we are not resting. We will continue to evaluate what we have learned and adapt to keep our team members and our communities safe.\",\n \"Representative\": \"None\",\n \"Useful Information\": \"- Equal opportunity employer\\n\\n- Accessible for applicants with disabilities\\n- Committed to providing a safe, productive workplace\"\n}",
+            "output_price": 0.006059999999999999,
+            "collect_time": 24.315789573825896
+        },
+        {
+            "Title": "Contact — Simmons Foods",
+            "Link": "https://simmonsfoods.com/contact",
+            "Description": "Pet Food · Animal Nutrition · Contact Us · (479) 524-8151. Mon-Fri 8am-5pm CT. Asset 61@4x.png. Back to Top. © 2020 Simmons Foods, Inc. & Affiliates | Simmons ...",
+            "Concated_text": "Title:Contact — Simmons Foods\nLink:https://simmonsfoods.com/contact\nDescription:Pet Food · Animal Nutrition · Contact Us · (479) 524-8151. Mon-Fri 8am-5pm CT. Asset 61@4x.png. Back to Top. © 2020 Simmons Foods, Inc. & Affiliates | Simmons ...",
+            "relevant": true,
+            "input_price": 0.13924,
+            "link_content_summary": "{\n \"Summary\": \"The home office of Simmons Foods Inc. & Affiliates is accessible by phone at (479) 524-8151 during the hours of Monday-Friday from 8am-5pm CT. Also at the main office, the mailing address is P.O. Box 430, Siloam Springs, AR‎ 72761 and the street address is 601 North Hico Street, Siloam Springs, AR‎ 72761. For more information on employment, contact lainie.button@simfoods.com.\",\n \"Company Name\": \"Simmons Foods\",\n \"Email\": \"lainie.button@simfoods.com\",\n \"Phone Number\": \"(479) 524-8151\",\n \"Address\": \"601 North Hico Street, Siloam Springs, AR‎ 72761\",\n \"Product Information\": \"None\",\n \"Representative\": \"Christina Williams\",\n \"Useful Information\": \"Simmons Foods Inc. is an Equal Opportunity Employer.\"\n}",
+            "output_price": 0.006,
+            "collect_time": 17.9919768339023
+        },
+        {
+            "Title": "Simmons Prepared Foods, Inc. Recalls Boneless Chicken Bites ...",
+            "Link": "http://www.fsis.usda.gov/recalls-alerts/simmons-prepared-foods-inc--recalls-boneless-chicken-bites-products-due-possible",
+            "Description": "Dec 15, 2023 ... Want the latest food safety news and information from FSIS? Subscribe to get email updates when new content is added to our website. No Thanks",
+            "Concated_text": "Title:Simmons Prepared Foods, Inc. Recalls Boneless Chicken Bites ...\nLink:http://www.fsis.usda.gov/recalls-alerts/simmons-prepared-foods-inc--recalls-boneless-chicken-bites-products-due-possible\nDescription:Dec 15, 2023 ... Want the latest food safety news and information from FSIS? Subscribe to get email updates when new content is added to our website. No Thanks",
+            "relevant": true,
+            "input_price": 0.5734,
+            "collect_time": 3.513679292984307
+        },
+        {
+            "Title": "Company — Simmons Foods",
+            "Link": "https://simmonsfoods.com/about",
+            "Description": "Simmons Foods, Inc. and its Affiliates are leading suppliers of poultry, pet, and animal nutrition products based in Siloam Springs, Arkansas. Simmons works ...",
+            "Concated_text": "Title:Company — Simmons Foods\nLink:https://simmonsfoods.com/about\nDescription:Simmons Foods, Inc. and its Affiliates are leading suppliers of poultry, pet, and animal nutrition products based in Siloam Springs, Arkansas. Simmons works ...",
+            "relevant": true,
+            "input_price": 0.12229000000000001,
+            "link_content_summary": "{\n \"Summary\": \"- Simmons Foods, Inc. is a leading supplier of poultry, pet, and animal nutrition products based in Siloam Springs, Arkansas.\\n\\n- It ranks in the top 15 poultry producers in the US, its pet food division is the largest supplier of store brand wet pet food in North America, and its animal nutrition boasts an innovative line of proprietary animal nutrition products.\\n\\n- With 8,000+ team members, Simmons Foods, Inc. and its Affiliates serve customers in all 50 states and more than 40 countries around the world.\\n\\n-  Founded in 1949, it is family-owned and operated and has over 70 years of experience in the industry.\",\n \"Company Name\": \"Simmons Foods\",\n \"Email\": \"None\",\n \"Phone Number\": \"(479) 524-8151\",\n \"Address\": \"None\",\n \"Product Information\": \"Poultry, pet, and animal nutrition products\",\n \"Representative\": \"None\",\n \"Useful Information\": \"- Employs 8,000+ team members\\n\\n- Operates in all 50 states and more than 40 countries\\n\\n- Family-owned and operated for over 70 years\"\n}",
+            "output_price": 0.0074399999999999996,
+            "collect_time": 10.363836345961317
+        },
+        {
+            "Title": "Simmons Pet Food",
+            "Link": "https://simmonspetfood.com/",
+            "Description": "Learn More About Simmons. Introduction. Main News. Company Info. Intro Video. simmons-pet-food-alt-white.png. © Simmons Foods, Inc. & Affiliates | 601 N.",
+            "Concated_text": "Title:Simmons Pet Food\nLink:https://simmonspetfood.com/\nDescription:Learn More About Simmons. Introduction. Main News. Company Info. Intro Video. simmons-pet-food-alt-white.png. © Simmons Foods, Inc. & Affiliates | 601 N.",
+            "relevant": true,
+            "input_price": 0.09411,
+            "collect_time": 9.90872705494985
+        },
+        {
+            "Title": "Simmons Prepared Foods, Inc. | Food Safety and Inspection Service",
+            "Link": "http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/simmons-prepared-foods-inc.-2",
+            "Description": "Jan 28, 2021 ... Want the latest food safety news and information from FSIS? Subscribe to get email updates when new content is added to our website. No Thanks",
+            "Concated_text": "Title:Simmons Prepared Foods, Inc. | Food Safety and Inspection Service\nLink:http://www.fsis.usda.gov/inspection/fsis-inspected-establishments/simmons-prepared-foods-inc.-2\nDescription:Jan 28, 2021 ... Want the latest food safety news and information from FSIS? Subscribe to get email updates when new content is added to our website. No Thanks",
+            "relevant": true,
+            "input_price": 0.50706,
+            "collect_time": 3.2909295759163797
+        },
+        {
+            "Title": "Simmons Prepared Foods",
+            "Link": "http://simmonspreparedfoods.com/",
+            "Description": "We are a farm to fork poultry producer based in Siloam Springs, Arkansas, primarily serving customer brands. Our Strategy. We work for your brand.",
+            "Concated_text": "Title:Simmons Prepared Foods\nLink:http://simmonspreparedfoods.com/\nDescription:We are a farm to fork poultry producer based in Siloam Springs, Arkansas, primarily serving customer brands. Our Strategy. We work for your brand.",
+            "relevant": true,
+            "input_price": 0.05744,
+            "collect_time": 11.810281913960353
+        },
+        {
+            "Title": "Simmons Foods",
+            "Link": "https://simmonsfoods.com/",
+            "Description": "Simmons Foods is a leading supplier of poultry, pet and ingredient products based in Siloam Springs, Arkansas.",
+            "Concated_text": "Title:Simmons Foods\nLink:https://simmonsfoods.com/\nDescription:Simmons Foods is a leading supplier of poultry, pet and ingredient products based in Siloam Springs, Arkansas.",
+            "relevant": true,
+            "input_price": 0.16462000000000002,
+            "collect_time": 12.136466950876638
+        },
+        {
+            "Title": "Hiring Process — Simmons Careers",
+            "Link": "https://simmonsfoods.com/hiringprocess",
+            "Description": "Initial Interview. We'll contact you for in person or phone interviews. We want to go beyond your resume and hear from you about your goals and qualifications.",
+            "Concated_text": "Title:Hiring Process — Simmons Careers\nLink:https://simmonsfoods.com/hiringprocess\nDescription:Initial Interview. We'll contact you for in person or phone interviews. We want to go beyond your resume and hear from you about your goals and qualifications.",
+            "relevant": true,
+            "input_price": 0.09090999999999999,
+            "link_content_summary": "{\n\"Summary\": \"This HTML page contains information about the hiring process at Simmons Foods. It provides an overview of the steps involved in applying for a job, including the initial application, initial interview, final interview, and offer. It also includes a note about Simmons being an equal opportunity employer and their commitment to providing reasonable accommodations for applicants with disabilities.\",\n\"Company Name\": \"Simmons Foods\",\n\"Email\": \"None\",\n\"Phone Number\": \"(479) 524-8151\",\n\"Address\": \"601 N. Hico Street, Siloam Springs, AR 72761\",\n\"Product Information\": \"None\",\n\"Representative\": \"None\",\n\"Useful Information\": \"Simmons is committed to providing reasonable accommodations to any applicants with disabilities. Click here for more information.\"\n}",
+            "output_price": 0.0048,
+            "collect_time": 9.080972922034562
+        },
+        {
+            "Title": "Company Store — Simmons Foods",
+            "Link": "https://simmonsfoods.com/companystore",
+            "Description": "Simmons Apparel Represent our team. Look awesome.",
+            "Concated_text": "Title:Company Store — Simmons Foods\nLink:https://simmonsfoods.com/companystore\nDescription:Simmons Apparel Represent our team. Look awesome.",
+            "relevant": true,
+            "input_price": 0.09443,
+            "collect_time": 8.936627246905118
+        },
+        {
+            "Title": "News — Simmons Foods",
+            "Link": "https://simmonsfoods.com/news",
+            "Description": "Food safety is a very serious matter at Simmons. This is why Simmons issued a precautionary and voluntary recall for approximately 27,000 pounds of further ...",
+            "Concated_text": "Title:News — Simmons Foods\nLink:https://simmonsfoods.com/news\nDescription:Food safety is a very serious matter at Simmons. This is why Simmons issued a precautionary and voluntary recall for approximately 27,000 pounds of further ...",
+            "relevant": true,
+            "input_price": 0.23182,
+            "link_content_summary": "{\n \"Summary\": \"Simmons Foods is a leading producer of poultry, prepared foods, and pet food.Simmons Foods announced it will provide a $100 Million expansion of its prepared foods operation located at 2101 Twin Circle Drive in Van Buren, Arkansas.\\nSimmons Foods, Inc. announced today the sale of its propane business to MFA Oil Company.\\nSimmons Foods, Inc. announced the sale of its propane business to MFA Oil Company.\",\n \"Company Name\": \"Simmons Foods\",\n \"Email\": \"None\",\n \"Phone Number\": \"(479) 524-8151\",\n \"Address\": \"2101 Twin Circle Drive in Van Buren, Arkansas\",\n \"Product Information\": \"Simmons Foods is a leading producer of poultry, prepared foods, and pet food. \\nThey manufacture a variety of poultry products including fresh and frozen chicken, turkey, and pork as well as prepared foods such as deli meats, bacon, and sausage.\\nSimmons also produces pet food under the Simmons Pet Food brand name.\",\n \"Representative\": \"None\",\n \"Useful Information\": \"Simmons Foods is an Equal Opportunity Employer.\"\n}",
+            "output_price": 0.007019999999999999,
+            "collect_time": 12.95116064697504
+        },
+        {
+            "Title": "Introduction — Simmons Foods",
+            "Link": "https://simmonsfoods.com/introduction",
+            "Description": "Simmons Foods · When you join Simmons, you have the opportunity to do work that matters: producing food for a growing world. · A Letter From Todd Simmons · Our ...",
+            "Concated_text": "Title:Introduction — Simmons Foods\nLink:https://simmonsfoods.com/introduction\nDescription:Simmons Foods · When you join Simmons, you have the opportunity to do work that matters: producing food for a growing world. · A Letter From Todd Simmons · Our ...",
+            "relevant": true,
+            "input_price": 0.23031000000000001,
+            "link_content_summary": "{\n \"Summary\": \"Simmons Foods is a leading supplier of poultry, pet and ingredient products based in Siloam Springs, Arkansas. We work with farmers, communities, and employees to provide sustainable food solutions to consumers around the world.\",\n \"Company Name\": \"Simmons Foods\",\n \"Email\": \"None\",\n \"Phone Number\": \"(479) 524-8151\",\n \"Address\": \"None\",\n \"Product Information\": \"Poultry, Pet Food, Animal Nutrition\",\n \"Representative\": {\n  \"Name\": \"Todd Simmons\",\n  \"Email\": \"None\",\n  \"Phone Number\": \"None\",\n  \"Title\": \"CEO\"\n },\n \"Useful Information\": \"Careers, News, Values, About\"\n}",
+            "output_price": 0.0044399999999999995,
+            "collect_time": 20.0518693421036
+        },
+        {
+            "Title": "Our Culture — Simmons Foods",
+            "Link": "https://simmonsfoods.com/culture",
+            "Description": "We not only work as a team, we consider each other family. Our mission statement says “The People of Simmons are Building a Great Company Using Innovative Ideas ...",
+            "Concated_text": "Title:Our Culture — Simmons Foods\nLink:https://simmonsfoods.com/culture\nDescription:We not only work as a team, we consider each other family. Our mission statement says “The People of Simmons are Building a Great Company Using Innovative Ideas ...",
+            "relevant": true,
+            "input_price": 0.10499000000000001,
+            "collect_time": 9.49740319699049
+        },
+        {
+            "Title": "Simmons Careers",
+            "Link": "https://simmonsfoods.com/careers/",
+            "Description": "Same-Day Hiring Available. We're growing our team to help feed a growing demand for premium poultry, pet and animal nutrition products. We'd like new team ...",
+            "Concated_text": "Title:Simmons Careers\nLink:https://simmonsfoods.com/careers/\nDescription:Same-Day Hiring Available. We're growing our team to help feed a growing demand for premium poultry, pet and animal nutrition products. We'd like new team ...",
+            "relevant": true,
+            "input_price": 0.18321,
+            "link_content_summary": "{\n \"Summary\": \"Simmons Foods is a food company committed to making quality food for families and pets. They are looking to hire for various roles in different locations. Simmons Foods offers a variety of benefits including medical, dental, vision, and life insurance, as well as a 401(k) savings plan.\",\n \"Company Name\": \"Simmons Foods\",\n \"Email\": \"None\",\n \"Phone Number\": \"(479) 524-8151\",\n \"Address\": \"601 N. Hico Street\\nSiloam Springs, AR 72761\",\n \"Product Information\": \"Prepared foods\\nPremium chicken for restaurants and retail\\nNourishing wet pet food for the best brands in the industry\\nInnovative proprietary animal nutrition products\",\n \"Representative\": \"None\",\n \"Useful Information\": \"Simmons Foods emphasizes equal opportunity employment and reasonable accomodations for applicants with disabilities.\"\n}",
+            "output_price": 0.00543,
+            "collect_time": 13.019449710845947
+        },
+        {
+            "Title": "Benefits — Simmons Careers",
+            "Link": "https://simmonsfoods.com/benefits",
+            "Description": "Big savings, bright future. · Low premiums for health, dental and vision insurance plus no cost health care at Simmons Care Clinics · 401(k) retirement matching ...",
+            "Concated_text": "Title:Benefits — Simmons Careers\nLink:https://simmonsfoods.com/benefits\nDescription:Big savings, bright future. · Low premiums for health, dental and vision insurance plus no cost health care at Simmons Care Clinics · 401(k) retirement matching ...",
+            "relevant": true,
+            "input_price": 0.14947,
+            "link_content_summary": "{\n\"Summary\": \"This page summarizes the benefits that Simmons offers to its employees. Benefits include health, care, career, education support, financial, and life at Simmons features.\",\n\"Company Name\": \"Simmons\",\n\"Email\": \"None\",\n\"Phone Number\": \"(479) 524-8151\",\n\"Address\": \"601 N. Hico Street\\nSiloam Springs, AR 72761\",\n\"Product Information\": \"None\",\n\"Representative\": \"None\",\n\"Useful Information\": \"Simmons is an equal opportunity employer and believes everyone deserves to be treated with dignity and respect. \\nSimmons is committed to providing reasonable accommodations to applicants with disabilities.\"\n}",
+            "output_price": 0.00417,
+            "collect_time": 22.28949395311065
+        },
+        {
+            "Title": "Simmons Branding — Simmons Foods",
+            "Link": "https://simmonsfoods.com/branding",
+            "Description": "Whether it's animal nutrition, pet food, or protein, we are all part of a multi-generational commitment to excellence, integrity, and values. The brand ...",
+            "Concated_text": "Title:Simmons Branding — Simmons Foods\nLink:https://simmonsfoods.com/branding\nDescription:Whether it's animal nutrition, pet food, or protein, we are all part of a multi-generational commitment to excellence, integrity, and values. The brand ...",
+            "relevant": true,
+            "input_price": 0.11821000000000001,
+            "link_content_summary": "{\n \"Summary\": \"1. The website mainly talks about Simmons Foods' branding related information and its guidelines.\\n2. It has a section dedicated to logo guidelines with various options for use cases.\\n3. Other than that, it has detailed color information regarding primary and secondary color palettes which the company uses.\\n4. The website also has contact details, email address, phone number, and the address for Simmons Foods.\\n5. Another useful information it has is that Simmons Foods is an equal employment opportunity employer.\",\n \"Company Name\": \"Simmons Foods\",\n \"Email\": \"comms@simfoods.com\",\n \"Phone Number\": \"(479) 524-8151\",\n \"Address\": \"None\",\n \"Product Information\": \"None\",\n \"Representative\": \"None\",\n \"Useful Information\": \"Simmons Foods is an equal employment opportunity employer.\"\n}",
+            "output_price": 0.005279999999999999,
+            "collect_time": 9.493680340005085
+        },
+        {
+            "Title": "Contact — Simmons Foods",
+            "Link": "https://simmonsfoods.com/contact",
+            "Description": "lainie.button@simfoods.com. Simmons Foods is located in Siloam Springs, Arkansas. ... Simmons' Career Leadership Program is developing and preparing leaders to ...",
+            "Concated_text": "Title:Contact — Simmons Foods\nLink:https://simmonsfoods.com/contact\nDescription:lainie.button@simfoods.com. Simmons Foods is located in Siloam Springs, Arkansas. ... Simmons' Career Leadership Program is developing and preparing leaders to ...",
+            "relevant": true,
+            "input_price": 0.13924,
+            "link_content_summary": "{\n\"Summary\": \"- Simmons Foods is a poultry company with headquarters in Arkansas.\\n- The company's contact details are:\\n - Phone: (479) 524-8151\\n - Mailing Address: P.O. Box 430, Siloam Springs, AR ‎72761\\n - Street Address: 601 North Hico Street, Siloam Springs, AR ‎72761\\n- The company's representative for media contact is lainie.button@simfoods.com.\\n- Simmons Foods has a variety of products, including chicken, turkey, and prepared foods.\\n- The company has a strong commitment to sustainability and animal welfare.\",\n\"Company Name\": \"Simmons Foods\",\n\"Email\": \"lainie.button@simfoods.com\",\n\"Phone Number\": \"(479) 524-8151\",\n\"Address\": \"601 North Hico Street, Siloam Springs, AR ‎72761\",\n\"Product Information\": \"chicken, turkey, and prepared foods\",\n\"Representative\": null,\n\"Useful Information\": null\n}",
+            "output_price": 0.00639,
+            "collect_time": 17.730683454079553
+        }
+    ],
+    "email": "info@simmonsfoods.com",
+    "search_total_info": "- Buyer overview\nCompany Name: Simmons Foods, Inc.\nRepresentative: Mark Simmons\nProduct: Poultry processing\nWebsite: www.simmonsfoods.com \n\n- Buyer's recent activities \nProduct info : Simmons Foods offers a wide variety of poultry, pet and ingredient products, including:\n\n- Poultry: Simmons Foods offers a variety of poultry products, including chicken, turkey, and duck.\n- Pet Food: Simmons Foods offers a variety of pet food products, including dog food, cat food, and fish food.\n- Ingredient Products: Simmons Foods offers a variety of ingredient products, including chicken broth, chicken fat, and chicken meal.. Simmons is grounded in the idea there is always a better way. During times like these, we are putting that concept to work in our evolving health and safety measures.\n\nEven with all of these measures in place, we are not resting. We will continue to evaluate what we have learned and adapt to keep our team members and our communities safe.. Poultry, pet, and animal nutrition products. Simmons Foods is a leading producer of poultry, prepared foods, and pet food. \nThey manufacture a variety of poultry products including fresh and frozen chicken, turkey, and pork as well as prepared foods such as deli meats, bacon, and sausage.\nSimmons also produces pet food under the Simmons Pet Food brand name.. Poultry, Pet Food, Animal Nutrition. Prepared foods\nPremium chicken for restaurants and retail\nNourishing wet pet food for the best brands in the industry\nInnovative proprietary animal nutrition products. chicken, turkey, and prepared foods \nUseful info : - Equal opportunity employer\n\n- Accessible for applicants with disabilities\n- Committed to providing a safe, productive workplace. Simmons Foods Inc. is an Equal Opportunity Employer.. - Employs 8,000+ team members\n\n- Operates in all 50 states and more than 40 countries\n\n- Family-owned and operated for over 70 years. Simmons is committed to providing reasonable accommodations to any applicants with disabilities. Click here for more information.. Simmons Foods is an Equal Opportunity Employer.. Careers, News, Values, About. Simmons Foods emphasizes equal opportunity employment and reasonable accomodations for applicants with disabilities.. Simmons is an equal opportunity employer and believes everyone deserves to be treated with dignity and respect. \nSimmons is committed to providing reasonable accommodations to applicants with disabilities.. Simmons Foods is an equal employment opportunity employer."
+}

@@ -1,0 +1,191 @@
+{
+    "rnum": 22,
+    "trgtpsnNo": "6003898253",
+    "trgtpsnCd": "450",
+    "trgtpsnDtlCd": "292143",
+    "trgtpsnNm": "Perdue Farms Inc.",
+    "rprsnt1Nm": "Jim Perdue",
+    "biztyp1Cd": "10112",
+    "biztyp1CdNm": "가금류 도축업",
+    "trgtpsn1EmpCnt": 400,
+    "trgtpsnTelno": "1-4105433000",
+    "trgtpsn1Addr": "/31149 Old Ocean City Rd/Salisbury/Maryland/Wicomico/United States/21804-1806",
+    "fundDd": "19690630",
+    "prod1Nm": "Poultry processing",
+    "hmpgAddr": "www.perdue.com",
+    "insuUseYn": "N",
+    "impYn": "Y",
+    "koreaCuYn": "N",
+    "extrnlCstYn": "N",
+    "packAbrdEntprYn": "N",
+    "korNm": "미국",
+    "compscale": "D",
+    "nation_name": "미국",
+    "industry_code": "10112",
+    "hscode": "160100",
+    "company_description": "Company Name: Perdue Farms Inc.\nRepresentative: Jim Perdue\nProduct: Poultry processing\nWebsite: www.perdue.com",
+    "search_result": [
+        {
+            "Title": "Contact Us | Perdue Farms",
+            "Link": "https://corporate.perduefarms.com/contact-us/",
+            "Description": "If you represent a trucking company, please contact Carrie Johnson. Charity ... Please click on a region below to view pertinent contact information. United ...",
+            "Concated_text": "Title:Contact Us | Perdue Farms\nLink:https://corporate.perduefarms.com/contact-us/\nDescription:If you represent a trucking company, please contact Carrie Johnson. Charity ... Please click on a region below to view pertinent contact information. United ...",
+            "relevant": true,
+            "input_price": 0.37312,
+            "collect_time": 3.8462527708616108
+        },
+        {
+            "Title": "Perdue Chicken | PERDUE®",
+            "Link": "http://www.perdue.com/",
+            "Description": "The Perdue name means the best quality, nutrition, and safety. Perdue chicken is 100% veggie fed with no animal-by-products. Taste the difference.",
+            "Concated_text": "Title:Perdue Chicken | PERDUE®\nLink:http://www.perdue.com/\nDescription:The Perdue name means the best quality, nutrition, and safety. Perdue chicken is 100% veggie fed with no animal-by-products. Taste the difference.",
+            "relevant": true,
+            "input_price": 0.20317000000000002,
+            "link_content_summary": "        {\n        \"Summary\": \"Perdue Chicken is a popular and trusted brand in the United States. They are known for their antibiotic-free, no animal-by-products chicken, and their commitment to animal welfare. Perdue also offers a variety of products, including fresh and frozen chicken, breaded and unbreaded chicken, and organic chicken.\",\n        \"Company Name\": null,\n        \"Email\": null,\n        \"Phone Number\": \"1-800-4PERDUE\\n(1-800-473-7383)\",\n        \"Address\": null,\n        \"Product Information\": \"- Perdue Fresh\\n - Perdue Chicken Plus\\n - Perdue Harvestland\\n - Perdue Simply Smart Organics\\n - Perdue Short Cuts\\n - Perdue Harvestland Free Range\",\n        \"Representative\": null,\n        \"Useful Information\": \"- They are known for their antibiotic-free, no animal-by-products chicken, and their commitment to animal welfare.\\n - Perdue also offers a variety of products, including fresh and frozen chicken, breaded and unbreaded chicken, and organic chicken.\"\n        }",
+            "output_price": 0.006719999999999999,
+            "collect_time": 18.535892121028155
+        },
+        {
+            "Title": "Company | Perdue Farms",
+            "Link": "https://corporate.perduefarms.com/company/",
+            "Description": "Perdue Farms is a fourth-generation, family owned U.S. food and agricultural company. We were founded on trust—a value that carries through everything we do.",
+            "Concated_text": "Title:Company | Perdue Farms\nLink:https://corporate.perduefarms.com/company/\nDescription:Perdue Farms is a fourth-generation, family owned U.S. food and agricultural company. We were founded on trust—a value that carries through everything we do.",
+            "relevant": true,
+            "input_price": 0.10184,
+            "collect_time": 9.103889500023797
+        },
+        {
+            "Title": "Jien, et al. v. Perdue Farms, Inc., et al. - Cohen Milstein",
+            "Link": "https://www.cohenmilstein.com/case-study/jien-et-al-v-perdue-farms-inc-et-al/",
+            "Description": "Overview. On April 3, 2023, the Court preliminarily approved a $60.7 million settlement against Perdue Farms for its role in this novel wage-fixing conspiracy ...",
+            "Concated_text": "Title:Jien, et al. v. Perdue Farms, Inc., et al. - Cohen Milstein\nLink:https://www.cohenmilstein.com/case-study/jien-et-al-v-perdue-farms-inc-et-al/\nDescription:Overview. On April 3, 2023, the Court preliminarily approved a $60.7 million settlement against Perdue Farms for its role in this novel wage-fixing conspiracy ...",
+            "relevant": true,
+            "input_price": 0.12859,
+            "collect_time": 11.207046978874132
+        },
+        {
+            "Title": "Perdue Farms Incorporated Corporate Profile | Brands, Media ...",
+            "Link": "https://winmo.com/open/company/food-packaged-foods/md/salisbury/perdue-farms-incorporated/6853",
+            "Description": "View Perdue Farms Incorporated Marketing Contacts, Executives, Media Spend, Marketing Technologies and Brands. Open doors with marketers, their agencies and ...",
+            "Concated_text": "Title:Perdue Farms Incorporated Corporate Profile | Brands, Media ...\nLink:https://winmo.com/open/company/food-packaged-foods/md/salisbury/perdue-farms-incorporated/6853\nDescription:View Perdue Farms Incorporated Marketing Contacts, Executives, Media Spend, Marketing Technologies and Brands. Open doors with marketers, their agencies and ...",
+            "relevant": true,
+            "input_price": 0.09381,
+            "collect_time": 13.372433385113254
+        },
+        {
+            "Title": "Jobs at Perdue Farms",
+            "Link": "https://www.perduecareers.com/",
+            "Description": "Apply online for jobs at Perdue Farms. ... We're working to build a brighter future for our company, our associates and the communities we serve.",
+            "Concated_text": "Title:Jobs at Perdue Farms\nLink:https://www.perduecareers.com/\nDescription:Apply online for jobs at Perdue Farms. ... We're working to build a brighter future for our company, our associates and the communities we serve.",
+            "relevant": true,
+            "input_price": 0.29635,
+            "collect_time": 4.586796914925799
+        },
+        {
+            "Title": "Perdue Agribusiness",
+            "Link": "http://www.perdueagribusiness.com/",
+            "Description": "Perdue Farms · International · International · Purchase ... Request access here or click login at the top. Our Company Our Business News Locations Contacts.",
+            "Concated_text": "Title:Perdue Agribusiness\nLink:http://www.perdueagribusiness.com/\nDescription:Perdue Farms · International · International · Purchase ... Request access here or click login at the top. Our Company Our Business News Locations Contacts.",
+            "relevant": true,
+            "input_price": 0.067,
+            "collect_time": 7.1429032501764596
+        },
+        {
+            "Title": "Perdue Chicken | PERDUE®",
+            "Link": "http://www.perdue.com/",
+            "Description": "The Perdue name means the best quality, nutrition, and safety. Perdue chicken is 100% veggie fed with no animal-by-products. Taste the difference.",
+            "Concated_text": "Title:Perdue Chicken | PERDUE®\nLink:http://www.perdue.com/\nDescription:The Perdue name means the best quality, nutrition, and safety. Perdue chicken is 100% veggie fed with no animal-by-products. Taste the difference.",
+            "relevant": true,
+            "input_price": 0.20270000000000002,
+            "link_content_summary": "{\n \"Summary\": \"Perdue offers a variety of products, including chicken, beef, and pork. Customers can order products online, by phone, or in stores. Perdue also has a loyalty program that offers rewards to customers who purchase products. The company prides itself on its commitment to sustainability and its strong team culture.\",\n \"Company Name\": \"Perdue\",\n \"Email\": null,\n \"Phone Number\": \"1-800-473-7383\",\n \"Address\": null,\n \"Product Information\": \"Perdue primarily sells chicken, beef, and pork products. It also offers a variety of prepared foods, such as rotisserie chickens, deli meats, and sandwiches. The company's products are available in grocery stores, mass retailers, and club stores across the United States.\",\n \"Representative\": null,\n \"Useful Information\": \"Perdue has a strong commitment to sustainability. The company has set a goal of becoming the most sustainable protein company in the world by 2030. Perdue is also committed to providing a great workplace for its employees. The company has been recognized as one of the \\\"Best Places to Work\\\" by the Human Rights Campaign and the National Association for the Advancement of Colored People.\"\n}",
+            "output_price": 0.00747,
+            "collect_time": 13.406787822023034
+        },
+        {
+            "Title": "Chicken Recipes | PERDUE®",
+            "Link": "https://www.perdue.com/recipes/",
+            "Description": "Discover recipes that are nutritious, creative, and delicious. Perdue provides easy chicken recipes that are guaranteed to make you and your family smile.",
+            "Concated_text": "Title:Chicken Recipes | PERDUE®\nLink:https://www.perdue.com/recipes/\nDescription:Discover recipes that are nutritious, creative, and delicious. Perdue provides easy chicken recipes that are guaranteed to make you and your family smile.",
+            "relevant": true,
+            "input_price": 0.19079,
+            "collect_time": 12.260169979883358
+        },
+        {
+            "Title": "Products | PERDUE®",
+            "Link": "https://www.perdue.com/products/",
+            "Description": "Enjoy delicious PERDUE® chicken. We have the products and brands you love—gluten-free options, organic chicken, fun picks for kids, traditional whole birds, ...",
+            "Concated_text": "Title:Products | PERDUE®\nLink:https://www.perdue.com/products/\nDescription:Enjoy delicious PERDUE® chicken. We have the products and brands you love—gluten-free options, organic chicken, fun picks for kids, traditional whole birds, ...",
+            "relevant": true,
+            "input_price": 0.18368,
+            "link_content_summary": "{\n \"Summary\": \"Enjoy Perdue's chicken products with delicious flavors. They have options for gluten-free diets, organic chicken, fun picks for children, whole birds, ground chicken, and turkey!\",\n \"Company Name\": \"PERDUE®\",\n \"Email\": \"None\",\n \"Phone Number\": \"1-800-473-7383\",\n \"Address\": \"None\",\n \"Product Information\": \"PERDUE® FRESH BONELESS SKINLESS CHICKEN BREASTS, PERDUE® SHORT CUTS® GRILLED CHICKEN STRIPS, PERDUE® PERFECT PORTIONS® BONELESS SKINLESS CHICKEN BREAST ALL NATURAL\",\n \"Representative\": \"None\",\n \"Useful Information\": \"No Antibiotics Ever, Our chickens live healthy, antibiotic-free lives.\"\n}",
+            "output_price": 0.00504,
+            "collect_time": 11.574169933097437
+        },
+        {
+            "Title": "Promotions | PERDUE®",
+            "Link": "http://www.perdue.com/promotions/",
+            "Description": "Get recipes, meal planning guides and coupons from Perdue. Find out more.",
+            "Concated_text": "Title:Promotions | PERDUE®\nLink:http://www.perdue.com/promotions/\nDescription:Get recipes, meal planning guides and coupons from Perdue. Find out more.",
+            "relevant": true,
+            "input_price": 0.18595,
+            "link_content_summary": "{\n \"Summary\": \"- This page summarizes the content of the HTML source code and provides a brief description of what the company does: Perdue is an American food and beverage company based in Salisbury, Maryland.\\n- The company offers a wide range of products, including chicken, turkey, and pork. Perdue also processes and packages a variety of other food products, such as sauces, side dishes, and snacks.\\n\\n\\n- The company has a strong commitment to animal welfare and sustainability. Perdue has been recognized for its efforts to reduce its environmental impact and to improve the well-being of its animals.\",\n \"Company Name\": \"Perdue\",\n \"Email\": \"None\",\n \"Phone Number\": \"1-800-473-7383\",\n \"Address\": \"None\",\n \"Product Information\": \"Chicken, turkey, pork, sauces, side dishes, snacks\",\n \"Representative\": \"None\",\n \"Useful Information\": \"1. Perdue has a strong commitment to animal welfare and sustainability.\\n2. Perdue has been recognized for its efforts to reduce its environmental impact and to improve the well-being of its animals.\"\n}",
+            "output_price": 0.00684,
+            "collect_time": 12.83182612201199
+        },
+        {
+            "Title": "Pasture Bird | PERDUE®",
+            "Link": "https://www.perdue.com/pasture/",
+            "Description": "Perdue is the first company in the world to have a USDA process-verified program that guarantees every bird was truly raised on fresh pasture.",
+            "Concated_text": "Title:Pasture Bird | PERDUE®\nLink:https://www.perdue.com/pasture/\nDescription:Perdue is the first company in the world to have a USDA process-verified program that guarantees every bird was truly raised on fresh pasture.",
+            "relevant": true,
+            "input_price": 0.18109,
+            "link_content_summary": "{\n\"Summary\": \"Perdue is a company that sells different products, mainly chicken, with the goal of providing high-quality chicken products to their customers. The company is committed to providing pasture-raised chicken products that are raised on fresh pasture and have access to the outdoors. They believe that this type of farming is better for the chickens, the environment, and the customer.\\n\\nThe company is the first in the world to have a USDA process-verified program that ensures that every bird was raised on fresh pasture. Perdue's chickens are raised on fresh pasture every day in floorless mobile coops, which allows them to have access to fresh air, exercise, and bugs and worms to forage. The company never gives its chickens drugs or antibiotics, allowing their natural immune systems to develop.\\n\\nPerdue believes that pasture-raised chicken is not only denser and more delicious but also helps support healthy regenerative soils.\",\n\"Company Name\": \"Perdue\",\n\"Email\": null,\n\"Phone Number\": \"1-800-473-7383\",\n\"Address\": null,\n\"Product Information\": \"Perdue sells a variety of chicken products including:\\n\\n* Perdue\\n* Perdue Chicken Plus\\n* Perdue Harvestland\\n* Perdue Simply Smart Organics\\n* Perdue Harvestland Free Range\\n* Perdue Farms\",\n\"Representative\": null,\n\"Useful Information\": \"* Perdue became the number one producer of UDSA-Organic chicken in 2011.\\n\\n* Perdue led the industry in raising chickens with no antibiotics ever in 2017.\\n\\n* Perdue is the first large poultry producer to build a leading pasture-raised chicken program at scale to expand consumer access to pastured chicken.\"\n}",
+            "output_price": 0.01068,
+            "collect_time": 14.529703187057748
+        },
+        {
+            "Title": "Perdue Chicken | Beer Can Chicken | PERDUE®",
+            "Link": "http://www.perdue.com/beercanchicken/",
+            "Description": "There's nothing better than PERDUE® Beer Can Chicken. Tender and succulent on the inside and crispy on the outside, it will be the star of your backyard ...",
+            "Concated_text": "Title:Perdue Chicken | Beer Can Chicken | PERDUE®\nLink:http://www.perdue.com/beercanchicken/\nDescription:There's nothing better than PERDUE® Beer Can Chicken. Tender and succulent on the inside and crispy on the outside, it will be the star of your backyard ...",
+            "relevant": true,
+            "input_price": 0.19582,
+            "link_content_summary": "{\n \"Summary\": \"If you are looking for a delicious and juicy chicken dish, this is it. Perdue® Beer Can Chicken is the perfect dish for your backyard barbecue, as it will be the star of your party. Here are the steps to prepare it:\\n1. Pick up a Perdue® Fresh Whole Chicken.\\n2. Set your grill to medium.\\n3. Rub chicken with oil, season with your favorite rub, and insert into a food-safe grill stand, with legs at the bottom so that the chicken is standing upright.\\n4. Pour beer into the grill stand and let the chicken cook.\\n5. Place the stand with the chicken on the grill and let it cook until the internal temperature of the thigh reads 170°F.\\n6. Carefully remove the chicken and let it rest for 10 minutes before carving.\",\n \"Company Name\": \"Perdue\",\n \"Email\": \"None\",\n \"Phone Number\": \"1-800-4PERDUE\\n(1-800-473-7383)\",\n \"Address\": \"None\",\n \"Product Information\": \"Perdue® Beer Can Chicken, Perdue® Fresh Whole Chicken, Perdue® Fresh Boneless Skinless Chicken Breasts\",\n \"Representative\": \"None\",\n \"Useful Information\": \"If you need any help finding something, you can contact Perdue® from 9.00 AM to 6:30 pm EST, Monday - Friday.\"\n}",
+            "output_price": 0.00885,
+            "collect_time": 14.518474070122465
+        },
+        {
+            "Title": "Know Better | PERDUE®",
+            "Link": "http://www.perdue.com/knowbetter/",
+            "Description": "Our largest competitor has gone back to giving their chickens antibiotics before they're even sick. But they can't solve their problems by throwing ...",
+            "Concated_text": "Title:Know Better | PERDUE®\nLink:http://www.perdue.com/knowbetter/\nDescription:Our largest competitor has gone back to giving their chickens antibiotics before they're even sick. But they can't solve their problems by throwing ...",
+            "relevant": true,
+            "input_price": 0.21619,
+            "link_content_summary": "{\n \"Summary\": \"Perdue factory farms have switched to using antibiotics to raise their chickens, but Perdue claims their chickens are still better because they are raised in clean environments that don’t require antibiotics. Scientists claim that these antibiotics being used as a daily feed can leach into the soil and groundwater, and that there are broader concerns around antibiotics in chicken feed and how they could potentially harm humans. Perdue says that if customers are looking for the highest quality chickens, they should look for the Perdue brand with the ‘No Antibiotics Ever’ label.\",\n \"Company Name\": \"Perdue Farms\",\n \"Email\": \"None\",\n \"Phone Number\": \"1-800-473-7383\",\n \"Address\": \"None\",\n \"Product Information\": \"Perdue chicken\",\n \"Representative\": \"None\",\n \"Useful Information\": \"- Perdue has spent 20 years testing, learning, and investing in practices that raise chickens in healthy environments, so they don’t need antibiotics.\\n\\n- Perdue uses a combination of pre- and probiotics, novel vaccine use and approach, obsession with cleanliness, house health vs farm health approach, and the encouragement of non-antibiotic therapies to combat the use of antibiotics.\"\n}",
+            "output_price": 0.0074399999999999996,
+            "collect_time": 14.299561636988074
+        },
+        {
+            "Title": "Take a load off with ThanksNuggets | PERDUE®",
+            "Link": "https://www.perdue.com/thanksnuggets/",
+            "Description": "Limited-edition PERDUE® THANKSNUGGETS® are the perfect addition to your Thanksgiving celebrations and are sure to please people of all ages.",
+            "Concated_text": "Title:Take a load off with ThanksNuggets | PERDUE®\nLink:https://www.perdue.com/thanksnuggets/\nDescription:Limited-edition PERDUE® THANKSNUGGETS® are the perfect addition to your Thanksgiving celebrations and are sure to please people of all ages.",
+            "relevant": true,
+            "input_price": 0.16975,
+            "link_content_summary": "{\n\"Summary\": \"Thanksgiving-inspired PERDUE® THANKSNUGGETS® are the perfect addition to your Thanksgiving celebrations and are sure to please people of all ages.\",\n\"Company Name\": \"PERDUE®\",\n\"Email\": null,\n\"Phone Number\": \"1-800-4PERDUE\\n(1-800-473-7383)\",\n\"Address\": null,\n\"Product Information\": \"PERDUE\\nTHANKSNUGGETS® are the effortlessly delicious way to experience a holiday\\nfeast.\",\n\"Representative\": null,\n\"Useful Information\": null\n}",
+            "output_price": 0.00369,
+            "collect_time": 11.31759708817117
+        },
+        {
+            "Title": "Ground | PERDUE®",
+            "Link": "https://www.perdue.com/products/ground/",
+            "Description": "PERDUE® FRESH GROUND CHICKEN BREAST (1 LB.) ... *Less than 50% of the fat and calories from regular ground beef (this product contains 9g fat and 160 calories ...",
+            "Concated_text": "Title:Ground | PERDUE®\nLink:https://www.perdue.com/products/ground/\nDescription:PERDUE® FRESH GROUND CHICKEN BREAST (1 LB.) ... *Less than 50% of the fat and calories from regular ground beef (this product contains 9g fat and 160 calories ...",
+            "relevant": true,
+            "input_price": 0.19627,
+            "collect_time": 12.35138589097187
+        }
+    ],
+    "email": null,
+    "search_total_info": "- Buyer overview\nCompany Name: Perdue Farms Inc.\nRepresentative: Jim Perdue\nProduct: Poultry processing\nWebsite: www.perdue.com \n\n- Buyer's recent activities \nProduct info : - Perdue Fresh\n - Perdue Chicken Plus\n - Perdue Harvestland\n - Perdue Simply Smart Organics\n - Perdue Short Cuts\n - Perdue Harvestland Free Range. Perdue primarily sells chicken, beef, and pork products. It also offers a variety of prepared foods, such as rotisserie chickens, deli meats, and sandwiches. The company's products are available in grocery stores, mass retailers, and club stores across the United States.. PERDUE® FRESH BONELESS SKINLESS CHICKEN BREASTS, PERDUE® SHORT CUTS® GRILLED CHICKEN STRIPS, PERDUE® PERFECT PORTIONS® BONELESS SKINLESS CHICKEN BREAST ALL NATURAL. Chicken, turkey, pork, sauces, side dishes, snacks. Perdue sells a variety of chicken products including:\n\n* Perdue\n* Perdue Chicken Plus\n* Perdue Harvestland\n* Perdue Simply Smart Organics\n* Perdue Harvestland Free Range\n* Perdue Farms. Perdue® Beer Can Chicken, Perdue® Fresh Whole Chicken, Perdue® Fresh Boneless Skinless Chicken Breasts. Perdue chicken. PERDUE\nTHANKSNUGGETS® are the effortlessly delicious way to experience a holiday\nfeast. \nUseful info : - They are known for their antibiotic-free, no animal-by-products chicken, and their commitment to animal welfare.\n - Perdue also offers a variety of products, including fresh and frozen chicken, breaded and unbreaded chicken, and organic chicken.. Perdue has a strong commitment to sustainability. The company has set a goal of becoming the most sustainable protein company in the world by 2030. Perdue is also committed to providing a great workplace for its employees. The company has been recognized as one of the \"Best Places to Work\" by the Human Rights Campaign and the National Association for the Advancement of Colored People.. No Antibiotics Ever, Our chickens live healthy, antibiotic-free lives.. 1. Perdue has a strong commitment to animal welfare and sustainability.\n2. Perdue has been recognized for its efforts to reduce its environmental impact and to improve the well-being of its animals.. * Perdue became the number one producer of UDSA-Organic chicken in 2011.\n\n* Perdue led the industry in raising chickens with no antibiotics ever in 2017.\n\n* Perdue is the first large poultry producer to build a leading pasture-raised chicken program at scale to expand consumer access to pastured chicken.. If you need any help finding something, you can contact Perdue® from 9.00 AM to 6:30 pm EST, Monday - Friday.. - Perdue has spent 20 years testing, learning, and investing in practices that raise chickens in healthy environments, so they don’t need antibiotics.\n\n- Perdue uses a combination of pre- and probiotics, novel vaccine use and approach, obsession with cleanliness, house health vs farm health approach, and the encouragement of non-antibiotic therapies to combat the use of antibiotics."
+}
