@@ -25,7 +25,6 @@
 ├── modules                    # 데이터 수집, 전처리에 필요한 커스텀 모듈
 │   ├── data_collection        # 데이터 수집 모듈
 │   │   ├── __init__.py
-│   │   ├── __pycache__
 │   │   ├── data_collection.py
 │   │   ├── google_buyer_search.py
 │   │   ├── kotra_hscode_industry.py
