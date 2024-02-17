@@ -5,12 +5,16 @@ import layoutparser as lp
 import PIL
 import json
 import warnings
+import time
+import dotenv # 환경변수 프로젝트 단위로 불러오기
+
 from tqdm import tqdm
 from glob import glob
 from tqdm.auto import tqdm
 from typing import *
 from pymongo import MongoClient
-import dotenv # 환경변수 프로젝트 단위로 불러오기
+from openai import AzureOpenAI
+
 
 dotenv_file = dotenv.find_dotenv(os.path.join('config', '.env'))
 dotenv.load_dotenv(dotenv_file)
@@ -41,24 +45,55 @@ class OCRPreprocessing:
     
     @staticmethod
     def save_tmp_data(country: str, data: str, file_name: str, file_type="txt") -> None:
-        file_fullname = f"{file_name}.{file_type}"
+        
         """문자열을 텍스트 파일로 저장"""
         if file_type == "txt":
+            file_fullname = f"ocr_{file_name}.txt"
             with open(os.path.join(OCRPreprocessing.SAVE_DIR, 'txt', file_fullname), 'w') as file:
                 file.write(data)
             return
             
         if file_type == "json":
-            with open(os.path.join(OCRPreprocessing.SAVE_DIR, 'json', file_fullname), 'w') as json_file:
-                page_list = OCRPreprocessing.page_delimiter(data)
-                tmp_list = []
-                for page in page_list:
-                    tmp_list.append([{"file_name" : file_name, "page": page}])
-                json.dump({"country": country, "file_name": file_name, "page": page_list}, json_file, ensure_ascii=False, indent=4)
+            file_fullname = f'ocr_{file_name}_{page_num}.json'
+            # 페이지 나누기            
+            page_list = OCRPreprocessing.page_delimiter(data)
+            # print(page_list)
+            # print('page:', len(page_list))
+            # 개별 페이지 저장
+            for page_num, page in tqdm(enumerate(page_list, start=1)):
+                if len(page) > 1:  # 페이지의 내용이 있는 경우에만 JSON 파일 생성
+                    with open(os.path.join(OCRPreprocessing.SAVE_DIR, 'json', file_fullname), 'w') as json_file:
+                        json.dump({
+                            "country": country, 
+                            "file_name": file_name, 
+                            "page": page_num,
+                            "text_original": page,
+                            "embedding": OCRPreprocessing.get_embedding(page)
+                        }, json_file, ensure_ascii=False, indent=4)
+                    time.sleep(1)
+                # json.dump({"country": country, "file_name": file_name, "page": page_list}, json_file, ensure_ascii=False, indent=4)
+
             return
+
             
         raise Exception(f"타입 오류")
     
+    def get_embedding(text: str):
+        client = AzureOpenAI(
+                            api_key         = OCRPreprocessing.ADA2_EMBEDDING_API_KEY,
+                            api_version     = OCRPreprocessing.ADA2_EMBEDDING_API_VERSION,
+                            azure_endpoint  = OCRPreprocessing.AZURE_ENDPOINT
+                            )
+
+        deployment_name = OCRPreprocessing.DEPLOYMENT_NAME
+
+        # Send a completion call to generate an answer
+        response = client.embeddings.create(
+            input=text,
+            model=deployment_name,
+        )
+        return json.loads(response.model_dump_json(indent=2))['data'][0]['embedding']
+        
     @staticmethod        
     def save_data():
         """데이터를 몽고DB에 적재"""

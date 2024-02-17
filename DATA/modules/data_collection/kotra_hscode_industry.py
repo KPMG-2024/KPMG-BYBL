@@ -118,7 +118,6 @@ class HSCodeIndustryClient(DataCollection):
                         time.sleep(2)
                 except:
                     print("과도한 request요청으로 time sleep")
-                    idx += 1
                     time.sleep(20)
             # for idx in tqdm(range(len(hs_istans))):
             #     # hscode에 대한 상세정보를 가져옴

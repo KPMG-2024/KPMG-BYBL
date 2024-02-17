@@ -168,14 +168,19 @@ class KotraNewsClient(DataCollection):
             raise Exception(f"데이터가 존재하지 않습니다.")  
         
         content_list = [] # 데이터 저장할 리스트 생성
+        
         for item in tqdm(kotra_commodity_info):
             ntt_sn = item['NTT_SN']
             bbs_sn = item['BBS_SN']
 
-            params = f'&pNttSn={ntt_sn}&bbsSn={bbs_sn}'
-            url = KotraNewsClient.CONTENT_URL + params
-            response = response = KotraNewsClient.request(url, method='GET') # 데이터 요청
-            html_content = response.text
+            try:
+                params = f'&pNttSn={ntt_sn}&bbsSn={bbs_sn}'
+                url = KotraNewsClient.CONTENT_URL + params
+                response = response = KotraNewsClient.request(url, method='GET') # 데이터 요청
+                html_content = response.text
+            except:
+                print("과도한 요청으로 잠시 쉬어갑니다.")
+                time.sleep(10)
             
             try:
                 parsed_text = KotraNewsClient.parse_html_content(html_content)

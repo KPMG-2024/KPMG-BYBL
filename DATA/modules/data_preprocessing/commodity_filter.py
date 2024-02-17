@@ -3,23 +3,19 @@ import os
 import json
 import torch
 import pandas as pd
+import time
+import dotenv # 환경변수 프로젝트 단위로 불러오기
 from datetime import datetime
 from pytz import timezone
 from transformers import AutoModelForSequenceClassification, AutoTokenizer
 from typing import *
 from pymongo import MongoClient
+from openai import AzureOpenAI
+from tqdm.auto import tqdm
 
+dotenv_file = dotenv.find_dotenv('../config/.env')
+dotenv.load_dotenv(dotenv_file)
 
-
-# 1. 우선 구글에 서치된 파일들을 모두 로드
-
-# 2. 그것들을 모두 필터에 통과시킴
-
-# 3. 필터에 남은 파일들은 몽고 DB에 넣음!!
-
-# 3. 몽고 DB에 들어가야 할 데이터
-## 3.1 last-updated
-## 3.2 hscode
 ## 3.3
 class CommodityFilter():
     """
@@ -28,7 +24,11 @@ class CommodityFilter():
     SOURCE_DIR = os.path.join('raw', 'kotra', 'news', 'json')
     SAVE_DIR = os.path.join('output', 'commodity', 'json')
     GOOGLE_GEMINI_API_KEY = os.environ.get("GOOGLE_GEMINI_API_KEY")
-    
+    # embedding용 azure openai 환경변수
+    AZURE_ENDPOINT = os.environ.get("AZURE_ENDPOINT")
+    DEPLOYMENT_NAME = os.environ.get("DEPLOYMENT_NAME")
+    ADA2_EMBEDDING_API_KEY = os.environ.get("ADA2_EMBEDDING_API_KEY")
+    ADA2_EMBEDDING_API_VERSION = os.environ.get("ADA2_EMBEDDING_API_VERSION")
     # 해당 사이트는 크롤링을 허용하지 않는 경우가 있으므로, 크롤링을 허용하지 않는 사이트는 제외합니다.
 
     def __init__(self) -> None:
@@ -95,12 +95,27 @@ class CommodityFilter():
                 # prediction이 1인 것(관련 있는 것)만 가져오기
                 if predictions[0] == 1:
                     item['related_info'] = str(predictions[0]) # json 직렬화할때 오류 방지
-                    item['embeddings'] = []
                     final_data.append(item)
                     
                     
             self.save_tmp_data(final_data, hscode)
         
+    @staticmethod
+    def get_embedding(text: str):
+        client = AzureOpenAI(
+                            api_key         = CommodityFilter.ADA2_EMBEDDING_API_KEY,
+                            api_version     = CommodityFilter.ADA2_EMBEDDING_API_VERSION,
+                            azure_endpoint  = CommodityFilter.AZURE_ENDPOINT
+                            )
+
+        deployment_name = CommodityFilter.DEPLOYMENT_NAME
+
+        # Send a completion call to generate an answer
+        response = client.embeddings.create(
+            input=text,
+            model=deployment_name,
+        )
+        return json.loads(response.model_dump_json(indent=2))['data'][0]['embedding']
     
     @staticmethod        
     def save_data():
@@ -148,14 +163,19 @@ class CommodityFilter():
         nation_name = data[0]['NAT']
         last_updated = CommodityFilter.get_current_time()
         
+        for num, datum in tqdm(enumerate(data, start=1)):
+            if len(datum) > 1:  # 페이지의 내용이 있는 경우에만 JSON 파일 생성
+                with open(os.path.join(CommodityFilter.SAVE_DIR, f'{nation_name}_{num}.json'), 'w') as json_file:
+                    json.dump({
+                            "country": nation_name,
+                            "hscode": hscode,
+                            "last_updated": last_updated,
+                            "data" : datum,
+                            "text" : datum['content'],
+                            "embedding": CommodityFilter.get_embedding(datum['content'])
+                            }, json_file, ensure_ascii=False, indent=4)
+                time.sleep(1)
 
-        with open(os.path.join(CommodityFilter.SAVE_DIR, f"{nation_name}.json"), 'w') as json_file:
-            json.dump({
-                "country": nation_name,
-                "hscode": hscode,
-                "last_updated": last_updated,
-                "data" : data,
-                }, json_file, ensure_ascii=False, indent=4)
     
 
 if __name__ == "__main__" :
