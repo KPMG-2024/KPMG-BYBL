@@ -19,7 +19,7 @@ cd ..
 conda activate [your venv name]
 ```
 
-### 4. 실행
+### 4. 서비스 실행
 ```bash
 npm start
 ```
