@@ -8,28 +8,6 @@
   - RAG 기반 질의응답 챗봇 서비스
   - Cold-Mail 자동 작성 서비스
 
-
-## 🖥️ Service
-
-### 1. 해외시장 및 바이어 조사 자동화
-- **국제통일상품분류체계**(이하 HSCODE)를 기반으로 작동
-- 수출 기업이 주로 수출하는 상품의 HSCODE를 입력하면 해당 상품과 관련있는 유망시장 정보, 국가 및 상품정보, 바이어 정보를 한번에 수집, 데이터베이스화
-- 고객과 관련 있는 정보만 자동으로 수집, 저장하여 대시보드 및 챗봇, Cold-Mail 작성 서비스의 기반이 됨
-- 데이터 출처 : 대한무역투자진흥공사(KOTRA) 및 한국무역보험공사(K-SURE)
-![image](https://github.com/KPMG-2024/KPMG-BYBL/assets/62554639/482c9587-8e23-41ff-a93c-4bfd6a9679d8)
-
-### 2. RAG 기반 질의응답 챗봇 서비스
-- 데이터 수집 단계에서 수집된 각종 정보들과 생성형 AI를 기반으로 해외시장 정보, 바이어 정보 등 필요한 정보에 대해 질의응답하는 서비스
-- 사전 구축한 DB 및 RAG를 바탕으로 생성형 AI를 사용하면서 발생하는 **할루시네이션(Hallucination) 현상을 최소화하며 사용자에게 필요한 정보를 제공**
-- 추가로 검색 및 질의응답에서 얻은 대화 내용을 저장할 수 있는 아카이브를 제공하여 필요한 정보 다시 볼 수 있을뿐만 아니라 아카이브를 기반으로 질의응답할 수 있도록하여 편의성 높임
-![image](https://github.com/KPMG-2024/KPMG-BYBL/assets/62554639/d3e805c0-ff42-4826-9236-2c3b0fd8542b)
-
-### 3. Cold Mail 작성 서비스
-- 사전 구축한 바이어 DB에 대한 정보를 바탕으로 **잠재 바이어 맞춤형 콜드 메일 초안** 생성
-- 바이어의 회사 및 주력 상품 정보, 언어 등을 토대로 이메일 제목 및 본문을 생성 뿐만 아니라 전송도 할 수 있는 One-Stop 서비스
-- 비즈니스 환경을 고려하여 이메일 제목 뿐만 아니라 본문을 잘 생성할 수 있도록 프롬프트 엔지니어링
-![image](https://github.com/KPMG-2024/KPMG-BYBL/assets/62554639/0d0cce83-d11d-4ae6-ba2e-41971bd11db3)
-
 ## 📁 Structure
 - `DATA` : 데이터 수집, 가공 파이프라인 코드 모음
 - `MODEL` : 필터링 모델 훈련 코드 모음
@@ -67,5 +45,28 @@
 <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
 <img alt="Beautiful Soup" src="https://img.shields.io/badge/Beautiful_Soup-4E148C?style=for-the-badge&logo=beautifulsoup&logoColor=white">
 </div>
+
+
+## 🖥️ Service
+
+### 1. 해외시장 및 바이어 조사 자동화
+- **국제통일상품분류체계**(이하 HSCODE)를 기반으로 작동
+- 수출 기업이 주로 수출하는 상품의 HSCODE를 입력하면 해당 상품과 관련있는 유망시장 정보, 국가 및 상품정보, 바이어 정보를 한번에 수집, 데이터베이스화
+- 고객과 관련 있는 정보만 자동으로 수집, 저장하여 대시보드 및 챗봇, Cold-Mail 작성 서비스의 기반이 됨
+- 데이터 출처 : 대한무역투자진흥공사(KOTRA) 및 한국무역보험공사(K-SURE)
+![image](https://github.com/KPMG-2024/KPMG-BYBL/assets/62554639/482c9587-8e23-41ff-a93c-4bfd6a9679d8)
+
+### 2. RAG 기반 질의응답 챗봇 서비스
+- 데이터 수집 단계에서 수집된 각종 정보들과 생성형 AI를 기반으로 해외시장 정보, 바이어 정보 등 필요한 정보에 대해 질의응답하는 서비스
+- 사전 구축한 DB 및 RAG를 바탕으로 생성형 AI를 사용하면서 발생하는 **할루시네이션(Hallucination) 현상을 최소화하며 사용자에게 필요한 정보를 제공**
+- 추가로 검색 및 질의응답에서 얻은 대화 내용을 저장할 수 있는 아카이브를 제공하여 필요한 정보 다시 볼 수 있을뿐만 아니라 아카이브를 기반으로 질의응답할 수 있도록하여 편의성 높임
+![image](https://github.com/KPMG-2024/KPMG-BYBL/assets/62554639/d3e805c0-ff42-4826-9236-2c3b0fd8542b)
+
+### 3. Cold Mail 작성 서비스
+- 사전 구축한 바이어 DB에 대한 정보를 바탕으로 **잠재 바이어 맞춤형 콜드 메일 초안** 생성
+- 바이어의 회사 및 주력 상품 정보, 언어 등을 토대로 이메일 제목 및 본문을 생성 뿐만 아니라 전송도 할 수 있는 One-Stop 서비스
+- 비즈니스 환경을 고려하여 이메일 제목 뿐만 아니라 본문을 잘 생성할 수 있도록 프롬프트 엔지니어링
+![image](https://github.com/KPMG-2024/KPMG-BYBL/assets/62554639/0d0cce83-d11d-4ae6-ba2e-41971bd11db3)
+
 
 
