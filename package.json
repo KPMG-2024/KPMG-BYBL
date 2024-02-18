@@ -1,0 +1,21 @@
+{
+  "scripts": {
+    "server": "cd BE",
+    "client": "cd FE && npm run dev",
+    "start": "concurrently --kill-others-on-fail \"((command -v python > /dev/null && python BE/app.py) || python3 BE/app.py)\" \"npm run client\""
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.1.1",
+    "axios": "^1.6.7",
+    "concurrently": "^8.2.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.1.1",
+    "nodemon": "^3.0.3"
+  }
+}
