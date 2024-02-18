@@ -2,11 +2,13 @@
 
 
 <p align="center">
-  <img src="https://github.com/KPMG-2024/KPMG-BYBL/assets/62554639/1f08a2e0-baf1-4cb0-ac03-f4737b9e47af" alt="BYBL Image">
+  <img src="https://github.com/KPMG-2024/KPMG-BYBL/assets/62554639/1f08a2e0-baf1-4cb0-ac03-f4737b9e47af" alt="BYBL Image" width="500">
 </p>
-<p align="center">
-  <span style="font-size:24px;">수출 기업을 위한 업무 자동화 솔루션: BYBL</span>
-</p>
+
+<div align=center>
+<h3>수출 기업을 위한 업무 자동화 솔루션: BYBL</h3>
+</div>
+
 
 
 ## 📚 OverView
