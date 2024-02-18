@@ -1,5 +1,13 @@
-# KPMG-BYBL
-수출 기업을 위한 업무 자동화 솔루션 Bible
+# BYBL : Beyond Your Border with LLM
+
+
+<p align="center">
+  <img src="https://github.com/KPMG-2024/KPMG-BYBL/assets/62554639/1f08a2e0-baf1-4cb0-ac03-f4737b9e47af" alt="BYBL Image">
+</p>
+<p align="center">
+  <span style="font-size:24px;">수출 기업을 위한 업무 자동화 솔루션: BYBL</span>
+</p>
+
 
 ## 📚 OverView
 - 수출 기업들의 바이어 발굴, 해외시장 정보 등 각종 정보 수집의 어려움을 해결하고 업무 효율을 높이고자 제안
