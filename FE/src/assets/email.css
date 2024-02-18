@@ -1,0 +1,22 @@
+.search-input-container {
+    position: relative;
+    display: flex;
+  }
+  
+  .form-input {
+    padding-right: 30px; /* 돋보기 아이콘에 대한 공간 확보 */
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+
+  .suggestions-list {
+    position: absolute;
+    top: 100%; /* `input` 필드의 하단에 바로 위치하도록 설정 */
+    left: 10;
+    width: 100%; /* 부모 요소의 너비와 동일하게 설정 */
+    margin-right: 10px; /* 마진 래프트 추가 */
+  }
+  
