@@ -1,0 +1,8 @@
+flask == 3.0.2
+flask_cors == 4.0.0
+python-dotenv == 1.0.1
+pymongo == 4.6.1
+certifi == 2024.2.2
+langchain == 0.1.7
+langchain_openai == 0.0.6
+langchain_google_genai == 0.0.9
