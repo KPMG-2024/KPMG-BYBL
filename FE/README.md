@@ -1,58 +1,25 @@
-# ChatGPT-Pro
+## 실행 방법
+- 해당 서비스는 프론트엔드와 백엔드 서버 모두 npm을 활용해 동시 실행하도록 구성
 
-ChatGPT-Pro is an advanced application that combines the power of ChatGPT and DALL.E. With this app, you have the flexibility to switch between ChatGPT versions. One of the standout features of ChatGPT-Pro is its ability to save chat conversations to local storage.
-
-## One-Click Deploy
-
-### Deploy to Netlify
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/EyuCoder/chatgpt-clone)
-
-### Deploy to Vercel
-
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/EyuCoder/chatgpt-clone&project-name=chatgpt-and-dalle&repo-name=chatgpt-clone)
-
-_you can checkout the app [here](https://chatgpt.eyucoder.com/)_
-
-> a demo of the App
-
-<!-- https://user-images.githubusercontent.com/26358650/212903093-08c58f9b-25b5-440d-89e7-7a4b1f36df5a.mp4 -->
-<img src="demo/demo.gif" width="800px" alt="android icon"/>
-
-**Give it a ⭐ if you liked it 😜**
-
-### Features
-
-- [x] gpt 3.5 and 4
-- [x] dall.e image generator
-- [x] save chat to localstorage
-- [x] chat context
-
-## If you find this project helpful, you can buy me a coffee here
-
-<a href="https://www.buymeacoffee.com/eyuel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 150px !important;" ></a>
-
-## install
-
+### 1. 라이브러리 설치
 ```bash
 npm install
 ```
 
-## start app
-
-```bash
-npm run dev
+### 2. Front-End 라이브러리 설치
+```bach
+cd FE ## FE 폴더에 들어가서 다시 의존성 패키지 설치
+npm install
+cd ..
 ```
 
-**_Tech used_**
+### 3. Back-End 가상환경 실행
+- 사전에 가상환경을 만들어 놓은 후 의존성 라이브러리 설치(BE README.md 참조)
+```
+conda activate [your venv name]
+```
 
-- openai API
-- Langchain
-- React with Vite
-- TailwindCSS with DaisyUI
-- react-icons
-- react-markdown
-
-## 📝 License © [Eyuel](https://linkedin.com/in/eyuel-daniel)
-
-> This project is released under the Apache License 2.0 license. See [LICENSE](./LICENSE) for details.
+### 4. 실행
+```bash
+npm start
+```
