@@ -17,7 +17,16 @@ from torch.utils.data import Dataset
 from transformers import AutoTokenizer
 from sklearn.metrics import f1_score, accuracy_score
 
-with open('/backup/taewon/Robust_sum/data/data_practice.json') as json_file:
+"""
+코트라 해외시장정보 상품DB 데이터가 그 데이터 내용을 바탕으로 gpt가 생성한 hscode 앞 4자리와 관련 있는지 없는지 확인하는 코드
+- 0 : 상품정보가 hscode 앞 4자리와 관련 있다.
+- 1 : 상품정보가 hscode 앞 4자리와 관련 없다.
+"""
+
+DATA_DIR = os.path.join('data', 'data_practice.json') # 훈련 데이터가 담겨 있는 데이터 모델
+SAVE_DIR = os.path.join('save') # 튜닝한 모델이 담겨있는 디렉토리
+
+with open(DATA_DIR) as json_file:
     data = []
     for line in json_file:
         data.append(json.loads(line))
@@ -169,7 +178,7 @@ def main():
     valid_loader = DataLoader(valid_dataset, batch_size=16, shuffle=False)
     model = AutoModelForSequenceClassification.from_pretrained("FacebookAI/xlm-roberta-base", num_labels=2)
     training(train_loader, valid_loader, model, epochs=10)
-    torch.save(model, '/backup/taewon/Robust_sum/model2/model.pt')
+    torch.save(model, SAVE_DIR) # 로컬에 임시 저장
 
 if __name__ == "__main__":
     set_seed(2024)

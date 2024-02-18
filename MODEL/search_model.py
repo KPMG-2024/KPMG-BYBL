@@ -17,7 +17,17 @@ from torch.utils.data import Dataset
 from transformers import AutoTokenizer
 from sklearn.metrics import f1_score, accuracy_score
 
-with open('/backup/taewon/Robust_sum/data/practice.json') as json_file:
+"""
+바이어와 관련있는 구글 검색 결과 필터링 모델
+- 0 : 해당 바이어와 관련없다
+- 1 : 중립
+- 2 : 해당 바이어와 관련있다
+"""
+
+DATA_DIR = os.path.join('data', 'practice.json') # 훈련 데이터가 담겨 있는 데이터 모델
+SAVE_DIR = os.path.join('save') # 튜닝한 모델이 담겨있는 디렉토리
+
+with open(DATA_DIR) as json_file:
     data = []
     for line in json_file:
         data.append(json.loads(line))
@@ -148,7 +158,7 @@ def main():
     valid_loader = DataLoader(valid_dataset, batch_size=16, shuffle=False)
     model = AutoModelForSequenceClassification.from_pretrained("FacebookAI/xlm-roberta-base", num_labels=3)
     training(train_loader, valid_loader, model, epochs=10)
-    torch.save(model, '/backup/taewon/Robust_sum/model2/model.pt')
+    torch.save(model, SAVE_DIR)
 
 if __name__ == "__main__":
     set_seed(2024)
