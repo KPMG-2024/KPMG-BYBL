@@ -30,6 +30,7 @@ class CommodityFilter():
     DEPLOYMENT_NAME = os.environ.get("DEPLOYMENT_NAME")
     ADA2_EMBEDDING_API_KEY = os.environ.get("ADA2_EMBEDDING_API_KEY")
     ADA2_EMBEDDING_API_VERSION = os.environ.get("ADA2_EMBEDDING_API_VERSION")
+    MONGODB_URL = os.environ.get("MONGODB_URL")
 
     def __init__(self) -> None:
         if not os.path.exists(CommodityFilter.SAVE_DIR):
@@ -121,7 +122,7 @@ class CommodityFilter():
     def save_data():
         """데이터를 몽고DB에 적재"""
         # 몽고 DB 클라이언트 설정
-        client = MongoClient("mongodb+srv://kpmg_bybl:bybl123@buyer.mcsjesd.mongodb.net/?retryWrites=true&w=majority")
+        client = MongoClient(CommodityFilter.MONGODB_URL)
         # Specify the database and collection
         
         db = client["hscode"]
